@@ -5,7 +5,6 @@ permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
-# <link rel="shortcut icon" type="image/png" href="MW.png">
 
 # Layout
 
@@ -17,7 +16,7 @@ minimal: true              # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: Home, icon: home}
+  - {file: "index.md", title: Home, icon: home}
   - {file: "AboutMe.md", title: "About Me", icon: address-card}
   - {file: "Publications.md", title: "Publications", icon: pen}
   - {file: "Teaching.md", title: "Teaching", icon: chalkboard}
