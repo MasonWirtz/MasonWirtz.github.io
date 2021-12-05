@@ -1,12 +1,6 @@
 ---
 layout: page
 title: "About Me"
-img {
-  object-fit: cover;
-  border-radius:50%;
-  width: 150px;
-  height: 150px;
-}
 ---
 
 <img src="Small Photo.png" style="height: 190px; width:140px;" />
