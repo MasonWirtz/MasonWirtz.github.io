@@ -51,8 +51,8 @@ On this website you can find my (scientific) biography and information about my 
     </div>
   </li>
   
-     <li>
-    <div class="description">
+   <li>
+     <div class="description">
       <p class="course">06/2018–10/2018 <br> Exchange Semester</p>
       <p class="institution">Freie Universität Berlin, Germany</p>
     </div>
