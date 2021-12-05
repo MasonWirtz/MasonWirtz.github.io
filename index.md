@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Mason A. Wirtz"
+title: "Mason A. Wirtz, MA"
 ---
 
 <p align="center">
