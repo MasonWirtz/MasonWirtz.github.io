@@ -3,6 +3,21 @@ layout: page
 title: ""
 ---
 
+<div class="cols-2">
+  <div class="col-left">
+  <img class="avatar" src="/Bewerbungsfoto.jpg" alt="Avatar">
+  </div>
+  <div class="col-right">
+    <div class="avatar-info">
+      <h2>Stefano Coretta</h2>
+      <h4>Senior Teaching Coordinator (Statistics)</h4>
+      <h4 id="institute">University of Edinburgh</h4>
+      <h4 id="my-email"><a href = "mailto: s.coretta@ed.ac.uk">s.coretta@ed.ac.uk</a></h4>
+      <a href="https://twitter.com/StefanoCoretta"><i class="fa fa-2x fa-twitter"></i></a> <a href="https://github.com/stefanocoretta"><i class="fa fa-2x fa-github"></i></a> <a href="https://osf.io/profile/"><i class="ai ai-osf ai-2x"></i></a>
+    </div>
+  </div>
+</div>
+
 My name is Mason Wirtz and I am a doctoral candidate at the University of Salzburg with a focus on (variationist) sociolinguistics and second language acquisition.
 
 In my current research, I explore how native English speakers learning German as a second language acquire sociolinguistic competence in the Bavarian-Austrian context and which dynamic constellation(s) of linguistic, socioaffective and cognitive factors influence this. 
