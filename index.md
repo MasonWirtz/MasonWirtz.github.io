@@ -2,8 +2,9 @@
 layout: page
 title: ""
 ---
+
 ------------
-Mason A. Wirtz, MA
+# Mason A. Wirtz, MA
 ------------
 
 <p align="center">
