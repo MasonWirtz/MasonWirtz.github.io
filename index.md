@@ -3,11 +3,8 @@ layout: page
 title: ""
 ---
 
-# Welcome! 
-# Herzlich Willkommen!
-
 --------------
-# Mason A. Wirtz
+# Mason A. Wirtz, MA
 --------------
 
 My name is Mason Wirtz and I am a doctoral candidate at the University of Salzburg with a focus on (variationist) sociolinguistics and second language acquisition.
