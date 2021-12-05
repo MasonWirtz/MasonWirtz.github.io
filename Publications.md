@@ -5,6 +5,14 @@ title: "Publications"
 
 ## Books/Theses
 
+| in prep. | **Sociolinguistic competence in adult second language acquisition. Dynamics of linguistic, socioaffective and cognitive factors in sociolinguistic development.** |
+|----------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|          |                                                                                                                                                                   |
+|          |                                                                                                                                                                   |
+|          |                                                                                                                                                                   |
+|          |                                                                                                                                                                   |
+|          |                                                                                                                                                                   |
+|          |                                                                                                                                                                   |
 
 Wirtz, Mason A. (in prep.)
 
