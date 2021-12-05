@@ -3,6 +3,8 @@ layout: page
 title: "Publications"
 ---
 
+{{< osi-notice >}}
+
 ## Books/Theses
 
 | | |
