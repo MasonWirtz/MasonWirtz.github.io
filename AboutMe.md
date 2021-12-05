@@ -3,12 +3,11 @@ layout: page
 title: "About Me"
 ---
 
-<style>
-.avatar {
-  vertical-align: middle;
-  width: 50px;
-  height: 50px;
-  border-radius: 50%;
+img {
+  object-fit: cover;
+  border-radius:50%;
+  width: 150px;
+  height: 150px;
 }
 <img class="avatar" src="Small Photo.png" alt="Avatar" style="height: 190px; width:140px;">
 
