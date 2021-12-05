@@ -25,8 +25,7 @@ On this website you can find my (scientific) biography and information about my 
 <ul class="ul-interests">
   <li>
     <div class="description">
-      <p class="course">09/2020–present <br> Doctoral Program in (German) Linguistics</p>
-      <p class="institution">Paris Lodron University of Salzburg, Austria</p>
+      <p class="course">09/2020–present <br> Doctoral Program in (German) Linguistics <br> Paris Lodron University of Salzburg, Austria</p>
     </div>
   </li>
 
