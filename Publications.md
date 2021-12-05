@@ -3,6 +3,10 @@ layout: page
 title: "Publications"
 ---
 
+<p align="center">
+  <img width="200" height="200" src="/IMG_6441-modified.png">
+</p>
+
 ----------------
 # Books/Theses
 ----------------
