@@ -27,5 +27,3 @@ I am also interested in other related fields, such as digital humanities and sta
 - Acquisition of Sociolinguistic Competence
 - Research Methods and Statistics
 - Virtual Reality
-
-
