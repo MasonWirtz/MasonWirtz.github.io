@@ -4,7 +4,7 @@ title: ""
 ---
 
 <p align="center">
-  <img width="200" height="200" src="Small Photo-modified.png">
+  <img width="200" height="200" src="/Small Photo-modified.png" />
 </p>
 
 --------------
