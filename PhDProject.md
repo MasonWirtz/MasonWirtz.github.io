@@ -27,4 +27,4 @@ The goals sketched in the previous section are of considerable theoretical and p
 
 - How do different varieties of English and the speakers’ accompanying language ideologies and identities differently manifest in or differently impact the sociolinguistic acquisition process?
 
-(Learn more!){https://masonawirtz.wixsite.com/dynsc}
+[Learn more!](https://masonawirtz.wixsite.com/dynsc)
