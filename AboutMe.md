@@ -3,8 +3,9 @@ layout: page
 title: "About Me"
 ---
 
-<img src="Small Photo-modified.png" width="190px" height="190px">
-
+<p align="center">
+  <img width="200" height="200" src="Small Photo-modified.png">
+</p>
 
 I am a PhD candidate at the University of Salzburg, Austria. Before I began my degree(s) at the University of Salzburg, I held teaching positions at Salzburg College (Austria) and two teaching/research assistantships at Bowling Green State University (Ohio, USA). I received my Bachelor's degree in German Studies, an individualized minor in Translation and Intermediality as well as a Master's degree in German Studies with a focus on variationist sociolinguistics and second language acquisition from Bowling Green State University. 
 
