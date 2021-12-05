@@ -1,8 +1,6 @@
 ---
 layout: page
 title: "Publications"
-categories: []
-tags: []
 ---
 
 ## Books/Theses
