@@ -5,10 +5,6 @@ title: "PhD Project"
 
 # Sociolinguistic competence in adult second language acquisition. <br> Dynamics of linguistic, socioaffective and cognitive factors in sociolinguistic development
 
-<p align="center">
-  <img width="200" height="200" src="/IMG_6441-modified.png">
-</p>
-
 -----------
 # Rationale
 -----------
