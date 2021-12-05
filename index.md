@@ -1,8 +1,10 @@
 ---
 layout: page
-title: "Mason A. Wirtz, MA"
-<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+title: ""
 ---
+------------
+Mason A. Wirtz, MA
+------------
 
 <p align="center">
   <img width="200" height="200" src="/Small Photo-modified.png" />
