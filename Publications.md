@@ -7,11 +7,17 @@ title: "Publications"
 
 
 Wirtz, Mason A. (in prep.)
-
-Sociolinguistic competence in adult second language acquisition. Dynamics of linguistic, socioaffective and cognitive factors in sociolinguistic development. 
+*Sociolinguistic competence in adult second language acquisition. Dynamics of linguistic, socioaffective and cognitive factors in sociolinguistic development.* 
 PhD thesis
 
 Wirtz, Mason A. (2020)
-
-Strategieneinsatz zum Erwerb rezeptiver Varietätenkompetenzen im mittelbairischen Dialektgebiet. 
+*Strategieneinsatz zum Erwerb rezeptiver Varietätenkompetenzen im mittelbairischen Dialektgebiet.* 
 OhioLink: Online repository for Masters' and PhD theses
+
+# Journal articles
+
+Wirtz, Mason A. (under review)
+Discourse completion tasks meet virtual reality: A pilot study on virtual reality as an elicitation instrument.
+submitted to *Second Language Research*
+
+
