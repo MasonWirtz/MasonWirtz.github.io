@@ -14,6 +14,8 @@ show_sidebar: true         # show a sidebar instead of the usual header
 minimal: true              # use a dark header
 
 # Menu
+<i class="fas fa-home"></i>
+
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: Home, sidebaricon: "home"}
