@@ -1,7 +1,9 @@
 ---
 layout: page
-title: "Sociolinguistic competence in adult second language acquisition. <br> Dynamics of linguistic, socioaffective and cognitive factors in sociolinguistic development"
+title: ""
 ---
+
+# Sociolinguistic competence in adult second language acquisition. <br> Dynamics of linguistic, socioaffective and cognitive factors in sociolinguistic development
 
 # Rationale
 
