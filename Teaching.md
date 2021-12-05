@@ -15,8 +15,7 @@ and German) and translation studies, both in face-to-face and online formats.
 Below, you can find a list of all the courses I have taught. 
 
 -------------------
-### Post-Secondary Teaching
-Language courses
+### Post-Secondary Teaching <br> Language courses
 -------------------
 - **Beginning German I: Personal World** <br> Summer Semester 2020; Fall Semester 2020 <br> Salzburg College
 - **Beginning German II: The German-Speaking World** <br> Spring Semester 2020; Summer Semester 2020; Fall Semester 2020 <br> Salzburg College
@@ -25,22 +24,19 @@ Language courses
 - **Reading, Writing, Translating** <br> Fall Semester 2020 <br> Salzburg College
 
 -------------------
-### Post-Secondary Teaching
-Academic writing
+### Post-Secondary Teaching <br> Academic writing
 -------------------
 - **Rhetoric and Composition I** <br> Fall Semester 2020 <br> Salzburg College
 - **Rhetoric and Composition II** <br> Fall Semester 2020 <br> Salzburg College
 
 -------------------
-### Post-Secondary Teaching
-Linguistics and history
+### Post-Secondary Teaching <br> Linguistics and history
 -------------------
 - **Language and Culture** <br> Fall Semester 2020 <br> Salzburg College
 - **History of the Western World: Problems of the Human Past** <br> Fall Semester 2020 <br> Salzburg College
 
 -------------------
-### Adult Education
-Language courses
+### Adult Education <br> Language courses
 -------------------
 - **German language course: Level A1** <br> LernCENTER Progredere
 - **German language course: Level A2** <br> LernCENTER Progredere
