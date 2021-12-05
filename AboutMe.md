@@ -3,7 +3,6 @@ layout: page
 title: "About Me"
 ---
 
-<meta name="viewport" content="width=device-width, initial-scale=1">
 <style>
 .avatar {
   vertical-align: middle;
