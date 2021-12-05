@@ -10,9 +10,9 @@ title: ""
 # Mason A. Wirtz
 --------------
 
-My name is Mason Wirtz and I am a doctoral candidate at the University of Salzburg with a focus on (variationist) sociolinguistics and second language acquisition.
+| ![Flowers](Bewerbungsfoto.png) | I am text to the right |
 
-<img style="float: right;" src="Bewerbungsfoto.png">
+My name is Mason Wirtz and I am a doctoral candidate at the University of Salzburg with a focus on (variationist) sociolinguistics and second language acquisition.
 
 In my current research, I explore how native English speakers learning German as a second language acquire sociolinguistic competence in the Bavarian-Austrian context and which dynamic constellation(s) of linguistic, socioaffective and cognitive factors influence this. 
 
