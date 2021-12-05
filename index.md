@@ -31,36 +31,31 @@ On this website you can find my (scientific) biography and information about my 
 
   <li>
     <div class="description">
-      <p class="course">10/2021–present <br> Certificate Program: Applied Statistics</p>
-      <p class="institution">Paris Lodron University of Salzburg, Austria</p>
+      <p class="course">10/2021–present <br> Certificate Program: Applied Statistics <br> Paris Lodron University of Salzburg, Austria</p>
     </div>
   </li>
 
   <li>
     <div class="description">
-      <p class="course">09/2019–05/2020 <br> Master of Arts in German Studies</p>
-      <p class="institution">Bowling Green State University, USA (GPA: 1,00) </p>
+      <p class="course">09/2019–05/2020 <br> Master of Arts in German Studies <br> Bowling Green State University, USA (GPA: 1,00)</p>
     </div>
   </li>
 
    <li>
     <div class="description">
-      <p class="course">03/2019–11/2020 <br> Certificate Program: German as a Second/Foreign Language</p>
-      <p class="institution">Paris Lodron University of Salzburg, Austria (GPA: 1,16)</p>
+      <p class="course">03/2019–11/2020 <br> Certificate Program: German as a Second/Foreign Language <br> Paris Lodron University of Salzburg, Austria (GPA: 1,16)</p>
     </div>
   </li>
   
    <li>
      <div class="description">
-      <p class="course">06/2018–10/2018 <br> Exchange Semester</p>
-      <p class="institution">Freie Universität Berlin, Germany</p>
+      <p class="course">06/2018–10/2018 <br> Exchange Semester <br> Freie Universität Berlin, Germany</p>
     </div>
   </li>
   
   <li>
     <div class="description">
-      <p class="course">09/2017–07/2019 <br> Bachelor of Arts in German Studies</p>
-      <p class="institution">Bowling Green State University, USA (GPA: 1,50) </p>
+      <p class="course">09/2017–07/2019 <br> Bachelor of Arts in German Studies <br> Bowling Green State University, USA (GPA: 1,50)</p>
     </div>
   </li>
  </ul>
