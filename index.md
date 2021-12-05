@@ -1,11 +1,7 @@
 ---
 layout: page
-title: ""
+title: "Mason A. Wirtz"
 ---
-
-------------
-# Mason A. Wirtz, MA
-------------
 
 <p align="center">
   <img width="200" height="200" src="/Small Photo-modified.png" />
