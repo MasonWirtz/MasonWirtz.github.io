@@ -1,9 +1,9 @@
 ---
 layout: page
 title: "Publications"
+categories: []
+tags: []
 ---
-
-{{< osi-notice >}}
 
 ## Books/Theses
 
