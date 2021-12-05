@@ -9,11 +9,11 @@ title: ""
   </div>
   <div class="col-right">
     <div class="avatar-info">
-      <h2>Stefano Coretta</h2>
-      <h4>Senior Teaching Coordinator (Statistics)</h4>
-      <h4 id="institute">University of Edinburgh</h4>
-      <h4 id="my-email"><a href = "mailto: s.coretta@ed.ac.uk">s.coretta@ed.ac.uk</a></h4>
-      <a href="https://twitter.com/StefanoCoretta"><i class="fa fa-2x fa-twitter"></i></a> <a href="https://github.com/stefanocoretta"><i class="fa fa-2x fa-github"></i></a> <a href="https://osf.io/profile/"><i class="ai ai-osf ai-2x"></i></a>
+      <h2>Mason A. Wirtz</h2>
+      <h4>PhD Candidate</h4>
+      <h4 id="institute">University of Salzburg</h4>
+      <h4 id="my-email"><a href = "mailto: wirtz.a.mason@gmail.com">wirtz.a.mason@gmail.com</a></h4>
+      <a href="https://twitter.com/MasonWirtz"><i class="fa fa-2x fa-twitter"></i></a> <a href="https://github.com/MasonWirtz"><i class="fa fa-2x fa-github"></i></a> <a href="https://osf.io/profile/"><i class="ai ai-osf ai-2x"></i></a>
     </div>
   </div>
 </div>
