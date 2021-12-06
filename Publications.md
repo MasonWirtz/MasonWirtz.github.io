@@ -35,7 +35,7 @@ Wirtz, Mason A. (accepted) <br> **Understanding Austria from Afar: Treating Regi
 
 Wirtz, Mason A. / Unterberger, Eugen <br> **Red' Deutsch mit mir! Zur mehrsprachigen Vermittlung statistischer Ergebnisse** <br> Presented at: *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens* <br> Salzburg, Austria <br> 22.10.2021
 
-Wirtz, Mason A. <br> **Discourse completion tasks meet virtual reality: A standalone researcher's new best friend?** <br> Presented at: *STaPs 18 (Sprachwissenschaftliche Tagung für Promotionsstudierende)* <br> Salzburg, Austria <br> 24.09.2021 <br> [slides](master/publications/Discourse completion tasks meet virtual reality.pdf)
+Wirtz, Mason A. <br> **Discourse completion tasks meet virtual reality: A standalone researcher's new best friend?** <br> Presented at: *STaPs 18 (Sprachwissenschaftliche Tagung für Promotionsstudierende)* <br> Salzburg, Austria <br> 24.09.2021 <br> [slides](/publications/Discourse completion tasks meet virtual reality.pdf)
 
 Wirtz, Mason A. <br> **Acquiring sociodialectal competence in a second language – one learner belief at a time** <br> Presented at: *Variation in Language Acquisition (ViLA)* <br> Rorschach, Switzerland <br> 02.06.2021
 
