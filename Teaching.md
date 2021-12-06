@@ -19,28 +19,37 @@ This page houses a list of courses I have taught.
 ### Post-Secondary Teaching <br> Language courses
 -------------------
 - **Beginning German I: Personal World** <br> Summer Semester 2020; Fall Semester 2020 <br> Salzburg College
+
 - **Beginning German II: The German-Speaking World** <br> Spring Semester 2020; Summer Semester 2020; Fall Semester 2020 <br> Salzburg College
+
 - **Intermediate German I** <br> Spring semester 2020 <br> Salzburg College
+
 - **Advanced German II** <br> Spring Semester 2020 <br> Salzburg College
+
 - **Reading, Writing, Translating** <br> Fall Semester 2020 <br> Salzburg College
 
 -------------------
 ### Post-Secondary Teaching <br> Academic writing
 -------------------
 - **Rhetoric and Composition I** <br> Fall Semester 2020 <br> Salzburg College
+
 - **Rhetoric and Composition II** <br> Fall Semester 2020 <br> Salzburg College
 
 -------------------
 ### Post-Secondary Teaching <br> Linguistics and history
 -------------------
 - **Language and Culture** <br> Fall Semester 2020 <br> Salzburg College
+
 - **History of the Western World: Problems of the Human Past** <br> Fall Semester 2020 <br> Salzburg College
 
 -------------------
 ### Adult Education <br> Language courses
 -------------------
 - **German language course: Level A1** <br> LernCENTER Progredere
+
 - **German language course: Level A2** <br> LernCENTER Progredere
+
 - **German language course: Level B1** <br> LernCENTER Progredere
+
 - **German language course: Level B2** <br> LernCENTER Progredere
 
