@@ -11,10 +11,9 @@ While teaching is often difficult, I could hardly imagine any other profession.
  
 Since I was in school, I have always had a passion for teaching, first about music, then math and now in the field of languages (English and German).
 
-So far I have taught in a wide variety of contexts and areas. In terms of language teaching, I have taught German and English both in the Anglo-American and in the Austrian context. In Austria in particular, I have worked in many areas, from integration courses to teaching courses in the university context. In addition to pure language courses, this also includes courses on linguistic anthropology, academic writing (English 
-and German) and translation studies, both in face-to-face and online formats.
+To date, I have taught in a wide variety of areas, both in the Anglo-American and Austrian context. In Austria, I have led integration courses and taught in the university sector. In addition to pure English and German language acquisition coursework, I have also had the opportunity to lead proseminars with a focus on linguistic anthropology, academic writing (English and German) and translation study, both in face-to-face and online formats.  
 
-Below, you can find a list of all the courses I have taught. 
+This page houses a list of courses I have taught. 
 
 -------------------
 ### Post-Secondary Teaching <br> Language courses
