@@ -4,7 +4,7 @@ title: "Teaching"
 ---
 
 <p align="center">
-  <img width="200" height="200" src="/82c27ac1-b50e-4bc5-aff6-5437208f6149-modified.png">
+  <img width="200" height="200" src="/images/TeachingPhoto.png">
 </p>
 
 While teaching is often difficult, I could hardly imagine any other profession.
