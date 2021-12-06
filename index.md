@@ -4,7 +4,7 @@ title: "Mason A. Wirtz, MA"
 ---
 
 <p align="center">
-  <img width="200" height="200" src="/Small Photo-modified.png" />
+  <img width="200" height="200" src="/images/HomePhoto.png" />
 </p>
 
 My name is Mason Wirtz and I am a doctoral candidate at the University of Salzburg with a focus on (variationist) sociolinguistics and second language acquisition.
