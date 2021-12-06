@@ -43,5 +43,24 @@ Wirtz, Mason A. <br> **Acquiring sociodialectal competence in a second language 
 
 
 
+Wirtz, Mason A. (under review) <br> 
+<details> 
+  <summary>**Discourse completion tasks meet virtual reality: A pilot study on virtual reality as an elicitation instrument.**</summary> 
+  <pre>$ This dropdown contains<br>a code block!</pre>
+</details> 
+<br> Submitted to: *Second Language Research* <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
