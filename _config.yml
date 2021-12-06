@@ -18,7 +18,7 @@ minimal: true              # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: Home, icon: home}
   - {file: "AboutMe.md", title: "About Me", icon: address-card}
-  - {file: "Publications.md", title: "Publications", icon: pen}
+  - {file: "master/pages/Publications.md", title: "Publications", icon: pen}
   - {file: "master/pages/Teaching.md", title: "Teaching", icon: chalkboard}
   - {file: "PhDProject.md", title: "PhD Project", icon: book}
 # - {title: "PhD Project", url: "https://masonawirtz.wixsite.com/dynsc"}
