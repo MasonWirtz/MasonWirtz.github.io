@@ -107,17 +107,17 @@ DataCamp, online <br>
 - Summer 2021 <br>
 Paris Lodron University of Salzburg, Salzburg, Austria <br>
     - Analyzing data with R <br>
-    17.06–18.06.2021
-    - Academic journalism: How do I convey my scientific topics to a broad audience?
-    03.2021–06.2021
-    - Tools from project and time management
+    17.06–18.06.2021 <br>
+    - Academic journalism: How do I convey my scientific topics to a broad audience? <br>
+    03.2021–06.2021 <br>
+    - Tools from project and time management <br>
     03.2021–06.2021
 
-- Winter 2020.21
-Paris Lodron University of Salzburg, Salzburg, Austria
-    - Concepts of responsible research and innovation
-    10.2020–01.2021
-    - Qualitative Research Methods: Conversational Interviewing
+- Winter 2020.21 <br>
+Paris Lodron University of Salzburg, Salzburg, Austria <br>
+    - Concepts of responsible research and innovation <br>
+    10.2020–01.2021 <br>
+    - Qualitative Research Methods: Conversational Interviewing <br>
     11/2020–12/2020
 
 
