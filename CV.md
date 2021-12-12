@@ -10,11 +10,14 @@ title: "CV"
 ----------------
 # Education
 ----------------
-- 09.2020 – present <br> Paris Lodron University of Salzburg, Austria <br> Doctoral Program in (German) Linguistics
+- 09.2020 – present <br> 
+Paris Lodron University of Salzburg, Austria <br> Doctoral Program in (German) Linguistics
 
-- 10.2021 – present <br> Paris Lodron University of Salzburg, Austria <br> Certificate Program: Applied Statistics
+- 10.2021 – present <br> 
+Paris Lodron University of Salzburg, Austria <br> Certificate Program: Applied Statistics
 
-- 09.2019 – 05.2020 <br> Bowling Green State University, USA <br> Master of Arts in German Studies (GPA: 1,00)
+- 09.2019 – 05.2020 <br> 
+Bowling Green State University, USA <br> Master of Arts in German Studies (GPA: 1,00)
 
 - 03.2019 – 11.2020 <br> Paris Lodron University of Salzburg, Austria <br> Certificate Program: German as a Second/Foreign Language (GPA: 1,16)
 
@@ -30,4 +33,12 @@ title: "CV"
 - 04.2021 – present <br> LernCENTER Progredere, Salzburg, Austria <br> Germanasaforeign/secondlanguageteacher
 
 - 01.2021 – present <br> Freelance editor (English texts) <br> 
-Möller, Robert; Elspaß, Stephan (in prep.): Crowdsourcing approaches to the study of variation in German. <br> 
+    - Möller, Robert; Elspaß, Stephan (in prep.): Crowdsourcing approaches to the study of variation in German. <br> 
+    - Elspaß, Stephan(submitted: Standardization from below and from above. <br>
+    - Elspaß, Stephan (submitted): Review of Hickey, Raymond (2019): Keeping in Touch. Emigrent letters across the English-speaking world (Advances in Historical     Sociolinguistics 10). Amsterdam/Philadelphia: John Benjamins. <br>
+    - Pröll, Simon et al. (submitted): Areal microvariation in German-speaking urban areas (Ruhr Area, Berlin, and Vienna). <br> 
+    - Ender, Andrea (submitted): Pedagogical norms and standards. In: Geeslin, Kimberly (ed.): Routledge Handbook of Second Language Acquisition and
+    - Sociolinguistics (Handbooks in Second Language Acquisition). New York: Routledge. <br>
+    - Elspaß, Stephan (submitted): Pluriareal languages and the case of German. In: Durgasingh, Ryan and Philipp Meer (eds.): Pluricentricity and Pluriareality: Dialects, Variation, and Standards (Studies in Language Variation). Amsterdam, Philadelphia: Benjamins.
+
+- 01.2020 – 12.2020
