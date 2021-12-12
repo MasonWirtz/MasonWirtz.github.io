@@ -7,6 +7,8 @@ title: "CV"
   <img width="200" height="200" src="/images/HomePhoto.png" />
 </p>
 
+This page houses a condensed version of my CV. Publications and conference presentations are not listed here––for these please see my [publications page](https://masonwirtz.github.io/Publications/). 
+
 ----------------
 # Education
 ----------------
