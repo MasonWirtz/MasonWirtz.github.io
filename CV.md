@@ -50,6 +50,9 @@ Academic Programs Manager <br>
     - Organizational/administrative duties with regard to educational and teaching initiatives <br>
     - Academic supervision of (study abroad) BA and MA students (e.g. course selection, accreditation of previous coursework etc.) <br>
     - InternshiporganizationStudentrecruitment <br>
+
+- 01.2020 – 12.2020 <br>
+Salzburg College Salzburg, Austria <br>
 Lecturer (incl. e-learning) <br>
     - English language coursework <br>
     - Academic writing <br>
