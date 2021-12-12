@@ -49,7 +49,7 @@ Academic Programs Manager <br>
     - Development and implementation of new academic curricula in cooperation with international universities <br>
     - Organizational/administrative duties with regard to educational and teaching initiatives <br>
     - Academic supervision of (study abroad) BA and MA students (e.g. course selection, accreditation of previous coursework etc.) <br>
-    - InternshiporganizationStudentrecruitment
+    - InternshiporganizationStudentrecruitment <br>
 Lecturer (incl. e-learning) <br>
     - English language coursework <br>
     - Academic writing <br>
