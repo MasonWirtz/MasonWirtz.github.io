@@ -117,7 +117,10 @@ Paris Lodron University of Salzburg, Salzburg, Austria <br>
 Paris Lodron University of Salzburg, Salzburg, Austria <br>
     - Concepts of responsible research and innovation <br>
     10.2020–01.2021 <br>
+MITx, online <br>
     - Qualitative Research Methods: Conversational Interviewing <br>
-    11/2020–12/2020
+    11.2020–12.2020
+
+
 
 
