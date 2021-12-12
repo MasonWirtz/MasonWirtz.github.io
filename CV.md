@@ -113,10 +113,12 @@ Paris Lodron University of Salzburg, Salzburg, Austria <br>
     - Tools from project and time management <br>
     03.2021–06.2021
 
-- Winter 2020.21 <br>
+- Winter 2020/2021 <br>
 Paris Lodron University of Salzburg, Salzburg, Austria <br>
     - Concepts of responsible research and innovation <br>
-    10.2020–01.2021 <br>
+    10.2020–01.2021
+    
+- Winter 2020/2021 <br>
 MITx, online <br>
     - Qualitative Research Methods: Conversational Interviewing <br>
     11.2020–12.2020
