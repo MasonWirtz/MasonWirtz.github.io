@@ -118,10 +118,73 @@ Paris Lodron University of Salzburg, Salzburg, Austria <br>
     - Concepts of responsible research and innovation <br>
     10.2020–01.2021
     
-- Winter 2020/2021 <br>
+- Winter 2020 <br>
 MITx, online <br>
     - Qualitative Research Methods: Conversational Interviewing <br>
     11.2020–12.2020
+
+----------------
+# Memberships 
+----------------
+
+- 12.2020 – present <br>
+ÖDaF-Member <br>
+Österreichischer Verband für Deutsch als Fremdsprache/Zweitsprache
+
+----------------
+# Involvement 
+----------------
+
+- 07.2021 – present <br>
+Student Union, Salzburg, Austria <br>
+    - Head of the PhD Student Union, University of Salzburg: Faculty of Cultural and Social Sciences
+    
+- 10.2018 – 09.2020 <br>
+Student Union, Salzburg, Austria <br>
+    - Member of the Student Union, University of Salzburg: Department of English and American Studies; Department of German Studies <br>
+    - Committee work: Fachbereichsrat (Department of English and American Studies), Fachbereichsrat (Department of German Language and Literatures), Curricularkommission (Language Sciences) <br>
+    - Student counseling (regarding: curricula, prerequisites, certificate program: German as a foreign/second language)
+
+----------------
+# Language Proficiency 
+----------------
+
+- English: Native language
+
+- German: C2 language proficiency
+
+----------------
+# Skills
+----------------
+
+- R: Advanced
+
+- LaTex: Advanced
+
+- LimeSurvey: Advanced
+
+- MS Office: Advanced
+
+- Wix: Advanced
+
+- Google Suite: Advanced
+
+- SPSS: Intermediate
+
+- WordPress: Intermediate
+
+- Adobe Creative Suite: Intermediate
+
+- Blackboard: Intermediate
+
+- Python: Beginner
+
+
+
+
+
+
+
 
 
 
