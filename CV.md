@@ -46,6 +46,7 @@ Freelance editor (English texts) <br>
     - Sociolinguistics (Handbooks in Second Language Acquisition). New York: Routledge. <br>
     - Elspaß, Stephan (submitted): Pluriareal languages and the case of German. In: Durgasingh, Ryan and Philipp Meer (eds.): Pluricentricity and Pluriareality: Dialects, Variation, and Standards (Studies in Language Variation). Amsterdam, Philadelphia: Benjamins.
 
+
 - 01.2020 – 12.2020 <br>
 Salzburg College Salzburg, Austria <br>
 Academic Programs Manager <br>
@@ -53,6 +54,7 @@ Academic Programs Manager <br>
     - Organizational/administrative duties with regard to educational and teaching initiatives <br>
     - Academic supervision of (study abroad) BA and MA students (e.g. course selection, accreditation of previous coursework etc.) <br>
     - InternshiporganizationStudentrecruitment
+
 
 - 01.2020 – 12.2020 <br>
 Salzburg College Salzburg, Austria <br>
@@ -62,28 +64,34 @@ Lecturer (incl. e-learning) <br>
     - German as a foreign/second language <br>
     - Linguistic anthropology <br>
 
+
 - 10.2020 – 11.2020 <br>
 World Summit Awards Youth for Innovation (WSA YFI), online <br>
     - Team Lead <br>
     - Supervision of the winning team
 
+
 - 07.2019 – 12.2019 <br>
 LernCENTER Progredere, Salzburg, Austria <br>
     - German as a foreign/second language teacher
+
 
 - 10.2019 – 05.2020 <br>
 Bowling Green State University, Bowling Green, Ohio (USA) <br>
     - Graduate teaching/research assistantships (2x) <br>
     - Introduction of the BGSU-‘Schnitzeljagd’: targeted language exchange between BGSU students and native German speakers
 
+
 - 10.2017 – present <br>
 Freelance English tutor, Salzburg, Austria <br>
     - Provide assistance to students whose needs were not fully met in a traditional classroom setting
 
+
 - 10.2017 – 04.2018 <br>
 The Language Doctors, online <br>
     - Freelance translator (German>English)
-    
+   
+   
 - 10.2017 – 03.2018 <br>
 Akademisches Gymnasium, Salzburg, Austria <br>
     - Foreign language teaching assistant (English)
