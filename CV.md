@@ -31,7 +31,8 @@ Bowling Green State University, USA <br> Master of Arts in German Studies (GPA: 
 ----------------
 
 - 04.2021 – present <br> 
-LernCENTER Progredere, Salzburg, Austria <br> Germanasaforeign/secondlanguageteacher
+LernCENTER Progredere, Salzburg, Austria <br> 
+    - German as a foreign/second language teacher
 
 - 01.2021 – present <br> 
 Freelance editor (English texts) <br> 
@@ -49,7 +50,7 @@ Academic Programs Manager <br>
     - Development and implementation of new academic curricula in cooperation with international universities <br>
     - Organizational/administrative duties with regard to educational and teaching initiatives <br>
     - Academic supervision of (study abroad) BA and MA students (e.g. course selection, accreditation of previous coursework etc.) <br>
-    - InternshiporganizationStudentrecruitment <br>
+    - InternshiporganizationStudentrecruitment
 
 - 01.2020 – 12.2020 <br>
 Salzburg College Salzburg, Austria <br>
@@ -58,5 +59,65 @@ Lecturer (incl. e-learning) <br>
     - Academic writing <br>
     - German as a foreign/second language <br>
     - Linguistic anthropology <br>
- 
- 
+
+- 10.2020 – 11.2020 <br>
+World Summit Awards Youth for Innovation (WSA YFI), online <br>
+    - Team Lead <br>
+    - Supervision of the winning team
+
+- 07.2019 – 12.2019 <br>
+LernCENTER Progredere, Salzburg, Austria <br>
+    - German as a foreign/second language teacher
+
+- 10.2019 – 05.2020 <br>
+Bowling Green State University, Bowling Green, Ohio (USA) <br>
+    - Graduate teaching/research assistantships (2x) <br>
+    - Introduction of the BGSU-‘Schnitzeljagd’: targeted language exchange between BGSU students and native German speakers
+
+- 10.2017 – present <br>
+Freelance English tutor, Salzburg, Austria <br>
+    - Provide assistance to students whose needs were not fully met in a traditional classroom setting
+
+- 10.2017 – 04.2018 <br>
+The Language Doctors, online <br>
+    - Freelance translator (German>English)
+    
+- 10.2017 – 03.2018 <br>
+Akademisches Gymnasium, Salzburg, Austria <br>
+    - Foreign language teaching assistant (English)
+
+----------------
+# Certifications 
+----------------
+
+- 06.2021 – present <br>
+Austrian Integration Fund (Österreichischer Integrationsfonds) <br>
+    - Qualification as a teacher in accordance with Section 7ff of the Integration Act Implementation Ordinance <br>
+    - Authorization to hold German and integration courses within the framework of the Integration Act
+
+----------------
+# Workshops 
+----------------
+
+- Winter 2021 <br>
+DataCamp, online <br>
+    - Hierarchical and Mixed Effects Models in R <br>
+    06.10 – 07.10.2021
+
+- Summer 2021 <br>
+Paris Lodron University of Salzburg, Salzburg, Austria <br>
+    - Analyzing data with R <br>
+    17.06–18.06.2021
+    - Academic journalism: How do I convey my scientific topics to a broad audience?
+    03.2021–06.2021
+    - Tools from project and time management
+    03.2021–06.2021
+
+- Winter 2020.21
+Paris Lodron University of Salzburg, Salzburg, Austria
+    - Concepts of responsible research and innovation
+    10.2020–01.2021
+    - Qualitative Research Methods: Conversational Interviewing
+    11/2020–12/2020
+
+
