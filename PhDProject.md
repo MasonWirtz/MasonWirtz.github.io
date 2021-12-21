@@ -29,9 +29,9 @@ The goals sketched in the previous section are of considerable theoretical and p
 
 - How do people with English as a first language deal with dialect and standard German when acquiring German as a second language?
 
-- Can the acquisition of sociolinguistic competence be explained by certain learner individual differences?
+- Can the acquisition of sociolinguistic competence be explained by certain learner individual differences (namely, varietal exposure/use, L2 proficiency, cognitive capacity and socioaffect)?
 
-- How can the individual developmental trajectories of sociolinguistic competence over the course of a year be characterized?
+- How can individual developmental trajectories of sociolinguistic competence during the initial period living in the target language community be characterized? 
 
 - How do different varieties of English and the speakers’ accompanying language ideologies and identities differently manifest in or differently impact the sociolinguistic acquisition process?
 
