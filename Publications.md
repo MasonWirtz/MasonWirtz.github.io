@@ -27,7 +27,7 @@ Wirtz, Mason A. (under review) <br> **Discourse completion tasks meet virtual re
 
 Wirtz, Mason A. (under review) <br> **Sociodialectal variation in L2 users’ awareness in Austria: An exploratory case study and perspectives for practice.** <br> Submitted to: *German as a Foreign Language* 
 
-Wirtz, Mason A. (in press) <br> **Understanding Austria from Afar: Treating Regional Variation in the Virtual German as a Foreign Language Classroom. A Case Study in Light of COVID-19.** <br> To appear in: *Frontiers: The Interdisciplinary Journal of Study Abroad*
+Wirtz, Mason A. (2021) <br> **Understanding Austria from Afar: Treating Regional Variation in the Virtual German as a Foreign Language Classroom. A Case Study in Light of COVID-19.** <br> *Frontiers: The Interdisciplinary Journal of Study Abroad*, 33(3), 59-69 <br> [article](https://frontiersjournal.org/index.php/Frontiers/article/view/548/474)
 
 ----------------
 # Book Chapters
