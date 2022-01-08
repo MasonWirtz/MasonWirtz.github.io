@@ -10,7 +10,7 @@ title: "CV"
 This page houses a condensed version of my CV. Publications and conference presentations are not listed here––for these please see my [publications page](https://masonwirtz.github.io/Publications/). 
 
 ----------------
-# Education
+# Education {.tabset}
 ----------------
 - 09.2020 – present <br> 
 Paris Lodron University of Salzburg, Austria <br> Doctoral Program in (German) Linguistics
