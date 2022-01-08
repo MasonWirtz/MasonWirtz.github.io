@@ -9,7 +9,9 @@ title: "CV"
 
 This page houses a condensed version of my CV. Publications and conference presentations are not listed here––for these please see my [publications page](https://masonwirtz.github.io/Publications/). 
 
-# Education {.tabset}
+# CV {.tabset}
+
+## Education 
 
 - 09.2020 – present <br> 
 Paris Lodron University of Salzburg, Austria <br> Doctoral Program in (German) Linguistics
@@ -28,7 +30,7 @@ Bowling Green State University, USA <br> Master of Arts in German Studies (GPA: 
 
 
 
-# Work experience 
+## Work experience 
 
 
 - 04.2021 – present <br> 
