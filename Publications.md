@@ -23,7 +23,7 @@ Wirtz, Mason A. (2020) <br> **Strategieneinsatz zum Erwerb rezeptiver Varietäte
 
 Wirtz, Mason A. (in prep.) <br> **Zur soziodialektalen Kompetenz in der Zweitsprache: Konzeptualisierungen – Erwerb – Lernstrategien** <br> To be submitted to: *Linguistik Online*
 
-Wirtz, Mason A. (in prep.) <br> **Discourse completion tasks meet virtual reality: A pilot study on virtual reality as an elicitation instrument.** <br> Submitted to: *Language Variation and Change* <br> [open data](https://osf.io/ebcdf/)
+Wirtz, Mason A. (in prep.) <br> **Discourse completion tasks meet virtual reality: A pilot study on virtual reality as an elicitation instrument.** <br> To be submitted to: *Language Variation and Change* <br> [open data](https://osf.io/ebcdf/)
 
 Wirtz, Mason A. (under review) <br> **Sociodialectal variation in L2 users’ awareness in Austria: An exploratory case study and perspectives for practice.** <br> Submitted to: *German as a Foreign Language* 
 
