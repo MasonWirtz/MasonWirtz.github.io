@@ -111,27 +111,25 @@ Austrian Integration Fund (Österreichischer Integrationsfonds) <br>
 
 - Winter 2021 <br>
 DataCamp, online <br>
+    - Nonlinear Modeling in R with GAMs <br>
+    - Supervised Learning in R: Regression <br>
+    - Exploratory Data Analysis in R <br>
+    - Data Analysis and Statistical Inference <br>
     - Hierarchical and Mixed Effects Models in R <br>
-    06.10 – 07.10.2021
 
 - Summer 2021 <br>
 Paris Lodron University of Salzburg, Salzburg, Austria <br>
     - Analyzing data with R <br>
-    17.06–18.06.2021 <br>
     - Academic journalism: How do I convey my scientific topics to a broad audience? <br>
-    03.2021–06.2021 <br>
     - Tools from project and time management <br>
-    03.2021–06.2021
 
 - Winter 2020/2021 <br>
 Paris Lodron University of Salzburg, Salzburg, Austria <br>
     - Concepts of responsible research and innovation <br>
-    10.2020–01.2021
     
 - Winter 2020 <br>
 MITx, online <br>
     - Qualitative Research Methods: Conversational Interviewing <br>
-    11.2020–12.2020
 
 ----------------
 # Memberships 
