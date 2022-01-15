@@ -39,7 +39,7 @@ Wirtz, Mason A. (in prep.) <br> **Datenvisualisierung als mehrsprachiges Vermitt
 # Invited Talks
 ----------------
 
-Wirtz, Mason A. <br> **Soziolinguistische Kompetenz im Zweitspracherwerb bei Erwachsenen. Dynamiken von linguistischen, sozioaffektiven und kognitiven Faktoren in der soziolinguistischen Entwicklung** <br> Presented at: *ÖDaF-Stammtisch* <br> Salzburg, Austria <br> 11.01.2022
+Wirtz, Mason A. <br> **Soziolinguistische Kompetenz im Zweitspracherwerb bei Erwachsenen. Dynamiken von linguistischen, sozioaffektiven und kognitiven Faktoren in der soziolinguistischen Entwicklung** <br> Presented at: *Österreichischer Verband für Deutsch als Fremd/Zweitsprache* <br> Salzburg, Austria <br> 11.01.2022 <br> [slides](/publications/ÖDaFVortrag.pdf)
 
 ----------------
 # Conference Presentations
