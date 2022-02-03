@@ -39,6 +39,8 @@ Wirtz, Mason A. (in prep.) <br> **Datenvisualisierung als mehrsprachiges Vermitt
 # Invited Talks
 ----------------
 
+Pfenninger, Simone E. / Wirtz, Mason A. <br> **“I thought I was there, just sitting in my chair” – Towards immersive task-based elicitation methodologies using virtual reality** <br> To be presented at *33rd International Conference on Foreign / Second Language Acquisition* <br> Szczyrk, Poland <br> 05.2022
+
 Wirtz, Mason A. <br> **Soziolinguistische Kompetenz im Zweitspracherwerb bei Erwachsenen. Dynamiken von linguistischen, sozioaffektiven und kognitiven Faktoren in der soziolinguistischen Entwicklung** <br> Presented at: *Österreichischer Verband für Deutsch als Fremd/Zweitsprache* <br> Salzburg, Austria <br> 11.01.2022 <br> [slides](/publications/OeDaFVortrag.pdf)
 
 ----------------
