@@ -13,7 +13,13 @@ Since I was in school, I have always had a passion for teaching, first about mus
 
 To date, I have taught in a wide variety of areas, both in the Anglo-American and Austrian context. In Austria, I have led integration courses and taught in the university context. In addition to pure English and German language acquisition coursework, I have also had the opportunity to lead proseminars with a focus on linguistic anthropology, academic writing (English and German) and translation studies, both in face-to-face and online formats.  
 
-This page houses a list of courses I have taught. 
+This page houses a list of courses/workshops I have taught. 
+
+-------------------
+### Workshops
+-------------------
+
+- **Intro to RStudio and R Markdown for Open Data and Reproducibility (IntRo2RStudio)** <br> [Workshop materials](https://masonwirtz.github.io/intRo2RStudio/) <br> University of Salzburg, Austria <br> Funded by the Doctoral College: Language, Society and Digital Life
 
 -------------------
 ### Post-Secondary Teaching <br> Language courses
