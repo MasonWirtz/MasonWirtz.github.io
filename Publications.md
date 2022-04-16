@@ -45,6 +45,8 @@ Wirtz, Mason A. <br> **Soziolinguistische Kompetenz im Zweitspracherwerb bei Erw
 # Conference Presentations
 ----------------
 
+Wirtz, Mason A. / Pfenninger, Simone E. <br> **“At the intersection of context and intra-speaker variation: Virtual reality as an elicitation instrument in sociolinguistic and psycholinguistic research”** <br> Presented at: *Austrian Association of University Teachers of English* <br> Salzburg, Austria <br> 30.04.2022
+
 Wirtz, Mason A. / Unterberger, Eugen <br> **Red' Deutsch mit mir! Zur mehrsprachigen Vermittlung statistischer Ergebnisse** <br> Presented at: *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens* <br> Salzburg, Austria <br> 22.10.2021 <br> [slides](/publications/ZurMehrsprachigenVermittlungStatistischerErgebnisse.pdf)
 
 Wirtz, Mason A. <br> **Discourse completion tasks meet virtual reality: A standalone researcher's new best friend?** <br> Presented at: *STaPs 18 (Sprachwissenschaftliche Tagung für Promotionsstudierende)* <br> Salzburg, Austria <br> 24.09.2021 <br> [slides](/publications/DiscourseCompletionTasksMeetVirtualReality.pdf)
