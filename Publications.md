@@ -37,7 +37,7 @@ Wirtz, Mason A. (in prep.) <br> **Datenvisualisierung als mehrsprachiges Vermitt
 # Invited Talks
 ----------------
 
-Pfenninger, Simone E. / Wirtz, Mason A. <br> **“I thought I was there, just sitting in my chair” – Towards immersive task-based elicitation methodologies using virtual reality** <br> To be presented at: *33rd International Conference on Foreign / Second Language Acquisition* <br> Szczyrk, Poland <br> 05.2022
+Pfenninger, Simone E. / Wirtz, Mason A. <br> **“I thought I was there, just sitting in my chair” – Towards immersive task-based elicitation methodologies using virtual reality** <br> To be presented at: *33rd International Conference on Foreign / Second Language Acquisition* <br> Szczyrk, Poland <br> 05.2022 <br> [slides](/publications/ICFSLA22.pdf)
 
 Wirtz, Mason A. <br> **Soziolinguistische Kompetenz im Zweitspracherwerb bei Erwachsenen. Dynamiken von linguistischen, sozioaffektiven und kognitiven Faktoren in der soziolinguistischen Entwicklung** <br> Presented at: *Österreichischer Verband für Deutsch als Fremd/Zweitsprache* <br> Salzburg, Austria <br> 11.01.2022 <br> [slides](/publications/OeDaFVortrag.pdf)
 
@@ -45,7 +45,7 @@ Wirtz, Mason A. <br> **Soziolinguistische Kompetenz im Zweitspracherwerb bei Erw
 # Conference Presentations
 ----------------
 
-Wirtz, Mason A. / Pfenninger, Simone E. <br> **“At the intersection of context and intra-speaker variation: Virtual reality as an elicitation instrument in sociolinguistic and psycholinguistic research”** <br> Presented at: *Austrian Association of University Teachers of English* <br> Salzburg, Austria <br> 30.04.2022
+Wirtz, Mason A. / Pfenninger, Simone E. <br> **“At the intersection of context and intra-speaker variation: Virtual reality as an elicitation instrument in sociolinguistic and psycholinguistic research”** <br> Presented at: *Austrian Association of University Teachers of English* <br> Salzburg, Austria <br> 30.04.2022 <br> [slides](/publications/AAUTE22.pdf)
 
 Wirtz, Mason A. / Unterberger, Eugen <br> **Red' Deutsch mit mir! Zur mehrsprachigen Vermittlung statistischer Ergebnisse** <br> Presented at: *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens* <br> Salzburg, Austria <br> 22.10.2021 <br> [slides](/publications/ZurMehrsprachigenVermittlungStatistischerErgebnisse.pdf)
 
