@@ -34,10 +34,16 @@ Wirtz, Mason A. (2021) <br> **Understanding Austria from Afar: Treating Regional
 Wirtz, Mason A. (in prep.) <br> **Datenvisualisierung als mehrsprachiges Vermittlungspotential.** <br> To appear in the anthology: *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens*
 
 ----------------
-# Invited Talks
+# Plenary Speaker
 ----------------
 
 Pfenninger, Simone E. / Wirtz, Mason A. <br> **“I thought I was there, just sitting in my chair” – Towards immersive task-based elicitation methodologies using virtual reality** <br> Presented at: *33rd International Conference on Foreign / Second Language Acquisition* <br> Szczyrk, Poland <br> 20.05.2022 <br> [slides](/publications/ICFSLA22.pdf)
+
+----------------
+# Invited Speaker
+----------------
+
+Wirtz, Mason A. <br> **Vom Umgang mit Dialekten im DaF/DaZ-Unterricht: Praktische Ansätze zur Förderung (rezeptiver) Varietätenkompetenz** <br> Presented at: *Österreichischer Verband für Deutsch als Fremd/Zweitsprache* <br> Innsbruck, Austria <br> 01.07.2022
 
 Wirtz, Mason A. <br> **Soziolinguistische Kompetenz im Zweitspracherwerb bei Erwachsenen. Dynamiken von linguistischen, sozioaffektiven und kognitiven Faktoren in der soziolinguistischen Entwicklung** <br> Presented at: *Österreichischer Verband für Deutsch als Fremd/Zweitsprache* <br> Salzburg, Austria <br> 11.01.2022 <br> [slides](/publications/OeDaFVortrag.pdf)
 
