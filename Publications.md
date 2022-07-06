@@ -31,7 +31,7 @@ Wirtz, Mason A. (2021) <br> **Understanding Austria from Afar: Treating Regional
 # Book Chapters
 ----------------
 
-Wirtz, Mason A. (under review) <br> **Datenvisualisierung als mehrsprachiges Vermittlungspotential.** <br> To appear in the anthology: *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens*
+Wirtz, Mason A. (under review) <br> **Datenvisualisierung als mehrsprachiges Vermittlungsinstrument.** <br> To appear in the anthology: *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens*
 
 ----------------
 # Plenary Speaker
