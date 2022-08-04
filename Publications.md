@@ -21,7 +21,7 @@ Wirtz, Mason A. (2020) <br> **Strategieneinsatz zum Erwerb rezeptiver Varietäte
 # Journal Articles
 ----------------
 
-Wirtz, Mason A. (accepted pending minor revisions) <br> **Discourse completion tasks meet virtual reality: A pilot study on virtual reality as an elicitation instrument.** <br> Submitted to: *Research Methods in Applied Linguistics* <br> [open data](https://osf.io/ebcdf/)
+Wirtz, Mason A. (accepted pending minor revisions) <br> **Discourse completion tasks meet virtual reality: A pilot study on virtual reality as an elicitation instrument.** <br> *Research Methods in Applied Linguistics* <br> [open data](https://osf.io/ebcdf/)
 
 Wirtz, Mason A. (2021) <br> **Understanding Austria from Afar: Treating Regional Variation in the Virtual German as a Foreign Language Classroom. A Case Study in Light of COVID-19.** <br> *Frontiers: The Interdisciplinary Journal of Study Abroad*, 33(3), 59-69 <br> [article](https://frontiersjournal.org/index.php/Frontiers/article/view/548/474)
 
@@ -49,7 +49,7 @@ Wirtz, Mason A. <br> **Soziolinguistische Kompetenz im Zweitspracherwerb bei Erw
 # Conference Presentations
 ----------------
 
-Wirtz, Mason A. (accepted) <br> **Individual Differences in Variationist SLA: On the Dynamics of Socioaffect in Sociolinguistic Evaluative Judgements by L2 Learners in Adulthood** <br> Presented at: *L2 acquisition of non-equivalent linguistic and cognitive categories in Romance and Germanic languages: Transfer revisited (GeRoSLA)* <br> Salzburg, Austria <br> 29.09.2022
+Wirtz, Mason A. (accepted) <br> **Individual Differences in Variationist SLA: On the Dynamics of Socioaffect in Predicting Sociolinguistic Evaluative Judgements by L2 Learners in Adulthood** <br> Presented at: *L2 acquisition of non-equivalent linguistic and cognitive categories in Romance and Germanic languages: Transfer revisited (GeRoSLA)* <br> Salzburg, Austria <br> 29.09.2022
 
 Wirtz, Mason A. / Pfenninger, Simone E. (under review) <br> **Evolving lives = emerging perceptions? Identifying phase shifts and stimuli for change in sociolinguistic evaluative judgements using dense time serial measurements** <br> Submitted to: *International Association of Applied Linguistics (AILA)* <br> Lyon, France 
 
