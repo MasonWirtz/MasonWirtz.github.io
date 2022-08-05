@@ -21,7 +21,7 @@ Wirtz, Mason A. (2020) <br> **Strategieneinsatz zum Erwerb rezeptiver Varietäte
 # Journal Articles
 ----------------
 
-Wirtz, Mason A. (accepted pending minor revisions) <br> **Discourse completion tasks meet virtual reality: A pilot study on virtual reality as an elicitation instrument.** <br> *Research Methods in Applied Linguistics* <br> [open data](https://osf.io/ebcdf/)
+Wirtz, Mason A. (in press) <br> **Discourse completion tasks meet virtual reality: A pilot study on virtual reality as an elicitation instrument.** <br> *Research Methods in Applied Linguistics* <br> [open data](https://osf.io/ebcdf/)
 
 Wirtz, Mason A. (2021) <br> **Understanding Austria from Afar: Treating Regional Variation in the Virtual German as a Foreign Language Classroom. A Case Study in Light of COVID-19.** <br> *Frontiers: The Interdisciplinary Journal of Study Abroad*, 33(3), 59-69 <br> [article](https://frontiersjournal.org/index.php/Frontiers/article/view/548/474)
 
