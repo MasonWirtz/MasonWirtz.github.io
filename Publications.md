@@ -13,13 +13,15 @@ This page houses my list of publications, including previous and upcoming theses
 # Books/Theses
 ----------------
 
-Wirtz, Mason A. (in prep.) <br> **Sociolinguistic competence in adult second language acquisition. Dynamics of linguistic, socioaffective and cognitive factors in sociolinguistic development.** <br> PhD thesis
+Wirtz, Mason A. (in prep.) <br> **Sociolinguistic competence in adult second language acquisition. Dynamics of linguistic, socioaffective and cognitive factors.** <br> PhD thesis
 
 Wirtz, Mason A. (2020) <br> **Strategieneinsatz zum Erwerb rezeptiver Varietätenkompetenzen im mittelbairischen Dialektgebiet.** <br> OhioLink: Online repository for Masters' and PhD theses
 
 ----------------
 # Journal Articles
 ----------------
+
+Wirtz, Mason A. / Pfenninger, Simone E. (under review) <br> **Variability and Individual Differences in L2 Sociolinguistic Evaluations: The GROUP, the INDIVIDUAL and the HOMOGENEOUS ENSEMBLE.**
 
 Wirtz, Mason A. (in press) <br> **Discourse completion tasks meet virtual reality: A pilot study on virtual reality as an elicitation instrument.** <br> *Research Methods in Applied Linguistics* <br> [open data](https://osf.io/ebcdf/)
 
@@ -49,9 +51,9 @@ Wirtz, Mason A. <br> **Soziolinguistische Kompetenz im Zweitspracherwerb bei Erw
 # Conference Presentations
 ----------------
 
-Wirtz, Mason A. (accepted) <br> **Individual Differences in Variationist SLA: On the Dynamics of Socioaffect in Predicting Sociolinguistic Evaluative Judgements by L2 Learners in Adulthood** <br> Presented at: *L2 acquisition of non-equivalent linguistic and cognitive categories in Romance and Germanic languages: Transfer revisited (GeRoSLA)* <br> Salzburg, Austria <br> 29.09.2022
-
 Wirtz, Mason A. / Pfenninger, Simone E. (under review) <br> **Evolving lives = emerging perceptions? Identifying phase shifts and stimuli for change in sociolinguistic evaluative judgements using dense time serial measurements** <br> Submitted to: *International Association of Applied Linguistics (AILA)* <br> Lyon, France 
+
+Wirtz, Mason A. (accepted) <br> **Individual Differences in Variationist SLA: On the Dynamics of Socioaffect in Predicting Sociolinguistic Evaluative Judgements by L2 Learners in Adulthood** <br> Presented at: *L2 acquisition of non-equivalent linguistic and cognitive categories in Romance and Germanic languages: Transfer revisited (GeRoSLA)* <br> Salzburg, Austria <br> 29.09.2022
 
 Wirtz, Mason A. / Pfenninger, Simone E. <br> **At the intersection of context and intra-speaker variation: Virtual reality as an elicitation instrument in sociolinguistic and psycholinguistic research** <br> Presented at: *Austrian Association of University Teachers of English* <br> Salzburg, Austria <br> 30.04.2022 <br> [slides](/publications/AAUTE22.pdf)
 
