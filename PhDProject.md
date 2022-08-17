@@ -3,7 +3,7 @@ layout: page
 title: "PhD Project"
 ---
 
-# Inter- and Intra-Individual Variation in Adult L2 Sociolinguistic Development. <br> Dynamics of linguistic, socioaffective and cognitive factors.
+# Inter- and Intra-Individual Variation in Adult L2 Sociolinguistic Development. <br> Dynamics of linguistic, socioaffective and cognitive factors
 
 This page contains a brief overview of my PhD project, which I am writing in collaboration with Dr. Andrea Ender, Dr. Irmtraud Kaiser and Dr. Simone Pfenninger. For anyone interested in more details, please visit the [project website](https://masonawirtz.wixsite.com/dynsc), where information on participation is also included. Articles, book chapters and data resulting from this dissertation will be uploaded to [publications](https://masonwirtz.github.io/Publications/). This project is in part funded by *Stadt Salzburg: Kultur, Bildung und Wissen*.
 
