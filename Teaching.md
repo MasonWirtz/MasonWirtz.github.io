@@ -19,7 +19,11 @@ This page houses a list of courses/workshops I have taught.
 ### Workshops
 -------------------
 
-- **Intro to RStudio and R Markdown for Open Data and Reproducibility (IntRo2RStudio)** <br> [Workshop materials](https://masonwirtz.github.io/intRo2RStudio/) <br> University of Salzburg, Austria <br> Funded by the Doctoral College: Language, Society and Digital Life
+- **Psycho for PsychoPy! An Introduction to Creating Experiments in PsychoPy** <br> University of Zurich, Switzerland <br> 25.11.2022
+
+- **Intro to RStudio and R Markdown for Open Data and Reproducibility (IntRo2RStudio)** <br> [Workshop materials](https://masonwirtz.github.io/intRo2RStudio/) <br> University of Zurich, Switzerland <br> 25--26.11.2022
+
+- **Intro to RStudio and R Markdown for Open Data and Reproducibility (IntRo2RStudio)** <br> [Workshop materials](https://masonwirtz.github.io/intRo2RStudio/) <br> University of Salzburg, Austria <br> 18--19.03.2022 <br> Funded by the Doctoral College: Language, Society and Digital Life
 
 -------------------
 ### Post-Secondary Teaching <br> Language courses
