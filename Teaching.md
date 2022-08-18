@@ -23,7 +23,7 @@ This page houses a list of courses/workshops I have taught.
 
 - **Intro to RStudio and R Markdown for Open Data and Reproducibility (IntRo2RStudio)** <br> [Workshop materials](https://masonwirtz.github.io/intRo2RStudio/) <br> University of Zurich, Switzerland <br> 25–26.11.2022
 
-- **Intro to RStudio and R Markdown for Open Data and Reproducibility (IntRo2RStudio)** <br> [Workshop materials](https://masonwirtz.github.io/intRo2RStudio/) <br> University of Salzburg, Austria <br> 18---19.03.2022 <br> Funded by the Doctoral College: Language, Society and Digital Life
+- **Intro to RStudio and R Markdown for Open Data and Reproducibility (IntRo2RStudio)** <br> [Workshop materials](https://masonwirtz.github.io/intRo2RStudio/) <br> University of Salzburg, Austria <br> 18–19.03.2022 <br> Funded by the Doctoral College: Language, Society and Digital Life
 
 -------------------
 ### Post-Secondary Teaching <br> Language courses
@@ -57,7 +57,7 @@ This page houses a list of courses/workshops I have taught.
 -------------------
 - **German language course: Level A1** <br> LernCENTER Progredere
 
-- **German language course: Level A2** <br> LernCENTER Progredere
+- **German language course: Level A2** <br> LernCENTER Progredere <br> BFI Salzburg <br> BFI Linz
 
 - **German language course: Level B1** <br> LernCENTER Progredere
 
