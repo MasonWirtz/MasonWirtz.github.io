@@ -22,7 +22,7 @@ Wirtz, Mason A. (2020) <br> **Strategieneinsatz zum Erwerb rezeptiver Varietäte
 ----------------
 
 Ender, Andrea / Kasberger, Gudrun / Wirtz, Mason A. (in prep.) <br> **Standard- und Dialektbewertungen in der Zweitsprache auf den Grund
-gehen: Ein ‚Person-in-Kontext‘-Ansatz im bairischsprachigen Österreich** <br> *Zeitschrift für Deutsch im Kontext von Mehrsprachigkeit: Aneignung von Deutsch im Dialekt-Standard-Kontinuum bzw. -Spektrum* 1(2).
+gehen: Ein ‚Person-in-Kontext‘-Ansatz im bairischsprachigen Österreich** <br> *Zeitschrift für Deutsch im Kontext von Mehrsprachigkeit* 1(2) (Spezielle Ausgabe: Aneignung von Deutsch im Dialekt-Standard-Kontinuum bzw. -Spektrum)
 
 Wirtz, Mason A. / Pfenninger, Simone E. (in prep.) <br> **Signature Dynamics of Microdevelopment in L2 Sociolinguistic Competence: Evidence from an Intensive Micro-Longitudinal Study**
 
