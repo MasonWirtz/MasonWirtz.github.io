@@ -60,9 +60,9 @@ Wirtz, Mason A. / Pfenninger, Simone E. (under review) <br> **Identifying Rapid 
 
 Ender, Andrea / Wirtz, Mason A. (under review) <br> **Emergent Attitudinal Patterns in a Naturalistic Context: A Dynamic Analysis of Sociolinguistic Development in Adult L2 Learners in Austria** <br> Submitted to: *Variation in Language Acquisition 5: Language, World and Mind in Acquisition (ViLA 5)* <br> Brussels, Belgium 
 
-Wirtz, Mason A. / Pfenninger, Simone E. (under review) <br> **Evolving lives = emerging perceptions? Identifying phase shifts and stimuli for change in sociolinguistic evaluative judgements using dense time serial measurements** <br> Submitted to: *International Association of Applied Linguistics (AILA)* <br> Lyon, France 
+Wirtz, Mason A. / Pfenninger, Simone E. (accepted) <br> **Evolving lives = emerging perceptions? Identifying phase shifts and stimuli for change in sociolinguistic evaluative judgements using dense time serial measurements** <br> Submitted to: *International Association of Applied Linguistics (AILA)* <br> Lyon, France 
 
-Wirtz, Mason A. (accepted) <br> **Individual Differences in Variationist SLA: On the Dynamics of Socioaffect in Predicting Sociolinguistic Evaluative Judgements by L2 Learners in Adulthood** <br> Presented at: *L2 acquisition of non-equivalent linguistic and cognitive categories in Romance and Germanic languages: Transfer revisited (GeRoSLA)* <br> Salzburg, Austria <br> 29.09.2022
+Wirtz, Mason A. <br> **Individual Differences in Variationist SLA: On the Dynamics of Socioaffect in Predicting Sociolinguistic Evaluative Judgements by L2 Learners in Adulthood** <br> Presented at: *L2 acquisition of non-equivalent linguistic and cognitive categories in Romance and Germanic languages: Transfer revisited (GeRoSLA)* <br> Salzburg, Austria <br> 29.09.2022
 
 Wirtz, Mason A. / Pfenninger, Simone E. <br> **At the intersection of context and intra-speaker variation: Virtual reality as an elicitation instrument in sociolinguistic and psycholinguistic research** <br> Presented at: *Austrian Association of University Teachers of English* <br> Salzburg, Austria <br> 30.04.2022 <br> [download slides](/publications/AAUTE22.pdf)
 
