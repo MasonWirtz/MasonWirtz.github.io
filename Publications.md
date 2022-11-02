@@ -54,9 +54,9 @@ Wirtz, Mason A. <br> **Soziolinguistische Kompetenz im Zweitspracherwerb bei Erw
 # Conference Presentations
 ----------------
 
-Wirtz, Mason A. / Pfenninger, Simone E. (under review) <br> **Identifying Rapid Developmental Phases in L2 Sociolinguistic Competence in Adulthood: Evidence from an Intensive Micro-Longitudinal Study** <br> Submitted to: *Variation in Language Acquisition 5: Language, World and Mind in Acquisition (ViLA 5)* <br> Brussels, Belgium 
+Wirtz, Mason A. / Pfenninger, Simone E. (accepted) <br> **Identifying Rapid Developmental Phases in L2 Sociolinguistic Competence in Adulthood: Evidence from an Intensive Micro-Longitudinal Study** <br> Submitted to: *Variation in Language Acquisition 5: Language, World and Mind in Acquisition (ViLA 5)* <br> Brussels, Belgium 
 
-Ender, Andrea / Wirtz, Mason A. (under review) <br> **Emergent Attitudinal Patterns in a Naturalistic Context: A Dynamic Analysis of Sociolinguistic Development in Adult L2 Learners in Austria** <br> Submitted to: *Variation in Language Acquisition 5: Language, World and Mind in Acquisition (ViLA 5)* <br> Brussels, Belgium 
+Ender, Andrea / Wirtz, Mason A. (accepted) <br> **Emergent Attitudinal Patterns in a Naturalistic Context: A Dynamic Analysis of Sociolinguistic Development in Adult L2 Learners in Austria** <br> Submitted to: *Variation in Language Acquisition 5: Language, World and Mind in Acquisition (ViLA 5)* <br> Brussels, Belgium 
 
 Wirtz, Mason A. / Pfenninger, Simone E. (accepted) <br> **Evolving lives = emerging perceptions? Identifying phase shifts and stimuli for change in sociolinguistic evaluative judgements using dense time serial measurements** <br> Submitted to: *International Association of Applied Linguistics (AILA)* <br> Lyon, France 
 
