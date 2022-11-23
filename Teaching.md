@@ -29,7 +29,7 @@ This page houses a list of courses/workshops I have taught.
 ### Post-Secondary Teaching <br> Linguistics and SLA
 -------------------
 - **Individuelle Unterschiede im erwachsenen Zweitspracherwerb (Individual Difference in Adult Second Language Acquisition)** <br> Fall Semester 2022/23 <br> University of Salzburg
-- 
+
 - **Language and Culture** <br> Fall Semester 2020 <br> Salzburg College
 
 - **History of the Western World: Problems of the Human Past** <br> Fall Semester 2020 <br> Salzburg College
