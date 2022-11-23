@@ -14,6 +14,11 @@ For the better part of four years, my principal research areas have been variati
 I am also interested in other related fields, such as digital humanities and statistics. For my dissertation, I have developed an elicitation method using virtual reality that serves in part as a valuable substitute for sociolinguistic interviews and, more generally, proves to be an ecologically valid way to elicit realistic speech data (Wirtz, under review). I am also very interested in a wide range of statistical modeling techniques, particularly within the Bayesian framework. In my dissertation, I take a multi-method approach (Seawright 2016), using Bayesian multilevel modeling to explore the impact of my set of predictors on sociolinguistic development, buttressed by qualitative content analyses as a means to explain meaningful statistical effects. 
 
 ----------------
+# Awards
+----------------
+- "Young Investigators Award" 2022 (2nd Place) <br> Paris Lodron University of Salzburg, Austria
+
+----------------
 # Education
 ----------------
 - 09.2020 – present <br> Paris Lodron University of Salzburg, Austria <br> Doctoral Program in (German) Linguistics
