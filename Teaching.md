@@ -26,7 +26,16 @@ This page houses a list of courses/workshops I have taught.
 - **Intro to RStudio and R Markdown for Open Data and Reproducibility (IntRo2RStudio)** <br> [Workshop materials](https://masonwirtz.github.io/intRo2RStudio/) <br> University of Salzburg, Austria <br> 18–19.03.2022 <br> Funded by the Doctoral College: Language, Society and Digital Life
 
 -------------------
-### Post-Secondary Teaching <br> Language courses
+### Post-Secondary Teaching <br> Linguistics and SLA
+-------------------
+- **Individuelle Unterschiede im erwachsenen Zweitspracherwerb (Individual Difference in Adult Second Language Acquisition)** <br> Fall Semester 2022/23 <br> University of Salzburg
+- 
+- **Language and Culture** <br> Fall Semester 2020 <br> Salzburg College
+
+- **History of the Western World: Problems of the Human Past** <br> Fall Semester 2020 <br> Salzburg College
+
+-------------------
+### Post-Secondary Teaching <br> Language Courses
 -------------------
 - **Beginning German I: Personal World** <br> Summer Semester 2020; Fall Semester 2020 <br> Salzburg College
 
@@ -39,21 +48,14 @@ This page houses a list of courses/workshops I have taught.
 - **Reading, Writing, Translating** <br> Fall Semester 2020 <br> Salzburg College
 
 -------------------
-### Post-Secondary Teaching <br> Academic writing
+### Post-Secondary Teaching <br> Academic Writing
 -------------------
 - **Rhetoric and Composition I** <br> Fall Semester 2020 <br> Salzburg College
 
 - **Rhetoric and Composition II** <br> Fall Semester 2020 <br> Salzburg College
 
 -------------------
-### Post-Secondary Teaching <br> Linguistics and history
--------------------
-- **Language and Culture** <br> Fall Semester 2020 <br> Salzburg College
-
-- **History of the Western World: Problems of the Human Past** <br> Fall Semester 2020 <br> Salzburg College
-
--------------------
-### Adult Education <br> Language courses
+### Adult Education <br> Language Courses
 -------------------
 - **German language course: Level A1** <br> LernCENTER Progredere
 
