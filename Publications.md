@@ -21,10 +21,11 @@ Wirtz, Mason A. (2020) <br> **Strategieneinsatz zum Erwerb rezeptiver Varietäte
 # Journal Articles
 ----------------
 
-Ender, Andrea / Kasberger, Gudrun / Wirtz, Mason A. (in prep.) <br> **Standard- und Dialektbewertungen in der Zweitsprache auf den Grund
-gehen: Ein ‚Person-in-Kontext‘-Ansatz im bairischsprachigen Österreich** <br> *Zeitschrift für Deutsch im Kontext von Mehrsprachigkeit* 1(2) (Spezielle Ausgabe: Aneignung von Deutsch im Dialekt-Standard-Kontinuum bzw. -Spektrum)
+Ender, Andrea / Kasberger, Gudrun / Wirtz, Mason A. (submitted) <br> **Standard- und Dialektbewertungen auf den Grund gehen: Individuelle Unterschiede und subjektive Theorien hinsichtlich Dialekt- und Standardaffinität bei Deutsch-als-Zweitsprachsprechenden im bairischsprachigen Österreich.** <br> *Zeitschrift für Deutsch im Kontext von Mehrsprachigkeit* 1(2) (Spezielle Ausgabe: Aneignung von Deutsch im Dialekt-Standard-Kontinuum bzw. -Spektrum)
 
-Wirtz, Mason A. / Pfenninger, Simone E. (under review) <br> **Variability and Individual Differences in L2 Sociolinguistic Evaluations: The GROUP, the INDIVIDUAL and the HOMOGENEOUS ENSEMBLE.**
+Wirtz, Mason A. / Pfenninger, Simone E. (submitted) <br> **Signature Dynamics of Development in L2 Sociolinguistic Competence: Evidence from an Intensive Micro-Longitudinal Study.**
+
+Wirtz, Mason A. / Pfenninger, Simone E. (under review, R&R submitted) <br> **Variability and Individual Differences in L2 Sociolinguistic Evaluations: The GROUP, the INDIVIDUAL and the HOMOGENEOUS ENSEMBLE.**
 
 Wirtz, Mason A. (2022) <br> **Discourse completion tasks meet virtual reality: A pilot study on virtual reality as an elicitation instrument.** <br> *Research Methods in Applied Linguistics*, 1(3), 1–12. [URL](https://www.sciencedirect.com/science/article/pii/S277276612200026X) <br> [download article](/publications/Wirtz_2022_RMAL.pdf) <br> [open data](https://osf.io/ebcdf/)
 
