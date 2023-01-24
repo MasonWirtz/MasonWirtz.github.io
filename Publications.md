@@ -55,6 +55,8 @@ Wirtz, Mason A. <br> **Soziolinguistische Kompetenz im Zweitspracherwerb bei Erw
 # (Upcoming) Conference Presentations
 ----------------
 
+Wirtz, Mason A. (submitted) <br> **Soziale, linguistische und sozioaffektive Prädiktoren für den Erwerb von Variation im Deutschen als Zweitsprache bei Erwachsenen im bairischsprachigen Österreich.** <br> Submitted to: *Aneignung und Vermittlung des Deutschen innerhalb von deutscher und mehrsprachiger Variation* <br> Vienna, Austria 
+
 Wirtz, Mason A. / Pickl, Simon / Niehaus, Konstantin / Elspaß, Stephan (submitted) <br> **Klatsch und Tratsch zur Erweiterung dialektometrischer Verfahren: Ein Fallbeispiel aus dem Atlas zur deutschen Alltagssprache zur Mikrovariation im Raum Wien.** <br> Submitted to: *Soziolinguistische Perspektiven: Kontakt – Variation – Wandel* <br> Bern, Switzerland 
 
 Wirtz, Mason A. / Pfenninger, Simone E. (submitted) <br> **Using Virtual Reality to Capture L2 Sociolinguistic Microdevelopment in Young Adulthood: Examining Varietal Behavior in Austria.** <br> Submitted to: *EuroSLA32 – European Second Language Association* <br> Birmingham, UK 
