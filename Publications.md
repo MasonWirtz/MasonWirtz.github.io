@@ -61,11 +61,11 @@ Wirtz, Mason A. / Pickl, Simon / Niehaus, Konstantin / Elspaß, Stephan (submitt
 
 Wirtz, Mason A. / Pfenninger, Simone E. (submitted) <br> **Using Virtual Reality to Capture L2 Sociolinguistic Microdevelopment in Young Adulthood: Examining Varietal Behavior in Austria.** <br> Submitted to: *EuroSLA32 – European Second Language Association* <br> Birmingham, UK 
 
-Wirtz, Mason A. / Pfenninger, Simone E. (accepted) <br> **Identifying Rapid Developmental Phases in L2 Sociolinguistic Competence in Adulthood: Evidence from an Intensive Micro-Longitudinal Study** <br> Submitted to: *Variation in Language Acquisition 5: Language, World and Mind in Acquisition (ViLA 5)* <br> Brussels, Belgium 
+Wirtz, Mason A. / Pfenninger, Simone E. (accepted) <br> **Identifying Rapid Developmental Phases in L2 Sociolinguistic Competence in Adulthood: Evidence from an Intensive Micro-Longitudinal Study** <br> *Variation in Language Acquisition 5: Language, World and Mind in Acquisition (ViLA 5)* <br> Brussels, Belgium 
 
-Ender, Andrea / Wirtz, Mason A. (accepted) <br> **Emergent Attitudinal Patterns in a Naturalistic Context: A Dynamic Analysis of Sociolinguistic Development in Adult L2 Learners in Austria** <br> Submitted to: *Variation in Language Acquisition 5: Language, World and Mind in Acquisition (ViLA 5)* <br> Brussels, Belgium 
+Ender, Andrea / Wirtz, Mason A. (accepted) <br> **Emergent Attitudinal Patterns in a Naturalistic Context: A Dynamic Analysis of Sociolinguistic Development in Adult L2 Learners in Austria** <br> *Variation in Language Acquisition 5: Language, World and Mind in Acquisition (ViLA 5)* <br> Brussels, Belgium 
 
-Wirtz, Mason A. / Pfenninger, Simone E. (accepted) <br> **Evolving lives = emerging perceptions? Identifying phase shifts and stimuli for change in sociolinguistic evaluative judgements using dense time serial measurements** <br> Submitted to: *International Association of Applied Linguistics (AILA)* <br> Lyon, France 
+Wirtz, Mason A. / Pfenninger, Simone E. (accepted) <br> **Evolving lives = emerging perceptions? Identifying phase shifts and stimuli for change in sociolinguistic evaluative judgements using dense time serial measurements** <br> *International Association of Applied Linguistics (AILA)* <br> Lyon, France 
 
 Wirtz, Mason A. <br> **Individual Differences in Variationist SLA: On the Dynamics of Socioaffect in Predicting Sociolinguistic Evaluative Judgements by L2 Learners in Adulthood** <br> Presented at: *L2 acquisition of non-equivalent linguistic and cognitive categories in Romance and Germanic languages: Transfer revisited (GeRoSLA)* <br> Salzburg, Austria <br> 29.09.2022
 
