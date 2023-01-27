@@ -16,7 +16,7 @@ Currently, I am a research associate (pre-doc) at the University of Salzburg. My
 ----------------
 # Education
 ----------------
-- 09.2020 – present <br> Paris Lodron University of Salzburg, Austria <br> Doctoral Program in (German) Linguistics and SLA
+- 09.2020 – present (planned completion: April, 2023)  <br> Paris Lodron University of Salzburg, Austria <br> Doctoral Program in (German) Linguistics and SLA
 
 - 10.2021 – 09.2022 <br> Paris Lodron University of Salzburg, Austria <br> Certificate Program: Applied Statistics
 
