@@ -45,4 +45,4 @@ I am also interested in other related fields, such as digital humanities and sta
 - Contextual factors (classroom and non-instructional settings, differences in input, family and peer circumstances)
 - Methodological challenges for empirical research, e.g., reconciling quantitative and qualitative methods as a means of explaining predications, capitalizing on new methodological designs (e.g., virtual reality) to control for the role of context
 - Second language development in the context of sociolinguistic and spatial variation
-- More recently: Multilingualism research (the role of bidialectalism in L2 learning, migration backgrounds, bilingual/bidialectal advantages)
+- (Acquisition of) Bidialectalism in L2 learning
