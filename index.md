@@ -7,8 +7,7 @@ title: "Mason A. Wirtz, MA"
   <img width="200" height="200" src="/images/HomePhoto.png" />
 </p>
 
-My name is Mason Wirtz and I am a doctoral candidate at the University of Salzburg with a focus on (variationist) sociolinguistics and second language acquisition.
 
-In my current research, I explore how native English speakers learning German as a second language acquire sociolinguistic competence in the Bavarian-Austrian context and which dynamic constellation(s) of linguistic, socioaffective and cognitive factors influence this. 
+Currently, I am a research associate (pre-doc) at the University of Salzburg. My research is situated at the intersection between socio- and psycholinguistics, where I employ variationist approaches to second language acquisition. A recurring theme in my research is how second language (L2) learners in the Austro-Bavarian naturalistic sphere acquire sociolinguistic variation, both in production and perception, and how we can approach such research questions both methodologically and statistically. I also dabble in geostatistics, which comes in handy for my current position in the newly minted project [Muster und Strukturen der regionalen Sprachwirklichkeit](https://www.plus.ac.at/germanistik/forschung/muster-und-strukturen-der-regionalen-sprachwirklichkeit/), led by Stephan Elspaß, Simon Pickl, and Konstantin Niehaus. Prior to my current position, I held graduate teaching and research scholarships at Bowling Green State University.
 
-On this website you can find my (scientific) biography and information about my teaching and research interests.
+[OSF](https://osf.io/gn4m7/)    [GitHub](https://github.com/MasonWirtz)    [Twitter](https://mobile.twitter.com/WirtzMason)
