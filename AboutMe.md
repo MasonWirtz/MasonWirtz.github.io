@@ -18,6 +18,8 @@ I am also interested in other related fields, such as digital humanities and sta
 ----------------
 - "Young Investigators Award" 2022 (2nd Place) <br> Paris Lodron University of Salzburg, Austria
 
+– Team Lead for the winning team for the "World Summit Awards Youth for Innovation (WSA YFI)"
+
 ----------------
 # Education
 ----------------
@@ -36,8 +38,11 @@ I am also interested in other related fields, such as digital humanities and sta
 ----------------
 # Research Interests
 ----------------
-- Variationist Sociolinguistics
-- Second Language Acquisition
-- Acquisition of Sociolinguistic Competence
+- Second language use and development (across the lifespan)
+- Intra-individual variation and variability in L2 development from psycholinguistic and sociolinguistic perspectives
+- Cognition-Affect Interface
 - Research Methods and Statistics
-- Virtual Reality
+- Contextual factors (classroom and non-instructional settings, differences in input, family and peer circumstances)
+- Methodological challenges for empirical research, e.g., reconciling quantitative and qualitative methods as a means of explaining predications, capitalizing on new methodological designs (e.g., virtual reality) to control for the role of context
+- Second language development in the context of sociolinguistic and spatial variation
+- More recently: Multilingualism research (the role of bidialectalism in L2 learning, migration backgrounds, bilingual/bidialectal advantages)
