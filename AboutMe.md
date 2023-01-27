@@ -18,7 +18,7 @@ I am also interested in other related fields, such as digital humanities and sta
 ----------------
 - "Young Investigators Award" 2022 (2nd Place) <br> Paris Lodron University of Salzburg, Austria
 
-– Team Lead for the winning team for the "World Summit Awards Youth for Innovation (WSA YFI)"
+- Team Lead for the winning team for the "World Summit Awards Youth for Innovation (WSA YFI)"
 
 ----------------
 # Education
