@@ -13,3 +13,17 @@ Currently, I am a research associate (pre-doc) at the University of Salzburg. My
 
 [OSF](https://osf.io/gn4m7/)  &nbsp; &nbsp; [GitHub](https://github.com/MasonWirtz)  &nbsp; &nbsp; [Twitter](https://mobile.twitter.com/WirtzMason)
 
+----------------
+# Education
+----------------
+- 09.2020 – present <br> Paris Lodron University of Salzburg, Austria <br> Doctoral Program in (German) Linguistics and SLA
+
+- 10.2021 – 09.2022 <br> Paris Lodron University of Salzburg, Austria <br> Certificate Program: Applied Statistics
+
+- 09.2019 – 05.2020 <br> Bowling Green State University, USA <br> Master of Arts in German Studies (GPA: 1,00)
+
+- 03.2019 – 11.2020 <br> Paris Lodron University of Salzburg, Austria <br> Certificate Program: German as a Second/Foreign Language (GPA: 1,16)
+
+- 06.2018 – 10.2018 <br> Freie Universität Berlin, Germany <br> Exchange semester 
+
+- 09.2017 – 07.2019 <br> Bowling Green State University, USA <br> Bachelor of Arts in German Studies (GPA: 1,50)
