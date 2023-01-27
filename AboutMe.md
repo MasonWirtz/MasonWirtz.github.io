@@ -21,9 +21,9 @@ I am also interested in other related fields, such as digital humanities and sta
 ----------------
 # Education
 ----------------
-- 09.2020 – present <br> Paris Lodron University of Salzburg, Austria <br> Doctoral Program in (German) Linguistics
+- 09.2020 – present <br> Paris Lodron University of Salzburg, Austria <br> Doctoral Program in (German) Linguistics and SLA
 
-- 10.2021 – present <br> Paris Lodron University of Salzburg, Austria <br> Certificate Program: Applied Statistics
+- 10.2021 – 09.2022 <br> Paris Lodron University of Salzburg, Austria <br> Certificate Program: Applied Statistics
 
 - 09.2019 – 05.2020 <br> Bowling Green State University, USA <br> Master of Arts in German Studies (GPA: 1,00)
 
