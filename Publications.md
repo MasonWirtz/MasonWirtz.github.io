@@ -13,9 +13,7 @@ This page houses my list of publications, including previous and upcoming theses
 # Books/Theses
 ----------------
 
-Wirtz, Mason A. (in prep.) <br> **Inter- and Intra-Individual Variation in Adult L2 Sociolinguistic Repertoires. Dynamics of Linguistic, Socioaffective and Cognitive Factors.** <br> PhD thesis
-
-<details>
+Wirtz, Mason A. (in prep.) <br> **Inter- and Intra-Individual Variation in Adult L2 Sociolinguistic Repertoires. Dynamics of Linguistic, Socioaffective and Cognitive Factors.** <br> PhD thesis <br> <details>
 <summary>Abstract</summary>
   
 > This book constitutes two complementary holistic studies in the field of variationist second language acquisition (SLA) investigating how, when and why second language (L2) German learners in the Austro-Bavarian naturalistic context develop sociolinguistic competence, i.e., “the capacity to recognize and produce socially appropriate speech in context” (Lyster, 1994, p. 263). In the first cross-sectional study, we combine sophisticated quantitative group-level analyses with person-centered individual qualitative data, the goal being to explore the effects of linguistic, socioaffective and cognitive factors on 40 adult L2 learners’ inter-individual acquisition of sociolinguistic competence. The second study is the first in variationist SLA research to analyze intensive micro-longitudinal data: It scrutinizes micro-developmental trajectories in four L2 learners’ sociolinguistic production and perception during initial periods of residence in Austria and attempts to identify relevant environmental and psychological stimuli for change. Taken as a whole, this book makes a convincing methodological case to complement cross-sectional data with microlongitudinal individual data so as to better reconcile generalizability, individuality and within-person variability. The results provide the field of variationist SLA with a more detailed mechanistic understanding of the acquisition and development of sociolinguistic competence in the non-instructed naturalistic sphere.
