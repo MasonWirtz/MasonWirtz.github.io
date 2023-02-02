@@ -27,9 +27,9 @@ This page houses my list of publications, including previous and upcoming theses
 
 > <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (under review, R&R submitted) <br> **Variability and Individual Differences in L2 Sociolinguistic Evaluations: The GROUP, the INDIVIDUAL and the HOMOGENEOUS ENSEMBLE.** <br> Submitted to: *Studies in Second Language Acquisition*.
 
-> <u>Wirtz, Mason A.</u> (2022) <br> **Discourse completion tasks meet virtual reality: A pilot study on virtual reality as an elicitation instrument.** <br> *Research Methods in Applied Linguistics*, 1(3), 1–12. [DOI](https://www.sciencedirect.com/science/article/pii/S277276612200026X) <br> [download article](/publications/Wirtz_2022_RMAL.pdf) <br> [open data](https://osf.io/ebcdf/)
+> <u>Wirtz, Mason A.</u> (2022) <br> **Discourse completion tasks meet virtual reality: A pilot study on virtual reality as an elicitation instrument.** <br> *Research Methods in Applied Linguistics*, 1(3), 1–12. [DOI](https://www.sciencedirect.com/science/article/pii/S277276612200026X) <br> [Download article](/publications/Wirtz_2022_RMAL.pdf) <br> [Open data](https://osf.io/ebcdf/)
 
-> <u>Wirtz, Mason A.</u> (2021) <br> **Understanding Austria from Afar: Treating Regional Variation in the Virtual German as a Foreign Language Classroom. A Case Study in Light of COVID-19.** <br> *Frontiers: The Interdisciplinary Journal of Study Abroad*, 33(3), 59-69. [DOI](https://frontiersjournal.org/index.php/Frontiers/article/view/548/474) <br> [download article](https://frontiersjournal.org/index.php/Frontiers/article/view/548/474)
+> <u>Wirtz, Mason A.</u> (2021) <br> **Understanding Austria from Afar: Treating Regional Variation in the Virtual German as a Foreign Language Classroom. A Case Study in Light of COVID-19.** <br> *Frontiers: The Interdisciplinary Journal of Study Abroad*, 33(3), 59-69. [DOI](https://frontiersjournal.org/index.php/Frontiers/article/view/548/474) <br> [Download article](https://frontiersjournal.org/index.php/Frontiers/article/view/548/474)
 
 ----------------
 # Book Chapters
@@ -41,15 +41,17 @@ This page houses my list of publications, including previous and upcoming theses
 # Plenary Speaker
 ----------------
 
-> Pfenninger, Simone E. / <u>Wirtz, Mason A.</u> <br> **“I thought I was there, just sitting in my chair” – Towards immersive task-based elicitation methodologies using virtual reality** <br> Presented at: *33rd International Conference on Foreign / Second Language Acquisition* <br> Szczyrk, Poland <br> 20.05.2022 <br> [download slides](/publications/ICFSLA22.pdf)
+> Pfenninger, Simone E. / <u>Wirtz, Mason A.</u> <br> **“I thought I was there, just sitting in my chair” – Towards immersive task-based elicitation methodologies using virtual reality** <br> Presented at: *33rd International Conference on Foreign / Second Language Acquisition* <br> Szczyrk, Poland <br> 20.05.2022 <br> [Download slides](/publications/ICFSLA22.pdf)
 
 ----------------
-# Invited Speaker
+# Invited Talks
 ----------------
 
-> <u>Wirtz, Mason A.</u> <br> **Vom Umgang mit Dialekten im DaF/DaZ-Unterricht: Praktische Ansätze zur Förderung (rezeptiver) Varietätenkompetenz** <br> Presented at: *Österreichischer Verband für Deutsch als Fremd/Zweitsprache* <br> Innsbruck, Austria <br> 01.07.2022
+> <u>Wirtz, Mason A.</u> <br> **INTRA-individuelle Variation und Variabilität: Zur Messung und Funktionalität.** <br> Guest lecture in: *Dialektsoziologie (Seminar taught by Dr. Christa Schneider)* <br> University of Salzburg, Austria <br> 01.07.2022
 
-> <u>Wirtz, Mason A.</u> <br> **Soziolinguistische Kompetenz im Zweitspracherwerb bei Erwachsenen. Dynamiken von linguistischen, sozioaffektiven und kognitiven Faktoren in der soziolinguistischen Entwicklung** <br> Presented at: *Österreichischer Verband für Deutsch als Fremd/Zweitsprache* <br> Salzburg, Austria <br> 11.01.2022 <br> [download slides](/publications/OeDaFVortrag.pdf)
+> <u>Wirtz, Mason A.</u> <br> **Vom Umgang mit Dialekten im DaF/DaZ-Unterricht: Praktische Ansätze zur Förderung (rezeptiver) Varietätenkompetenz.** <br> Presented at: *Österreichischer Verband für Deutsch als Fremd/Zweitsprache* <br> Innsbruck, Austria <br> 01.07.2022
+
+> <u>Wirtz, Mason A.</u> <br> **Soziolinguistische Kompetenz im Zweitspracherwerb bei Erwachsenen. Dynamiken von linguistischen, sozioaffektiven und kognitiven Faktoren in der soziolinguistischen Entwicklung.** <br> Presented at: *Österreichischer Verband für Deutsch als Fremd/Zweitsprache* <br> Salzburg, Austria <br> 11.01.2022 <br> [Download slides](/publications/OeDaFVortrag.pdf)
 
 ----------------
 # (Upcoming) Conference Presentations
@@ -69,13 +71,13 @@ This page houses my list of publications, including previous and upcoming theses
 
 > <u>Wirtz, Mason A.</u> <br> **Individual Differences in Variationist SLA: On the Dynamics of Socioaffect in Predicting Sociolinguistic Evaluative Judgements by L2 Learners in Adulthood** <br> Presented at: *L2 acquisition of non-equivalent linguistic and cognitive categories in Romance and Germanic languages: Transfer revisited (GeRoSLA)* <br> Salzburg, Austria <br> 29.09.2022
 
-> <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. <br> **At the intersection of context and intra-speaker variation: Virtual reality as an elicitation instrument in sociolinguistic and psycholinguistic research** <br> Presented at: *Austrian Association of University Teachers of English* <br> Salzburg, Austria <br> 30.04.2022 <br> [download slides](/publications/AAUTE22.pdf)
+> <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. <br> **At the intersection of context and intra-speaker variation: Virtual reality as an elicitation instrument in sociolinguistic and psycholinguistic research** <br> Presented at: *Austrian Association of University Teachers of English* <br> Salzburg, Austria <br> 30.04.2022 <br> [Download slides](/publications/AAUTE22.pdf)
 
-> <u>Wirtz, Mason A.</u> / Unterberger, Eugen <br> **Red' Deutsch mit mir! Zur mehrsprachigen Vermittlung statistischer Ergebnisse** <br> Presented at: *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens* <br> Salzburg, Austria <br> 22.10.2021 <br> [download slides](/publications/ZurMehrsprachigenVermittlungStatistischerErgebnisse.pdf)
+> <u>Wirtz, Mason A.</u> / Unterberger, Eugen <br> **Red' Deutsch mit mir! Zur mehrsprachigen Vermittlung statistischer Ergebnisse** <br> Presented at: *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens* <br> Salzburg, Austria <br> 22.10.2021 <br> [Download slides](/publications/ZurMehrsprachigenVermittlungStatistischerErgebnisse.pdf)
 
-> <u>Wirtz, Mason A.</u> <br> **Discourse completion tasks meet virtual reality: A standalone researcher's new best friend?** <br> Presented at: *STaPs 18 (Sprachwissenschaftliche Tagung für Promotionsstudierende)* <br> Salzburg, Austria <br> 24.09.2021 <br> [download slides](/publications/DiscourseCompletionTasksMeetVirtualReality.pdf)
+> <u>Wirtz, Mason A.</u> <br> **Discourse completion tasks meet virtual reality: A standalone researcher's new best friend?** <br> Presented at: *STaPs 18 (Sprachwissenschaftliche Tagung für Promotionsstudierende)* <br> Salzburg, Austria <br> 24.09.2021 <br> [Download slides](/publications/DiscourseCompletionTasksMeetVirtualReality.pdf)
 
-> <u>Wirtz, Mason A.</u> <br> **Acquiring sociodialectal competence in a second language – one learner belief at a time** <br> Presented at: *Variation in Language Acquisition (ViLA)* <br> Rorschach, Switzerland <br> 02.06.2021 <br> [download slides](/publications/AcquiringSociodialectalCompetenceInASecondLanguage.pdf)
+> <u>Wirtz, Mason A.</u> <br> **Acquiring sociodialectal competence in a second language – one learner belief at a time** <br> Presented at: *Variation in Language Acquisition (ViLA)* <br> Rorschach, Switzerland <br> 02.06.2021 <br> [Download slides](/publications/AcquiringSociodialectalCompetenceInASecondLanguage.pdf)
 
 
 
