@@ -27,9 +27,9 @@ This page houses my list of publications, including previous and upcoming theses
 
 > <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (under review, R&R submitted) <br> **Variability and Individual Differences in L2 Sociolinguistic Evaluations: The GROUP, the INDIVIDUAL and the HOMOGENEOUS ENSEMBLE.** <br> Submitted to: *Studies in Second Language Acquisition*.
 
-> <u>Wirtz, Mason A.</u> (2022) <br> **Discourse completion tasks meet virtual reality: A pilot study on virtual reality as an elicitation instrument.** <br> *Research Methods in Applied Linguistics*, 1(3), 1–12. [URL](https://www.sciencedirect.com/science/article/pii/S277276612200026X) <br> [download article](/publications/Wirtz_2022_RMAL.pdf) <br> [open data](https://osf.io/ebcdf/)
+> <u>Wirtz, Mason A.</u> (2022) <br> **Discourse completion tasks meet virtual reality: A pilot study on virtual reality as an elicitation instrument.** <br> *Research Methods in Applied Linguistics*, 1(3), 1–12. [DOI](https://www.sciencedirect.com/science/article/pii/S277276612200026X) <br> [download article](/publications/Wirtz_2022_RMAL.pdf) <br> [open data](https://osf.io/ebcdf/)
 
-> <u>Wirtz, Mason A.</u> (2021) <br> **Understanding Austria from Afar: Treating Regional Variation in the Virtual German as a Foreign Language Classroom. A Case Study in Light of COVID-19.** <br> *Frontiers: The Interdisciplinary Journal of Study Abroad*, 33(3), 59-69 <br> [article](https://frontiersjournal.org/index.php/Frontiers/article/view/548/474)
+> <u>Wirtz, Mason A.</u> (2021) <br> **Understanding Austria from Afar: Treating Regional Variation in the Virtual German as a Foreign Language Classroom. A Case Study in Light of COVID-19.** <br> *Frontiers: The Interdisciplinary Journal of Study Abroad*, 33(3), 59-69. [DOI](https://frontiersjournal.org/index.php/Frontiers/article/view/548/474) <br> [download article](https://frontiersjournal.org/index.php/Frontiers/article/view/548/474)
 
 ----------------
 # Book Chapters
