@@ -28,11 +28,25 @@ Wirtz, Mason A. (2020) <br> **Strategieneinsatz zum Erwerb rezeptiver Varietäte
 # Journal Articles
 ----------------
 
-Ender, Andrea / Kasberger, Gudrun / Wirtz, Mason A. (submitted) <br> **Standard- und Dialektbewertungen auf den Grund gehen: Individuelle Unterschiede und subjektive Theorien hinsichtlich Dialekt- und Standardaffinität bei Deutsch-als-Zweitsprachsprechenden im bairischsprachigen Österreich.** <br> *Zeitschrift für Deutsch im Kontext von Mehrsprachigkeit*, 1(2) (Spezielle Ausgabe: Aneignung von Deutsch im Dialekt-Standard-Kontinuum bzw. -Spektrum)
+Ender, Andrea / Kasberger, Gudrun / **Wirtz, Mason A.** (submitted) Standard- und Dialektbewertungen auf den Grund gehen: Individuelle Unterschiede und subjektive Theorien hinsichtlich Dialekt- und Standardaffinität bei Deutsch-als-Zweitsprachsprechenden im bairischsprachigen Österreich. *Zeitschrift für Deutsch im Kontext von Mehrsprachigkeit*, 1(2) (Spezielle Ausgabe: Aneignung von Deutsch im Dialekt-Standard-Kontinuum bzw. -Spektrum)
 
-Wirtz, Mason A. / Pfenninger, Simone E. (submitted) <br> **Signature Dynamics of Development in L2 Sociolinguistic Competence: Evidence from an Intensive Micro-Longitudinal Study.** <br> Submitted to: *Modern Language Journal*.
+**Wirtz, Mason A.** / Pfenninger, Simone E. (submitted) Signature Dynamics of Development in L2 Sociolinguistic Competence: Evidence from an Intensive Micro-Longitudinal Study. Submitted to: *Modern Language Journal*.
 
-Wirtz, Mason A. / Pfenninger, Simone E. (under review, R&R submitted) <br> **Variability and Individual Differences in L2 Sociolinguistic Evaluations: The GROUP, the INDIVIDUAL and the HOMOGENEOUS ENSEMBLE.** <br> Submitted to: *Studies in Second Language Acquisition*.
+<details>
+<summary>Abstract</summary>
+  
+> This study is the first to explore micro-development in L2 sociolinguistic evaluative judgements of standard German and Austro-Bavarian dialect by adult German learners using dense time serial measurements. Intensive longitudinal data (10 observations per subject) were collected from 4 learners (2 directly after arrival in Austria, and 2 after 7 months of residence) at approximately weekly intervals over 3 months. We made use of fitted additive models (GAMs) with superimposed periods of significant change to identify rapid developmental phases in individual evaluative judgement trajectories. By triangulating GAMs with both qualitative introspective and retrodictive interview data, we identified environmental and psychological stimuli for change within each individual’s sociolinguistic micro-development. Concerning the time and timing of phase shifts, learners evinced both increasing and decreasing periods of significant change, notably independent of length of residence. Results revealed that dynamic constellations of identity- and agency-related factors alongside more intensive social interaction with the naturalistic context and target variety speakers at a given moment contribute to significant changes in sociolinguistic microdevelopment. We discuss findings from a complex dynamic systems perspective and highlight the necessity for micro-longitudinal studies in variationist SLA so as to better capture stimuli for change in learners’ evolving multivarietal sociolinguistic repertoires.
+  
+</details>
+
+**Wirtz, Mason A.** / Pfenninger, Simone E. (under review, R&R submitted) Variability and Individual Differences in L2 Sociolinguistic Evaluations: The GROUP, the INDIVIDUAL and the HOMOGENEOUS ENSEMBLE. Submitted to: *Studies in Second Language Acquisition*.
+
+<details>
+<summary>Abstract</summary>
+  
+> This study is the first to investigate subject-level variability in sociolinguistic evaluative judgements by 30 adult L2 German learners and explore whether the observed variability is characterizable as a function of individual differences in proficiency, exposure, and motivation. Since group-level estimates did not paint an accurate picture of the individual, we propose methods capable of integrating population-level estimates with person-/ensemblecentered approaches so as to reconcile generalizability and individuality. Using random effects from Bayesian mixed-effects models, we found that global subject-level variability in evaluative judgements was not predicted by individual differences. By building homogeneous ensembles (i.e., subgroups of individuals with similar evaluative judgements), however, it was possible to assess whether ensembles were characteristic of certain levels of individual differences. This ensemble-centered approach presents an innovative way to address the group-to-individual generalizability issue in cross-sectional data and transcend individual variety in order to make tentative generalizations of individual cases to wider populations.
+  
+</details>
 
 Wirtz, Mason A. (2022) <br> **Discourse completion tasks meet virtual reality: A pilot study on virtual reality as an elicitation instrument.** <br> *Research Methods in Applied Linguistics*, 1(3), 1–12. [URL](https://www.sciencedirect.com/science/article/pii/S277276612200026X) <br> [download article](/publications/Wirtz_2022_RMAL.pdf) <br> [open data](https://osf.io/ebcdf/)
 
