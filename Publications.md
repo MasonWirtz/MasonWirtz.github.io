@@ -47,7 +47,7 @@ This page houses my list of publications, including previous and upcoming theses
 # Invited Talks
 ----------------
 
-> <u>Wirtz, Mason A.</u> <br> **INTRA-individuelle Variation und Variabilität: Zur Messung und Funktionalität.** <br> Guest lecture in: *Dialektsoziologie (Seminar taught by Dr. Christa Schneider)* <br> University of Salzburg, Austria <br> 01.07.2022
+> <u>Wirtz, Mason A.</u> <br> **INTRA-individuelle Variation und Variabilität: Zur Messung und Funktionalität.** <br> Guest lecture in: *Dialektsoziologie (Seminar taught by Dr. Christa Schneider)* <br> University of Salzburg, Austria <br> 18.01.2023
 
 > <u>Wirtz, Mason A.</u> <br> **Vom Umgang mit Dialekten im DaF/DaZ-Unterricht: Praktische Ansätze zur Förderung (rezeptiver) Varietätenkompetenz.** <br> Presented at: *Österreichischer Verband für Deutsch als Fremd/Zweitsprache* <br> Innsbruck, Austria <br> 01.07.2022
 
