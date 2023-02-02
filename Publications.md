@@ -28,9 +28,9 @@ Wirtz, Mason A. (2020) <br> **Strategieneinsatz zum Erwerb rezeptiver Varietäte
 # Journal Articles
 ----------------
 
-Ender, Andrea / Kasberger, Gudrun / **Wirtz, Mason A.** (submitted) Standard- und Dialektbewertungen auf den Grund gehen: Individuelle Unterschiede und subjektive Theorien hinsichtlich Dialekt- und Standardaffinität bei Deutsch-als-Zweitsprachsprechenden im bairischsprachigen Österreich. *Zeitschrift für Deutsch im Kontext von Mehrsprachigkeit*, 1(2) (Spezielle Ausgabe: Aneignung von Deutsch im Dialekt-Standard-Kontinuum bzw. -Spektrum)
+Ender, Andrea / Kasberger, Gudrun / Wirtz, Mason A. (submitted) <br> **Standard- und Dialektbewertungen auf den Grund gehen: Individuelle Unterschiede und subjektive Theorien hinsichtlich Dialekt- und Standardaffinität bei Deutsch-als-Zweitsprachsprechenden im bairischsprachigen Österreich.** <br> *Zeitschrift für Deutsch im Kontext von Mehrsprachigkeit*, 1(2) (Spezielle Ausgabe: Aneignung von Deutsch im Dialekt-Standard-Kontinuum bzw. -Spektrum)
 
-**Wirtz, Mason A.** / Pfenninger, Simone E. (submitted) Signature Dynamics of Development in L2 Sociolinguistic Competence: Evidence from an Intensive Micro-Longitudinal Study. Submitted to: *Modern Language Journal*.
+**Wirtz, Mason A.** / Pfenninger, Simone E. (submitted) <br> **Signature Dynamics of Development in L2 Sociolinguistic Competence: Evidence from an Intensive Micro-Longitudinal Study.** <br> Submitted to: *Modern Language Journal*.
 
 <details>
 <summary>Abstract</summary>
@@ -39,7 +39,7 @@ Ender, Andrea / Kasberger, Gudrun / **Wirtz, Mason A.** (submitted) Standard- un
   
 </details>
 
-**Wirtz, Mason A.** / Pfenninger, Simone E. (under review, R&R submitted) Variability and Individual Differences in L2 Sociolinguistic Evaluations: The GROUP, the INDIVIDUAL and the HOMOGENEOUS ENSEMBLE. Submitted to: *Studies in Second Language Acquisition*.
+**Wirtz, Mason A.** / Pfenninger, Simone E. (under review, R&R submitted) <br> **Variability and Individual Differences in L2 Sociolinguistic Evaluations: The GROUP, the INDIVIDUAL and the HOMOGENEOUS ENSEMBLE.** <br> Submitted to: *Studies in Second Language Acquisition*.
 
 <details>
 <summary>Abstract</summary>
@@ -50,13 +50,34 @@ Ender, Andrea / Kasberger, Gudrun / **Wirtz, Mason A.** (submitted) Standard- un
 
 Wirtz, Mason A. (2022) <br> **Discourse completion tasks meet virtual reality: A pilot study on virtual reality as an elicitation instrument.** <br> *Research Methods in Applied Linguistics*, 1(3), 1–12. [URL](https://www.sciencedirect.com/science/article/pii/S277276612200026X) <br> [download article](/publications/Wirtz_2022_RMAL.pdf) <br> [open data](https://osf.io/ebcdf/)
 
+<details>
+<summary>Abstract</summary>
+  
+> In the interdisciplinary ﬁeld of applied linguistics, research on the acquisition of sociolinguistic competence in the second language is growing quickly, yet comparatively little eﬀort has been dedicated to developing innovative data collection instruments that combat long-known methodological shortcomings. This pilot study, based on data from native German speakers from Austria, evaluates the use of virtual reality (VR) as a means to (a) compensate for weaknesses of the sociolinguistic/semi-directed interview in sociolinguistic research and (b) elicit mechanisms of linguistic convergence towards a respective interlocutor’s language variety. Qualitative content analysis showed high rates of immersiveness in interaction with the virtual interlocutors. The production data showed clear between-participant tendencies to converge to the respective virtual interlocutor’s Austrian dialect or standard German variety. These ﬁndings are discussed against the backdrop of L2 sociolinguistic acquisition research and highlight the necessity for methodological advances in data collection practices.
+  
+</details>
+
 Wirtz, Mason A. (2021) <br> **Understanding Austria from Afar: Treating Regional Variation in the Virtual German as a Foreign Language Classroom. A Case Study in Light of COVID-19.** <br> *Frontiers: The Interdisciplinary Journal of Study Abroad*, 33(3), 59-69 <br> [article](https://frontiersjournal.org/index.php/Frontiers/article/view/548/474)
+
+<details>
+<summary>Abstract</summary>
+  
+> The COVID-19 pandemic has influenced nearly every aspect of the academic world, and study abroad is no exception. Particularly in the foreign language learning sector, the unprecedented switch from in-class lectures to distance learning brought with it many challenges. Not only were language instructors tasked with creating an interactive language learning atmosphere from afar but continuing to spark student motivation while catering to a broad range of learning goals constituted a seemingly insurmountable obstacle. The following case study therefore seeks to provide an easily adaptable and interactive taskbased activity for the German as a foreign language classroom that should support learners in gaining a deeper understanding of the social dimensions and usages of Austrian regional varieties. Furthermore, the activity is designed so as to be applicable in both an online as well as face-to-face classroom and accommodate foreign language instructors with less experience in digital course delivery and/or minimal access to learning management systems.
+  
+</details>
 
 ----------------
 # Book Chapters
 ----------------
 
 Wirtz, Mason A. (under review) <br> **Datenvisualisierung als mehrsprachiges Vermittlungsinstrument.** <br> To appear in the anthology: *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens*
+
+<details>
+<summary>Abstract</summary>
+  
+> The focus on empirical methods in applied fields of science has inspired stark data-driven approaches. Of course, this reliance on data to advance our current state of knowledge necessitates the clear communication of said data. The question of how to communicate data context appropriately (i.e., as a function of the recipient party, physical circumstances et cetera), however, is less often foregrounded. The present contribution addresses this desideratum. Data visualizations present a compact way to effectively communicate large amounts of information. After discussing the necessity of data visualization both in the exploration and communication of data, I issue a plea to regard data visualization as a language in its own right, such that it––as with any other language––is multidimensional, multimodal and multivarietal. Much like communicating in a language is more than typing words into Google Translate, communicating via data visualization is not a matter of two clicks in Excel––it is a dynamic process that entails acquiring the context-dependent variation and multilingualism inherent to the language.
+  
+</details>
 
 ----------------
 # Plenary Speaker
