@@ -13,7 +13,7 @@ This page houses my list of publications, including previous and upcoming theses
 # Books/Theses
 ----------------
 
-Wirtz, Mason A. (in prep.) <br> **Inter- and Intra-Individual Variation in Adult L2 Sociolinguistic Repertoires. Dynamics of Linguistic, Socioaffective and Cognitive Factors.** <br> PhD Thesis, University of Salzburg (Salzburg, Austria)
+- Wirtz, Mason A. (in prep.) <br> **Inter- and Intra-Individual Variation in Adult L2 Sociolinguistic Repertoires. Dynamics of Linguistic, Socioaffective and Cognitive Factors.** <br> PhD Thesis, University of Salzburg (Salzburg, Austria)
 
 <details>
 <summary>Abstract</summary>
