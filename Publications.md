@@ -30,7 +30,7 @@ Wirtz, Mason A. (2020) <br> **Strategieneinsatz zum Erwerb rezeptiver Varietäte
 
 Ender, Andrea / Kasberger, Gudrun / Wirtz, Mason A. (submitted) <br> **Standard- und Dialektbewertungen auf den Grund gehen: Individuelle Unterschiede und subjektive Theorien hinsichtlich Dialekt- und Standardaffinität bei Deutsch-als-Zweitsprachsprechenden im bairischsprachigen Österreich.** <br> *Zeitschrift für Deutsch im Kontext von Mehrsprachigkeit*, 1(2) (Spezielle Ausgabe: Aneignung von Deutsch im Dialekt-Standard-Kontinuum bzw. -Spektrum)
 
-**Wirtz, Mason A.** / Pfenninger, Simone E. (submitted) <br> **Signature Dynamics of Development in L2 Sociolinguistic Competence: Evidence from an Intensive Micro-Longitudinal Study.** <br> Submitted to: *Modern Language Journal*.
+Wirtz, Mason A. / Pfenninger, Simone E. (submitted) <br> **Signature Dynamics of Development in L2 Sociolinguistic Competence: Evidence from an Intensive Micro-Longitudinal Study.** <br> Submitted to: *Modern Language Journal*.
 
 <details>
 <summary>Abstract</summary>
@@ -39,7 +39,7 @@ Ender, Andrea / Kasberger, Gudrun / Wirtz, Mason A. (submitted) <br> **Standard-
   
 </details>
 
-**Wirtz, Mason A.** / Pfenninger, Simone E. (under review, R&R submitted) <br> **Variability and Individual Differences in L2 Sociolinguistic Evaluations: The GROUP, the INDIVIDUAL and the HOMOGENEOUS ENSEMBLE.** <br> Submitted to: *Studies in Second Language Acquisition*.
+Wirtz, Mason A. / Pfenninger, Simone E. (under review, R&R submitted) <br> **Variability and Individual Differences in L2 Sociolinguistic Evaluations: The GROUP, the INDIVIDUAL and the HOMOGENEOUS ENSEMBLE.** <br> Submitted to: *Studies in Second Language Acquisition*.
 
 <details>
 <summary>Abstract</summary>
