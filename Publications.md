@@ -23,10 +23,14 @@ in prep. | <b>Inter- and Intra-Individual Variation in Adult L2 Sociolinguistic 
 
 | | |
 ---|---
-submitted | <b>Standard- und Dialektbewertungen auf den Grund gehen: Individuelle Unterschiede und subjektive Theorien hinsichtlich Dialekt- und Standardaffinität bei Deutsch-als-Zweitsprachsprechenden im bairischsprachigen Österreich.</b> <br> Ender, Andrea / Kasberger, Gudrun / <u>Wirtz, Mason A.</u> <br> <em>Zeitschrift für Deutsch im Kontext von Mehrsprachigkeit</em>, 1(2) (Spezielle Ausgabe: Aneignung von Deutsch im Dialekt-Standard-Kontinuum bzw. -Spektrum)<tr></tr>
-submitted | <b>Signature Dynamics of Development in L2 Sociolinguistic Competence: Evidence from an Intensive Micro-Longitudinal Study.</b> <br> <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. <br> Submitted to: <em>Modern Language Journal</em><tr></tr>
-R&R submitted | <b>Variability and Individual Differences in L2 Sociolinguistic Evaluations: The GROUP, the INDIVIDUAL and the HOMOGENEOUS ENSEMBLE.</b> <br> <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. <br> Submitted to: <em>Studies in Second Language Acquisition</em><tr></tr>
-2022 | <b>Discourse completion tasks meet virtual reality: A pilot study on virtual reality as an elicitation instrument.</b> <br> <u>Wirtz, Mason A.</u> <br> <em>Research Methods in Applied Linguistics</em>, 1(3), 1–12. [DOI](https://www.sciencedirect.com/science/article/pii/S277276612200026X) <br> [download article](/publications/Wirtz_2022_RMAL.pdf) <br> [open data](https://osf.io/ebcdf/)<tr></tr>
+submitted | <b>Standard- und Dialektbewertungen auf den Grund gehen: Individuelle Unterschiede und subjektive Theorien hinsichtlich Dialekt- und Standardaffinität bei Deutsch-als-Zweitsprachsprechenden im bairischsprachigen Österreich.</b> <br> Ender, Andrea / Kasberger, Gudrun / <u>Wirtz, Mason A.</u> <br> <em>Zeitschrift für Deutsch im Kontext von Mehrsprachigkeit</em>, 1(2) (Spezielle Ausgabe: Aneignung von Deutsch im Dialekt-Standard-Kontinuum bzw. -Spektrum)
+<tr></tr>
+submitted | <b>Signature Dynamics of Development in L2 Sociolinguistic Competence: Evidence from an Intensive Micro-Longitudinal Study.</b> <br> <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. <br> Submitted to: <em>Modern Language Journal</em>
+<tr></tr>
+R&R submitted | <b>Variability and Individual Differences in L2 Sociolinguistic Evaluations: The GROUP, the INDIVIDUAL and the HOMOGENEOUS ENSEMBLE.</b> <br> <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. <br> Submitted to: <em>Studies in Second Language Acquisition</em>
+<tr></tr>
+2022 | <b>Discourse completion tasks meet virtual reality: A pilot study on virtual reality as an elicitation instrument.</b> <br> <u>Wirtz, Mason A.</u> <br> <em>Research Methods in Applied Linguistics</em>, 1(3), 1–12. [DOI](https://www.sciencedirect.com/science/article/pii/S277276612200026X) <br> [download article](/publications/Wirtz_2022_RMAL.pdf) <br> [open data](https://osf.io/ebcdf/)
+<tr></tr>
 
 
 
