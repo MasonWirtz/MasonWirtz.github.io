@@ -23,7 +23,7 @@ This page houses my list of publications, including previous and upcoming theses
 
 > Ender, Andrea / Kasberger, Gudrun / <u>Wirtz, Mason A.</u> (submitted) <br> **Standard- und Dialektbewertungen auf den Grund gehen: Individuelle Unterschiede und subjektive Theorien hinsichtlich Dialekt- und Standardaffinität bei Deutsch-als-Zweitsprachsprechenden im bairischsprachigen Österreich.** <br> *Zeitschrift für Deutsch im Kontext von Mehrsprachigkeit*, 1(2) (Spezielle Ausgabe: Aneignung von Deutsch im Dialekt-Standard-Kontinuum bzw. -Spektrum)
 
-> <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (submitted) <br> **Signature Dynamics of Development in L2 Sociolinguistic Competence: Evidence from an Intensive Micro-Longitudinal Study.** <br> Submitted to: *Modern Language Journal*.
+> <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (submitted) <br> **Signature Dynamics of Development in L2 Sociolinguistic Competence: Evidence from an Intensive Micro-Longitudinal Study.** 
 
 > <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (under review, R&R submitted) <br> **Variability and Individual Differences in L2 Sociolinguistic Evaluations: The GROUP, the INDIVIDUAL and the HOMOGENEOUS ENSEMBLE.** <br> Submitted to: *Studies in Second Language Acquisition*.
 
