@@ -61,7 +61,7 @@ This page houses a list of courses/workshops I have taught.
 -------------------
 - **German language course: Level A1** <br> LernCENTER Progredere, Austria
 
-- **German language course: Level A2** <br> LernCENTER Progredere <br> BFI Salzburg <br> BFI Linz, Austria
+- **German language course: Level A2** <br> LernCENTER Progredere, Austria <br> BFI Salzburg, Austria <br> BFI Linz, Austria
 
 - **German language course: Level B1** <br> LernCENTER Progredere, Austria
 
