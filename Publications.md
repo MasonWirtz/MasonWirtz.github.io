@@ -44,7 +44,7 @@ This page houses my list of publications, including previous and upcoming theses
 > Pfenninger, Simone E. / <u>Wirtz, Mason A.</u> <br> **“I thought I was there, just sitting in my chair” – Towards immersive task-based elicitation methodologies using virtual reality.** <br> Presented at: *33rd International Conference on Foreign / Second Language Acquisition* <br> Szczyrk, Poland <br> 20.05.2022 <br> [Download slides](/publications/ICFSLA22.pdf)
 
 ----------------
-# Invited Talks
+# Invited Talks / Guest Lectures
 ----------------
 
 > <u>Wirtz, Mason A.</u> <br> **Soziolinguistische Kompetenz: Einige Erkenntnisse aus dem bairisch-österreichischen Kontext** <br> Guest lecture in: *Soziolinguistische Kompetenz in DaM, DaZ, DaF (Seminar taught by Univ.-Prof. Dr. Andrea Ender)* <br> University of Salzburg, Austria <br> 21.03.2023
