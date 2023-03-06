@@ -19,6 +19,8 @@ This page houses a list of courses/workshops I have taught.
 ### Workshops
 -------------------
 
+- **Psycho for PsychoPy! An Introduction to Creating Experiments in PsychoPy** <br> University of Salzburg, Austria <br> 07.2023
+
 - **Intro to RStudio and R Markdown for Open Data and Reproducibility (IntRo2RStudio)** <br> [Workshop materials](https://masonwirtz.github.io/intRo2RStudio/) <br> University of Zurich, Switzerland <br> 25–26.11.2022
 
 - **Psycho for PsychoPy! An Introduction to Creating Experiments in PsychoPy** <br> University of Zurich, Switzerland <br> 25.11.2022
