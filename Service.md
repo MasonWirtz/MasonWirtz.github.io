@@ -32,7 +32,7 @@ wissenschaftlichen Fakultät)
 - Since 2023: Promotionskommission Doktorat an der Gesellschaftswissenschaftlichen Fakultät (StV Ersatzmitglied / Alternate Member)
 
 ----------------
-# Membership of scientific societies
+# Membership of Scientific Societies
 ----------------
 
 - Österreichischer Verband für Deutsch als Fremdsprache/Zweitsprache (ÖDaF)
