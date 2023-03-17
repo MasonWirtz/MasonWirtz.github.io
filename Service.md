@@ -30,3 +30,13 @@ wissenschaftlichen Fakultät)
 
 - Since 2021: Promotionskommission Doktoratsstudium an der KW-Fakultät (StV Hauptmitglied / Main Member)
 - Since 2023: Promotionskommission Doktorat an der Gesellschaftswissenschaftlichen Fakultät (StV Ersatzmitglied / Alternate Member)
+
+----------------
+# Membership of scientific societies
+----------------
+
+- Österreichischer Verband für Deutsch als Fremdsprache/Zweitsprache (ÖDaF)
+
+
+
+
