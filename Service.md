@@ -4,25 +4,28 @@ title: "Service and Management"
 ---
 
 ----------------
-# Institutional Responsibilities at the University of Salzburg
+# Institutional Volunteer Work at the University of Salzburg
 ----------------
 
-- Organization of the Lecture Series [Innovative Methods in Applied Linguistics](https://masonwirtz.github.io/IMiAL/)
+- Summer Semester 2023: Organization of the Lecture Series [Innovative Methods in Applied Linguistics](https://masonwirtz.github.io/IMiAL/)
+- Since 2021 Head of the Doctorate Student Union (StV) (Vorsitzender der Studierendenvertretung Doktorat an der Kultur- und Gesellschafts-
+wissenschaftlichen Fakultät)
+- 2018–2020: Member of the Student Union, University of Salzburg: Department of English and American Studies; Department of German (Sachbearbeiter, Universität Salzburg: Fachbereich Anglistik und Amerikanistik; Fachbereich Germanistik)
 
 ----------------
 # Curricularkommissionen / Curriculum Committees
 ----------------
 
-- Interuniversitäres Doktoratsstudium Wissenschaft und Kunst (MOZ + PLUS) (Hauptmitglied / Main Member)
-- Interfakultäres Doktoratsstudium PädagogInnenbildung an der School of Education (Ersatzmitglied / Alternate Member)
-- Doktoratsstudium Wissenschaft und Kunst (Hauptmitglied / Main Member)
-- Doktoratsstudium an der Kulturwissenschaftlichen Fakultät (Hauptmitglied / Main Member)
-- Doktoratsstudium an der Gesellschaftswissenschaftlichen Fakultät (Hauptmitglied / Main Member)
+- Since 2022: Interuniversitäres Doktoratsstudium Wissenschaft und Kunst (MOZ + PLUS) (StV Hauptmitglied / Main Member)
+- Since 2023: Interfakultäres Doktoratsstudium PädagogInnenbildung an der School of Education (StV Ersatzmitglied / Alternate Member)
+- Since 2022: Doktoratsstudium Wissenschaft und Kunst (StV Hauptmitglied / Main Member)
+- Since 2022: Doktoratsstudium an der Kulturwissenschaftlichen Fakultät (StV Hauptmitglied / Main Member)
+- Since 2022: Doktoratsstudium an der Gesellschaftswissenschaftlichen Fakultät (StV Hauptmitglied / Main Member)
 
 
 ----------------
 # Promotionskommissionen / Doctorate Committees
 ----------------
 
-- Promotionskommission Doktoratsstudium an der KW-Fakultät (Hauptmitglied / Main Member)
-- Promotionskommission Doktorat an der Gesellschaftswissenschaftlichen Fakultät (Ersatzmitglied / Alternate Member)
+- Since 2021: Promotionskommission Doktoratsstudium an der KW-Fakultät (StV Hauptmitglied / Main Member)
+- Since 2023: Promotionskommission Doktorat an der Gesellschaftswissenschaftlichen Fakultät (StV Ersatzmitglied / Alternate Member)
