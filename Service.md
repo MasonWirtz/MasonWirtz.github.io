@@ -12,8 +12,9 @@ title: "Service and Management"
 wissenschaftlichen Fakultät)
 - 2018–2020: Member of the Student Union, University of Salzburg: Department of English and American Studies; Department of German (Sachbearbeiter, Universität Salzburg: Fachbereich Anglistik und Amerikanistik; Fachbereich Germanistik)
 
+
 ----------------
-# Curricularkommissionen / Curriculum Committees
+# Curricularkommissionen / Curricular Committees
 ----------------
 
 - Since 2022: Interuniversitäres Doktoratsstudium Wissenschaft und Kunst (MOZ + PLUS) (StV Hauptmitglied / Main Member)
