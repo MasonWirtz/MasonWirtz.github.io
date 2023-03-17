@@ -21,6 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Publications.md", title: "Publications", icon: pen}
   - {file: "Teaching.md", title: "Teaching", icon: chalkboard}
   - {file: "PhDProject.md", title: "PhD Project", icon: book}
+  - {file: "Service.md", title: "Service", icon: file}
 # - {file: "CV.md", title: "CV", icon: file}
 # - {title: "PhD Project", url: "https://masonawirtz.wixsite.com/dynsc"}
 
