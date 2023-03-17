@@ -7,7 +7,7 @@ title: "Service and Management"
 # Institutional Responsibilities at the University of Salzburg
 ----------------
 
-- Organization of the Lecture Series [https://masonwirtz.github.io/IMiAL/][Innovative Methods in Applied Linguistics]
+- Organization of the Lecture Series [Innovative Methods in Applied Linguistics][https://masonwirtz.github.io/IMiAL/]
 
 ----------------
 # Curricularkommissionen / Curriculum Committees
