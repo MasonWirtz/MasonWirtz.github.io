@@ -21,6 +21,8 @@ This page houses my list of publications, including previous and upcoming theses
 # Journal Articles
 ----------------
 
+> <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (in prep.) <br> **Capturing Thresholds and Continuities: Social, Linguistic, and Socioaffective Predictors of L2 Sociolinguistic Repertoires in Adult Migrant Learners in Austria.** 
+
 > Ender, Andrea / Kasberger, Gudrun / <u>Wirtz, Mason A.</u> (submitted) <br> **Standard- und Dialektbewertungen auf den Grund gehen: Individuelle Unterschiede und subjektive Theorien hinsichtlich Dialekt- und Standardaffinität bei Deutsch-als-Zweitsprachsprechenden im bairischsprachigen Österreich.** <br> *Zeitschrift für Deutsch im Kontext von Mehrsprachigkeit*, 1(2) (Spezielle Ausgabe: Aneignung von Deutsch im Dialekt-Standard-Kontinuum bzw. -Spektrum)
 
 > <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (submitted) <br> **Signature Dynamics of Development in L2 Sociolinguistic Competence: Evidence from an Intensive Micro-Longitudinal Study.** 
