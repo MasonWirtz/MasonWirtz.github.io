@@ -11,7 +11,7 @@ While teaching is often difficult, I could hardly imagine any other profession.
  
 Since I was in school, I have always had a passion for teaching, first about music, then math and now in the field of languages (English and German).
 
-To date, I have taught in a wide variety of areas, both in the Anglo-American and Austrian context. In Austria, I have led integration courses and taught in the university context. In addition to pure English and German language acquisition coursework, I have also had the opportunity to lead proseminars with a thematic focus on second language acquisition and individual differences, (variationist) sociolinguistics, and academic writing (English and German), both in face-to-face and online formats. 
+To date, I have taught in a wide variety of areas, both in the Anglo-American and Austrian context. In Austria, I have led integration courses and taught in the university context. In addition to pure English and German language acquisition coursework, I have also had the opportunity to lead proseminars with a thematic focus on second language acquisition and individual differences, (variationist) sociolinguistics, and academic writing (English and German), both in face-to-face and online formats. I have also led workshops on using digital methods such as PsychoPy to design psycholinguistic experiments, and on using the open-source statistical coding language R in the software environment RStudio, with a focus on statistical methods, data visualization, and reproducibility in the spirit of Open Science. 
 
 This page houses a list of courses/workshops I have taught. 
 
