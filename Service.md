@@ -8,8 +8,7 @@ title: "Service and Management"
 ----------------
 
 - Summer Semester 2023: Organization of the Lecture Series [Innovative Methods in Applied Linguistics](https://masonwirtz.github.io/IMiAL/)
-- Since 2021 Head of the Doctorate Student Union (StV) (Vorsitzender der Studierendenvertretung Doktorat an der Kultur- und Gesellschafts-
-wissenschaftlichen Fakultät)
+- Since 2021 Head of the Doctorate Student Union (StV) (Vorsitzender der Studierendenvertretung Doktorat an der Kultur- und Gesellschaftswissenschaftlichen Fakultät)
 - 2018–2020: Member of the Student Union, University of Salzburg: Department of English and American Studies; Department of German (Sachbearbeiter, Universität Salzburg: Fachbereich Anglistik und Amerikanistik; Fachbereich Germanistik)
 
 
