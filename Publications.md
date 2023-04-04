@@ -23,7 +23,7 @@ This page houses my list of publications, including previous and upcoming theses
 
 > <u>Wirtz, Mason A.</u> / Pickl, Simon / Niehaus, Konstantin / Elspaß, Stephan / Möller, Robert (in prep.) <br> **Reconciling the social and spatial: An apparent-time analysis of change in colloquial German.** 
 
-> <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (in prep.) <br> **Capturing Thresholds and Continuities: Social, Linguistic, and Socioaffective Predictors of L2 Sociolinguistic Repertoires in Adult Migrant Learners in Austria.** 
+> <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (submitted) <br> **Capturing Thresholds and Continuities: Social, Linguistic, and Socioaffective Predictors of L2 Sociolinguistic Repertoires in Adult Migrant Learners in Austria.** 
 
 > Ender, Andrea / Kasberger, Gudrun / <u>Wirtz, Mason A.</u> (submitted) <br> **Standard- und Dialektbewertungen auf den Grund gehen: Individuelle Unterschiede und subjektive Theorien hinsichtlich Dialekt- und Standardaffinität bei Deutsch-als-Zweitsprachsprechenden im bairischsprachigen Österreich.** <br> *Zeitschrift für Deutsch im Kontext von Mehrsprachigkeit*, 1(2) (Spezielle Ausgabe: Aneignung von Deutsch im Dialekt-Standard-Kontinuum bzw. -Spektrum)
 
