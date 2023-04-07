@@ -21,7 +21,7 @@ This page houses my list of publications, including previous and upcoming theses
 # Journal Articles
 ----------------
 
-> <u>Wirtz, Mason A.</u> / Pickl, Simon / Niehaus, Konstantin / Elspaß, Stephan / Möller, Robert (in prep.) <br> **Reconciling the social and spatial: An apparent-time analysis of change in colloquial German.** 
+> <u>Wirtz, Mason A.</u> / Pickl, Simon / Niehaus, Konstantin / Elspaß, Stephan / Möller, Robert (in prep.) <br> **Introducing the variation intensity measure: Reconciling the social and spatial in colloquial German.** 
 
 > <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (submitted) <br> **Capturing Thresholds and Continuities: Social, Linguistic, and Socioaffective Predictors of L2 Sociolinguistic Repertoires in Adult Migrant Learners in Austria.** 
 
