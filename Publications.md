@@ -21,6 +21,8 @@ This page houses my list of publications, including previous and upcoming theses
 # Journal Articles
 ----------------
 
+> <u>Wirtz, Mason A.</u> (in prep.) <br> **On the relationship between complexity of primary occupation and L2 varietal behavior in adult migrants in Austria.** 
+
 > <u>Wirtz, Mason A.</u> / Pickl, Simon / Niehaus, Konstantin / Elspaß, Stephan / Möller, Robert (in prep.) <br> **Introducing the variation intensity measure: Reconciling the social and spatial in colloquial German.** 
 
 > <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. / Ender, Andrea / Kaiser, Irmtraud (in prep.) <br> **Sociolinguistic Competence and Varietal Repertoires in a Second Language: A Study on Addressee-Dependent Varietal Behavior Using Virtual Reality.** 
