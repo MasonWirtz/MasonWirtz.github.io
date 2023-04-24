@@ -34,7 +34,7 @@ An apparent-time analysis based on variation intensity.**
 
 > <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (submitted) <br> **Signature Dynamics of Development in L2 Sociolinguistic Competence: Evidence from an Intensive Micro-Longitudinal Study.** 
 
-> <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (2023) <br> **Variability and Individual Differences in L2 Sociolinguistic Evaluations: The GROUP, the INDIVIDUAL and the HOMOGENEOUS ENSEMBLE.** <br> *Studies in Second Language Acquisition*. [DOI](https://doi.org/10.1017/S0272263123000177) <br> [Open data](https://osf.io/yrqn6/)
+> <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (2023) <br> **Variability and Individual Differences in L2 Sociolinguistic Evaluations: The GROUP, the INDIVIDUAL and the HOMOGENEOUS ENSEMBLE.** <br> *Studies in Second Language Acquisition*. [DOI](https://doi.org/10.1017/S0272263123000177) <br> [Download article](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E2C4F9CB8D6DFF7B8D74802487143258/S0272263123000177a.pdf/variability_and_individual_differences_in_l2_sociolinguistic_evaluations_the_group_the_individual_and_the_homogeneous_ensemble.pdf) <br> [Open data](https://osf.io/yrqn6/)
 
 > <u>Wirtz, Mason A.</u> (2022) <br> **Discourse completion tasks meet virtual reality: A pilot study on virtual reality as an elicitation instrument.** <br> *Research Methods in Applied Linguistics*, 1(3), 1–12. [DOI](https://www.sciencedirect.com/science/article/pii/S277276612200026X) <br> [Download article](/publications/Wirtz_2022_RMAL.pdf) <br> [Open data](https://osf.io/ebcdf/)
 
