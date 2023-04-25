@@ -16,6 +16,14 @@ To date, I have taught in a wide variety of areas, both in the Anglo-American an
 This page houses a list of courses/workshops I have taught. 
 
 -------------------
+### Video Series on Methods in (Applied) Linguistics (in German; for STUDENTS)
+-------------------
+– [Quantitative vs. qualitative Forschung](https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=897bbd85-ee1c-493c-98cb-afef00f942c1)
+
+– [Deskriptive Statistik](https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=0dc27fe0-5596-4db5-a651-afef00f95f5b) 
+
+
+-------------------
 ### Workshops
 -------------------
 
