@@ -13,7 +13,7 @@ This page houses my list of publications, including previous and upcoming theses
 # Books/Theses
 ----------------
 
-> <u>Wirtz, Mason A.</u> (submitted) <br> **Inter- and Intra-Individual Variation in Adult L2 Sociolinguistic Repertoires. Dynamics of Linguistic, Socioaffective and Cognitive Factors.** <br> PhD Thesis, University of Salzburg (Salzburg, Austria)
+> <u>Wirtz, Mason A.</u> (2023) <br> **Inter- and Intra-Individual Variation in Adult L2 Sociolinguistic Repertoires. Dynamics of Linguistic, Socioaffective and Cognitive Factors.** <br> PhD Thesis, University of Salzburg (Salzburg, Austria)
 
 > <u>Wirtz, Mason A.</u> (2020) <br> **Strategieneinsatz zum Erwerb rezeptiver Varietätenkompetenzen im mittelbairischen Dialektgebiet.** <br> OhioLink: Online repository for Masters' and PhD theses. <br> Master's Thesis, Bowling Green State University (Ohio, USA)
 
