@@ -21,12 +21,14 @@ This page houses my list of publications, including previous and upcoming theses
 # Journal Articles
 ----------------
 
-> <u>Wirtz, Mason A.</u> (in prep.) <br> **On the relationship between complexity of primary occupation and L2 varietal behavior in adult migrants in Austria.** 
+> Pfenninger, Simone E. / <u>Wirtz, Mason A.</u> (in prep., invited contribution) <br> **Reconciling the divides: A dynamic integrative analysis of variability and commonality in (pre)primary school English development in Switzerland.** <br> *Language Teaching Research Quarterly*
 
 > <u>Wirtz, Mason A.</u> / Pickl, Simon / Niehaus, Konstantin / Elspaß, Stephan / Möller, Robert (in prep.) <br> **Reconciling the social and spatial: 
 An apparent-time analysis based on variation intensity.** 
 
 > <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. / Ender, Andrea / Kaiser, Irmtraud (in prep.) <br> **Sociolinguistic Competence and Varietal Repertoires in a Second Language: A Study on Addressee-Dependent Varietal Behavior Using Virtual Reality.** 
+
+> <u>Wirtz, Mason A.</u> (submitted) <br> **On the relationship between complexity of primary occupation and L2 varietal behavior in adult migrants in Austria.** 
 
 > <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (submitted) <br> **Capturing Thresholds and Continuities: Social, Linguistic, and Socioaffective Predictors of L2 Sociolinguistic Repertoires in Adult Migrant Learners in Austria.** 
 
