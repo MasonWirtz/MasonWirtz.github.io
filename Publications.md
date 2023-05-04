@@ -43,7 +43,7 @@ An apparent-time analysis based on variation intensity.**
 > <u>Wirtz, Mason A.</u> (2021) <br> **Understanding Austria from Afar: Treating Regional Variation in the Virtual German as a Foreign Language Classroom. A Case Study in Light of COVID-19.** <br> *Frontiers: The Interdisciplinary Journal of Study Abroad*, 33(3), 59-69. [DOI](https://frontiersjournal.org/index.php/Frontiers/article/view/548/474) <br> [Download article](https://frontiersjournal.org/index.php/Frontiers/article/view/548/474)
 
 ----------------
-# Book Chapters
+# Chapters in Edited Volumes
 ----------------
 
 > <u>Wirtz, Mason A.</u> (under review) <br> **Datenvisualisierung als mehrsprachiges Vermittlungsinstrument.** <br> To appear in the anthology: *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens*
