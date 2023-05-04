@@ -95,10 +95,13 @@ Das Potential von Variationsintensität in einer *Apparent-Time* Analyse der All
 
 > <u>Wirtz, Mason A.</u> <br> **Acquiring sociodialectal competence in a second language – one learner belief at a time** <br> Presented at: *Variation in Language Acquisition (ViLA)* <br> Rorschach, Switzerland <br> 02.06.2021 <br> [Download slides](/publications/AcquiringSociodialectalCompetenceInASecondLanguage.pdf)
 
+----------------
+# Media
+----------------
 
+> [DiÖ: Dialekt lernt man nicht, den bekommt man mit. Stimmt das?](https://iam.dioe.at/frage-des-monats/dialekt-lernt-man-nicht-den-bekommt-man-mit)
 
-
-
+> [Die Presse: Die Sprachkarte des 21. Jahrhunderts (30.04.2023)](https://www.diepresse.com/6281274/die-sprachkarte-des-21-jahrhunderts)
 
 
 
