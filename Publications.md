@@ -77,13 +77,13 @@ Das Potential von Variationsintensität in einer *Apparent-Time* Analyse der All
 
 > <u>Wirtz, Mason A.</u> (accepted) <br> **Soziale, linguistische und sozioaffektive Prädiktoren für den Erwerb von Variation im Deutschen als Zweitsprache bei Erwachsenen im bairischsprachigen Österreich.** <br> Submitted to: *Aneignung und Vermittlung des Deutschen innerhalb von deutscher und mehrsprachiger Variation* <br> Vienna, Austria 
 
-> <u>Wirtz, Mason A.</u> / Pickl, Simon / Niehaus, Konstantin / Elspaß, Stephan (accepted) <br> **Klatsch und Tratsch zur Erweiterung dialektometrischer Verfahren: Ein Fallbeispiel aus dem Atlas zur deutschen Alltagssprache zur Mikrovariation im Raum Wien.** <br> Submitted to: *Soziolinguistische Perspektiven: Kontakt – Variation – Wandel* <br> Bern, Switzerland 
-
 > <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (accepted) <br> **Identifying Rapid Developmental Phases in L2 Sociolinguistic Competence in Adulthood: Evidence from an Intensive Micro-Longitudinal Study** <br> *Variation in Language Acquisition 5: Language, World and Mind in Acquisition (ViLA 5)* <br> Brussels, Belgium 
 
 > Ender, Andrea / <u>Wirtz, Mason A.</u> (accepted) <br> **Emergent Attitudinal Patterns in a Naturalistic Context: A Dynamic Analysis of Sociolinguistic Development in Adult L2 Learners in Austria** <br> *Variation in Language Acquisition 5: Language, World and Mind in Acquisition (ViLA 5)* <br> Brussels, Belgium 
 
 > <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (accepted) <br> **Evolving lives = emerging perceptions? Identifying phase shifts and stimuli for change in sociolinguistic evaluative judgements using dense time serial measurements** <br> *International Association of Applied Linguistics (AILA)* <br> Lyon, France 
+
+> <u>Wirtz, Mason A.</u> / Pickl, Simon / Niehaus, Konstantin / Elspaß, Stephan <br> **Klatsch und Tratsch zur Erweiterung dialektometrischer Verfahren: Ein Fallbeispiel aus dem Atlas zur deutschen Alltagssprache zur Mikrovariation im Raum Wien.** <br> Presented at: *Soziolinguistische Perspektiven: Kontakt – Variation – Wandel* <br> Bern, Switzerland <br> 13.05.2023
 
 > <u>Wirtz, Mason A.</u> <br> **Individual Differences in Variationist SLA: On the Dynamics of Socioaffect in Predicting Sociolinguistic Evaluative Judgements by L2 Learners in Adulthood** <br> Presented at: *L2 acquisition of non-equivalent linguistic and cognitive categories in Romance and Germanic languages: Transfer revisited (GeRoSLA)* <br> Salzburg, Austria <br> 29.09.2022
 
@@ -99,9 +99,9 @@ Das Potential von Variationsintensität in einer *Apparent-Time* Analyse der All
 # Media
 ----------------
 
-> [DiÖ: Dialekt lernt man nicht, den bekommt man mit. Stimmt das?](https://iam.dioe.at/frage-des-monats/dialekt-lernt-man-nicht-den-bekommt-man-mit)
-
 > [Die Presse: Die Sprachkarte des 21. Jahrhunderts (30.04.2023)](https://www.diepresse.com/6281274/die-sprachkarte-des-21-jahrhunderts)
+
+> [DiÖ: Dialekt lernt man nicht, den bekommt man mit. Stimmt das?](https://iam.dioe.at/frage-des-monats/dialekt-lernt-man-nicht-den-bekommt-man-mit)
 
 
 
