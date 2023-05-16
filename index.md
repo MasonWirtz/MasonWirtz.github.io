@@ -17,7 +17,7 @@ Prior to my current position, I held graduate teaching and research scholarships
 ----------------
 # Education
 ----------------
-- 09.2020 – present (planned completion: April, 2023)  <br> Paris Lodron University of Salzburg, Austria <br> Doctoral Program in (German) Linguistics and SLA
+- 09.2020 – 05.2023 <br> Paris Lodron University of Salzburg, Austria <br> Doctoral Program in (German) Linguistics and SLA
 
 - 10.2021 – 09.2022 <br> Paris Lodron University of Salzburg, Austria <br> Certificate Program: Applied Statistics
 
