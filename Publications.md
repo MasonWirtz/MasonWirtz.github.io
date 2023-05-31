@@ -70,8 +70,6 @@ An apparent-time analysis based on variation intensity.**
 # (Upcoming) Conference Presentations
 ----------------
 
-> <u>Wirtz, Mason A.</u> (submitted) <br> **Zum Nutzen von virtueller Realität als Erhebungs- und Elizitierungsinstrument in soziolinguistischer Forschung.** <br> Submitted to: *Bayerisch-Österreichische Dialektologietagung (BÖDT)* <br> Munich, Germany 
-
 > <u>Wirtz, Mason A.</u> / Pickl, Simon / Niehaus, Konstantin / Elspaß, Stephan (submitted) <br> **Zur Quantifizierung von Variation: 
 Das Potential von Variationsintensität in einer *Apparent-Time* Analyse der Alltagssprache im deutschsprachigen Raum.** <br> Submitted to: *Bayerisch-Österreichische Dialektologietagung (BÖDT)* <br> Munich, Germany 
 
