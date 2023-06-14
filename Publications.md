@@ -72,7 +72,7 @@ An apparent-time analysis based on variation intensity.**
 # (Upcoming) Conference Presentations
 ----------------
 
-> <u>Wirtz, Mason A.</u> / Pickl, Simon / Niehaus, Konstantin / Elspaß, Stephan (submitted) <br> **Zur Quantifizierung von Variation: 
+> <u>Wirtz, Mason A.</u> / Pickl, Simon / Niehaus, Konstantin / Elspaß, Stephan (accepted) <br> **Zur Quantifizierung von Variation: 
 Das Potential von Variationsintensität in einer *Apparent-Time* Analyse der Alltagssprache im deutschsprachigen Raum.** <br> Submitted to: *Bayerisch-Österreichische Dialektologietagung (BÖDT)* <br> Munich, Germany 
 
 > <u>Wirtz, Mason A.</u> (accepted) <br> **Soziale, linguistische und sozioaffektive Prädiktoren für den Erwerb von Variation im Deutschen als Zweitsprache bei Erwachsenen im bairischsprachigen Österreich.** <br> Submitted to: *Aneignung und Vermittlung des Deutschen innerhalb von deutscher und mehrsprachiger Variation* <br> Vienna, Austria 
