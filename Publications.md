@@ -46,7 +46,7 @@ An apparent-time analysis based on variation intensity.**
 # Chapters in Edited Volumes
 ----------------
 
-> <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (in prep., invited contribution) <br> **Theoretical, methodological, and computational perspectives for immersive virtual reality in variationist SLA: Insights from user experience.** In M. Kanwit, M. Solon & A. Gudmestad (Eds.), *Research at the intersection of second language acquisition and sociolinguistics: Studies in honor of Kimberly L. Geeslin*. 
+> <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (in prep., invited contribution) <br> **Theoretical, methodological, and computational perspectives for immersive virtual reality in variationist SLA: Insights from user experience.** <br> In M. Kanwit, M. Solon & A. Gudmestad (Eds.), *Research at the intersection of second language acquisition and sociolinguistics: Studies in honor of Kimberly L. Geeslin*. 
 
 > <u>Wirtz, Mason A.</u> (submitted) <br> **Datenvisualisierung als mehrsprachiges Vermittlungsinstrument.** <br> In F. Gmainer-Pranzl & A. Ender (Eds.), *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens*.
 
