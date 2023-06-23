@@ -30,7 +30,7 @@ An apparent-time analysis based on variation intensity.**
 
 > <u>Wirtz, Mason A.</u> (submitted) <br> **On the relationship between complexity of primary occupation and L2 varietal behavior in adult migrants in Austria.** 
 
-> <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (Revisions submitted) <br> **Capturing Thresholds and Continuities: Social, Linguistic, and Socioaffective Predictors of L2 Sociolinguistic Repertoires in Adult Migrant Learners in Austria.** *Applied Linguistics*.
+> <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (Revisions submitted) <br> **Capturing Thresholds and Continuities: Individual Differences as Predictors of L2 Sociolinguistic Repertoires in Adult Migrant Learners in Austria.** *Applied Linguistics*.
 
 > Ender, Andrea / Kasberger, Gudrun / <u>Wirtz, Mason A.</u> (under review) <br> **Standard- und Dialektbewertungen auf den Grund gehen: Individuelle Unterschiede und subjektive Theorien hinsichtlich Dialekt- und Standardaffinität bei Deutsch-als-Zweitsprachsprechenden im bairischsprachigen Österreich.** <br> *Zeitschrift für Deutsch im Kontext von Mehrsprachigkeit*, 1(2) (Spezielle Ausgabe: Aneignung von Deutsch im Dialekt-Standard-Kontinuum bzw. -Spektrum)
 
