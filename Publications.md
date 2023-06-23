@@ -26,15 +26,15 @@ An apparent-time analysis based on variation intensity.**
 
 > <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. / Ender, Andrea / Kaiser, Irmtraud (in prep.) <br> **Sociolinguistic Competence and Varietal Repertoires in a Second Language: A Study on Addressee-Dependent Varietal Behavior Using Virtual Reality.** 
 
-> Pfenninger, Simone E. / <u>Wirtz, Mason A.</u> (submitted) <br> **Reconciling the divides: A dynamic integrative analysis of variability and commonality in (pre)primary school English development in Switzerland.** <br> *Language Teaching Research Quarterly*
+> Pfenninger, Simone E. / <u>Wirtz, Mason A.</u> (under review) <br> **Reconciling the divides: A dynamic integrative analysis of variability and commonality in (pre)primary school English development in Switzerland.** <br> *Language Teaching Research Quarterly*
 
 > <u>Wirtz, Mason A.</u> (submitted) <br> **On the relationship between complexity of primary occupation and L2 varietal behavior in adult migrants in Austria.** 
 
-> <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (submitted) <br> **Capturing Thresholds and Continuities: Social, Linguistic, and Socioaffective Predictors of L2 Sociolinguistic Repertoires in Adult Migrant Learners in Austria.** 
+> <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (Revisions submitted) <br> **Capturing Thresholds and Continuities: Social, Linguistic, and Socioaffective Predictors of L2 Sociolinguistic Repertoires in Adult Migrant Learners in Austria.** *Applied Linguistics*.
 
-> Ender, Andrea / Kasberger, Gudrun / <u>Wirtz, Mason A.</u> (submitted) <br> **Standard- und Dialektbewertungen auf den Grund gehen: Individuelle Unterschiede und subjektive Theorien hinsichtlich Dialekt- und Standardaffinität bei Deutsch-als-Zweitsprachsprechenden im bairischsprachigen Österreich.** <br> *Zeitschrift für Deutsch im Kontext von Mehrsprachigkeit*, 1(2) (Spezielle Ausgabe: Aneignung von Deutsch im Dialekt-Standard-Kontinuum bzw. -Spektrum)
+> Ender, Andrea / Kasberger, Gudrun / <u>Wirtz, Mason A.</u> (under review) <br> **Standard- und Dialektbewertungen auf den Grund gehen: Individuelle Unterschiede und subjektive Theorien hinsichtlich Dialekt- und Standardaffinität bei Deutsch-als-Zweitsprachsprechenden im bairischsprachigen Österreich.** <br> *Zeitschrift für Deutsch im Kontext von Mehrsprachigkeit*, 1(2) (Spezielle Ausgabe: Aneignung von Deutsch im Dialekt-Standard-Kontinuum bzw. -Spektrum)
 
-> <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (submitted) <br> **Signature Dynamics of Development in L2 Sociolinguistic Competence: Evidence from an Intensive Micro-Longitudinal Study.** 
+> <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (Revisions submitted) <br> **Signature Dynamics of Development in L2 Sociolinguistic Competence: Evidence from an Intensive Micro-Longitudinal Study.** *Language Learning*.
 
 > <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (2023) <br> **Variability and Individual Differences in L2 Sociolinguistic Evaluations: The GROUP, the INDIVIDUAL and the HOMOGENEOUS ENSEMBLE.** <br> *Studies in Second Language Acquisition*. [DOI](https://doi.org/10.1017/S0272263123000177) <br> [Download article](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E2C4F9CB8D6DFF7B8D74802487143258/S0272263123000177a.pdf/variability_and_individual_differences_in_l2_sociolinguistic_evaluations_the_group_the_individual_and_the_homogeneous_ensemble.pdf) <br> [Open data](https://osf.io/yrqn6/)
 
@@ -48,7 +48,7 @@ An apparent-time analysis based on variation intensity.**
 
 > <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (in prep., invited contribution) <br> **Theoretical, methodological, and computational perspectives for immersive virtual reality in variationist SLA: Insights from user experience.** <br> In M. Kanwit, M. Solon & A. Gudmestad (Eds.), *Research at the intersection of second language acquisition and sociolinguistics: Studies in honor of Kimberly L. Geeslin*. 
 
-> <u>Wirtz, Mason A.</u> (submitted) <br> **Datenvisualisierung als mehrsprachiges Vermittlungsinstrument.** <br> In F. Gmainer-Pranzl & A. Ender (Eds.), *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens*.
+> <u>Wirtz, Mason A.</u> (under review) <br> **Datenvisualisierung als mehrsprachiges Vermittlungsinstrument.** <br> In F. Gmainer-Pranzl & A. Ender (Eds.), *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens*.
 
 ----------------
 # Plenary Speaker
