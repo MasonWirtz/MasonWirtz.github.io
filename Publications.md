@@ -28,7 +28,7 @@ An apparent-time analysis based on variation intensity.**
 
 > Pfenninger, Simone E. / <u>Wirtz, Mason A.</u> (under review) <br> **Reconciling the divides: A dynamic integrative analysis of variability and commonality in (pre)primary school English development in Switzerland.** <br> *Language Teaching Research Quarterly*
 
-> <u>Wirtz, Mason A.</u> (submitted) <br> **On the relationship between complexity of primary occupation and L2 varietal behavior in adult migrants in Austria.** 
+> <u>Wirtz, Mason A.</u> (under review) <br> **On the relationship between complexity of primary occupation and L2 varietal behavior in adult migrants in Austria.** 
 
 > <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (Revisions submitted) <br> **Capturing Thresholds and Continuities: Individual Differences as Predictors of L2 Sociolinguistic Repertoires in Adult Migrant Learners in Austria.** <br> *Applied Linguistics*.
 
