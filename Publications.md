@@ -73,27 +73,27 @@ An apparent-time analysis based on variation intensity.**
 ----------------
 
 > <u>Wirtz, Mason A.</u> / Pickl, Simon / Niehaus, Konstantin / Elspaß, Stephan (accepted) <br> **Zur Quantifizierung von Variation: 
-Das Potential von Variationsintensität in einer *Apparent-Time* Analyse der Alltagssprache im deutschsprachigen Raum.** <br> Submitted to: *Bayerisch-Österreichische Dialektologietagung (BÖDT)* <br> Munich, Germany 
+Das Potential von Variationsintensität in einer *Apparent-Time* Analyse der Alltagssprache im deutschsprachigen Raum.** <br> *Bayerisch-Österreichische Dialektologietagung (BÖDT)* <br> Munich, Germany 
 
-> <u>Wirtz, Mason A.</u> (accepted) <br> **Soziale, linguistische und sozioaffektive Prädiktoren für den Erwerb von Variation im Deutschen als Zweitsprache bei Erwachsenen im bairischsprachigen Österreich.** <br> Submitted to: *Aneignung und Vermittlung des Deutschen innerhalb von deutscher und mehrsprachiger Variation* <br> Vienna, Austria 
+> <u>Wirtz, Mason A.</u> (accepted) <br> **Soziale, linguistische und sozioaffektive Prädiktoren für den Erwerb von Variation im Deutschen als Zweitsprache bei Erwachsenen im bairischsprachigen Österreich.** <br> *Aneignung und Vermittlung des Deutschen innerhalb von deutscher und mehrsprachiger Variation* <br> Vienna, Austria 
 
-> <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (accepted) <br> **Identifying Rapid Developmental Phases in L2 Sociolinguistic Competence in Adulthood: Evidence from an Intensive Micro-Longitudinal Study** <br> *Variation in Language Acquisition 5: Language, World and Mind in Acquisition (ViLA 5)* <br> Brussels, Belgium 
+> <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. <br> **Identifying Rapid Developmental Phases in L2 Sociolinguistic Competence in Adulthood: Evidence from an Intensive Micro-Longitudinal Study** <br> *Variation in Language Acquisition 5: Language, World and Mind in Acquisition (ViLA 5)* <br> Brussels, Belgium <br> 02.06.2023 
 
-> Ender, Andrea / <u>Wirtz, Mason A.</u> (accepted) <br> **Emergent Attitudinal Patterns in a Naturalistic Context: A Dynamic Analysis of Sociolinguistic Development in Adult L2 Learners in Austria** <br> *Variation in Language Acquisition 5: Language, World and Mind in Acquisition (ViLA 5)* <br> Brussels, Belgium 
+> Ender, Andrea / <u>Wirtz, Mason A.</u> <br> **Emergent Attitudinal Patterns in a Naturalistic Context: A Dynamic Analysis of Sociolinguistic Development in Adult L2 Learners in Austria** <br> *Variation in Language Acquisition 5: Language, World and Mind in Acquisition (ViLA 5)* <br> Brussels, Belgium <br> 01.06.2023
 
 > <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (accepted) <br> **Evolving lives = emerging perceptions? Identifying phase shifts and stimuli for change in sociolinguistic evaluative judgements using dense time serial measurements** <br> *International Association of Applied Linguistics (AILA)* <br> Lyon, France 
 
-> <u>Wirtz, Mason A.</u> / Pickl, Simon / Niehaus, Konstantin / Elspaß, Stephan <br> **Klatsch und Tratsch zur Erweiterung dialektometrischer Verfahren: Ein Fallbeispiel aus dem Atlas zur deutschen Alltagssprache zur Mikrovariation im Raum Wien.** <br> Presented at: *Soziolinguistische Perspektiven: Kontakt – Variation – Wandel* <br> Bern, Switzerland <br> 13.05.2023
+> <u>Wirtz, Mason A.</u> / Pickl, Simon / Niehaus, Konstantin / Elspaß, Stephan <br> **Klatsch und Tratsch zur Erweiterung dialektometrischer Verfahren: Ein Fallbeispiel aus dem Atlas zur deutschen Alltagssprache zur Mikrovariation im Raum Wien.** <br> *Soziolinguistische Perspektiven: Kontakt – Variation – Wandel* <br> Bern, Switzerland <br> 13.05.2023
 
-> <u>Wirtz, Mason A.</u> <br> **Individual Differences in Variationist SLA: On the Dynamics of Socioaffect in Predicting Sociolinguistic Evaluative Judgements by L2 Learners in Adulthood** <br> Presented at: *L2 acquisition of non-equivalent linguistic and cognitive categories in Romance and Germanic languages: Transfer revisited (GeRoSLA)* <br> Salzburg, Austria <br> 29.09.2022
+> <u>Wirtz, Mason A.</u> <br> **Individual Differences in Variationist SLA: On the Dynamics of Socioaffect in Predicting Sociolinguistic Evaluative Judgements by L2 Learners in Adulthood** <br> *L2 acquisition of non-equivalent linguistic and cognitive categories in Romance and Germanic languages: Transfer revisited (GeRoSLA)* <br> Salzburg, Austria <br> 29.09.2022
 
-> <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. <br> **At the intersection of context and intra-speaker variation: Virtual reality as an elicitation instrument in sociolinguistic and psycholinguistic research** <br> Presented at: *Austrian Association of University Teachers of English* <br> Salzburg, Austria <br> 30.04.2022 <br> [Download slides](/publications/AAUTE22.pdf)
+> <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. <br> **At the intersection of context and intra-speaker variation: Virtual reality as an elicitation instrument in sociolinguistic and psycholinguistic research** <br> *Austrian Association of University Teachers of English* <br> Salzburg, Austria <br> 30.04.2022 <br> [Download slides](/publications/AAUTE22.pdf)
 
-> <u>Wirtz, Mason A.</u> / Unterberger, Eugen <br> **Red' Deutsch mit mir! Zur mehrsprachigen Vermittlung statistischer Ergebnisse** <br> Presented at: *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens* <br> Salzburg, Austria <br> 22.10.2021 <br> [Download slides](/publications/ZurMehrsprachigenVermittlungStatistischerErgebnisse.pdf)
+> <u>Wirtz, Mason A.</u> / Unterberger, Eugen <br> **Red' Deutsch mit mir! Zur mehrsprachigen Vermittlung statistischer Ergebnisse** <br> *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens* <br> Salzburg, Austria <br> 22.10.2021 <br> [Download slides](/publications/ZurMehrsprachigenVermittlungStatistischerErgebnisse.pdf)
 
-> <u>Wirtz, Mason A.</u> <br> **Discourse completion tasks meet virtual reality: A standalone researcher's new best friend?** <br> Presented at: *STaPs 18 (Sprachwissenschaftliche Tagung für Promotionsstudierende)* <br> Salzburg, Austria <br> 24.09.2021 <br> [Download slides](/publications/DiscourseCompletionTasksMeetVirtualReality.pdf)
+> <u>Wirtz, Mason A.</u> <br> **Discourse completion tasks meet virtual reality: A standalone researcher's new best friend?** <br> *STaPs 18 (Sprachwissenschaftliche Tagung für Promotionsstudierende)* <br> Salzburg, Austria <br> 24.09.2021 <br> [Download slides](/publications/DiscourseCompletionTasksMeetVirtualReality.pdf)
 
-> <u>Wirtz, Mason A.</u> <br> **Acquiring sociodialectal competence in a second language – one learner belief at a time** <br> Presented at: *Variation in Language Acquisition (ViLA)* <br> Rorschach, Switzerland <br> 02.06.2021 <br> [Download slides](/publications/AcquiringSociodialectalCompetenceInASecondLanguage.pdf)
+> <u>Wirtz, Mason A.</u> <br> **Acquiring sociodialectal competence in a second language – one learner belief at a time** <br> *Variation in Language Acquisition (ViLA)* <br> Rorschach, Switzerland <br> 02.06.2021 <br> [Download slides](/publications/AcquiringSociodialectalCompetenceInASecondLanguage.pdf)
 
 ----------------
 # Media
