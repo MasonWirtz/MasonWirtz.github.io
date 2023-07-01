@@ -21,8 +21,9 @@ This page houses my list of publications, including previous and upcoming theses
 # Journal Articles
 ----------------
 
-> <u>Wirtz, Mason A.</u> / Pickl, Simon / Niehaus, Konstantin / Elspaß, Stephan / Möller, Robert (in prep.) <br> **Reconciling the social and spatial: 
-An apparent-time analysis based on variation intensity.** 
+> <u>Wirtz, Mason A.</u> / Fischlhammer, Laura (in prep.) <br> **Erwerbstrajektorien von Varietätenkompetenz in der Zweitsprache: Eine temporal-relationale Perspektive auf das Aneignungsverhältnis standardsprachlicher und bairisch-dialektaler Merkmale.**
+
+> <u>Wirtz, Mason A.</u> / Pickl, Simon / Niehaus, Konstantin / Elspaß, Stephan / Möller, Robert (in prep.) <br> **Reconciling the social and spatial: An apparent-time analysis based on variation intensity.** 
 
 > <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. / Ender, Andrea / Kaiser, Irmtraud (in prep.) <br> **Sociolinguistic Competence and Varietal Repertoires in a Second Language: A Study on Addressee-Dependent Varietal Behavior Using Virtual Reality.** 
 
