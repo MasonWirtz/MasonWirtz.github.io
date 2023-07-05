@@ -39,33 +39,35 @@ This page houses a list of courses/workshops I have taught.
 - **Intro to RStudio and R Markdown for Open Data and Reproducibility (IntRo2RStudio)** <br> [Workshop materials](https://masonwirtz.github.io/intRo2RStudio/) <br> University of Salzburg, Austria <br> 18–19.03.2022 <br> Funded by the Doctoral College: Language, Society and Digital Life
 
 -------------------
-### Post-Secondary Teaching <br> Linguistics and SLA
+### Post-Secondary Teaching <br> Sociolinguistics and SLA
 -------------------
-- **Individuelle Unterschiede im erwachsenen Zweitspracherwerb (Individual Difference in Adult Second Language Acquisition)** <br> Fall Semester 2022/23 <br> University of Salzburg, Austria
+- **Soziolinguistische Kompetenz in DaM, DaZ, DaF (Sociolinguistic Competence in German as a First, Second, and Foreign Language)** (co-taught with Prof. Andrea Ender) <br> Summer Semester 2023 <br> BA/MA Seminar, University of Salzburg, Austria
 
-- **Language and Culture** <br> Fall Semester 2020 <br> Salzburg College, Austria
+- **Individuelle Unterschiede im erwachsenen Zweitspracherwerb (Individual Difference in Adult Second Language Acquisition)** <br> Fall Semester 2022/23 <br> Proseminar, University of Salzburg, Austria
 
-- **History of the Western World: Problems of the Human Past** <br> Fall Semester 2020 <br> Salzburg College, Austria
+- **Language and Culture** <br> Fall Semester 2020 <br> BA Proseminar, Salzburg College, Austria
+
+- **History of the Western World: Problems of the Human Past** <br> Fall Semester 2020 <br> BA Proseminar, Salzburg College, Austria
 
 -------------------
 ### Post-Secondary Teaching <br> Language Courses
 -------------------
-- **Beginning German I: Personal World** <br> Summer Semester 2020; Fall Semester 2020 <br> Salzburg College, Austria
+- **Beginning German I: Personal World** <br> Summer Semester 2020; Fall Semester 2020 <br> BA Proseminar, Salzburg College, Austria
 
-- **Beginning German II: The German-Speaking World** <br> Spring Semester 2020; Summer Semester 2020; Fall Semester 2020 <br> Salzburg College, Austria
+- **Beginning German II: The German-Speaking World** <br> Spring Semester 2020; Summer Semester 2020; Fall Semester 2020 <br> BA Proseminar, Salzburg College, Austria
 
-- **Intermediate German I** <br> Spring semester 2020 <br> Salzburg College, Austria
+- **Intermediate German I** <br> Spring semester 2020 <br> BA Proseminar, Salzburg College, Austria
 
-- **Advanced German II** <br> Spring Semester 2020 <br> Salzburg College, Austria
+- **Advanced German II** <br> Spring Semester 2020 <br> BA Proseminar, Salzburg College, Austria
 
-- **Reading, Writing, Translating** <br> Fall Semester 2020 <br> Salzburg College, Austria
+- **Reading, Writing, Translating** <br> Fall Semester 2020 <br> BA Proseminar, Salzburg College, Austria
 
 -------------------
 ### Post-Secondary Teaching <br> Academic Writing
 -------------------
-- **Rhetoric and Composition I** <br> Fall Semester 2020 <br> Salzburg College, Austria
+- **Rhetoric and Composition I** <br> Fall Semester 2020 <br> BA Proseminar, Salzburg College, Austria
 
-- **Rhetoric and Composition II** <br> Fall Semester 2020 <br> Salzburg College, Austria
+- **Rhetoric and Composition II** <br> Fall Semester 2020 <br> BA Proseminar, Salzburg College, Austria
 
 -------------------
 ### Adult Education <br> Language Courses
