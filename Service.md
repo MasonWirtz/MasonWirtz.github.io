@@ -7,7 +7,7 @@ title: "Service and Management"
 # (Institutional) Volunteer Work
 ----------------
 
-- Outreach between school and university (Middle school visit to the University of Salzburg w/ brief Q&A on academic careers; Highschool workshop on academic writing, i.e., preparation for the pre-scientific thesis)
+- Outreach between school and university (middle school visit to the University of Salzburg w/ brief Q&A on academic careers; highschool workshop on academic writing, i.e., preparation for the pre-scientific thesis)
 - Summer Semester 2023: Organization of the Lecture Series [Innovative Methods in Applied Linguistics](https://masonwirtz.github.io/IMiAL/)
 - Since 10/2022: Member of the faculty representatives (FV), representative for the Doctorate Student Union (Mitglied der Fakultätsvertretung von der StV Doktorat der Kultur- und Gesellschaftswissenschaftlichen Fakultät)
 - Since 07/2021: Head of the Doctorate Student Union (StV) (Vorsitzender der Studierendenvertretung Doktorat an der Kultur- und Gesellschaftswissenschaftlichen Fakultät)
