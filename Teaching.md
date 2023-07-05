@@ -16,7 +16,7 @@ To date, I have taught in a wide variety of areas, both in the Anglo-American an
 This page houses a list of courses/workshops I have taught. 
 
 -------------------
-### Video Series on Methods in (Applied) Linguistics (in German; for STUDENTS)
+### Video Series on Methods in (Applied) Linguistics (in German; for STUDENTS at BA and MA level)
 -------------------
 
 **Methoden in der Sprachwissenschaft: Eine Einführung**
@@ -27,7 +27,7 @@ This page houses a list of courses/workshops I have taught.
 
 
 -------------------
-### Workshops
+### Workshops (Statistics and Methodology)
 -------------------
 
 - **Psycho for PsychoPy! An Introduction to Creating Experiments in PsychoPy** <br> University of Salzburg, Austria <br> 07.2023
