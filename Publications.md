@@ -25,13 +25,13 @@ This page houses my list of publications, including previous and upcoming theses
 
 > <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. / Ender, Andrea / Kaiser, Irmtraud (in prep.) <br> **Sociolinguistic Competence and Varietal Repertoires in a Second Language: A Study on Addressee-Dependent Varietal Behavior Using Virtual Reality.**
 
-> <u>Wirtz, Mason A.</u> / Fischlhammer, Laura (under review) <br> **Erwerbstrajektorien von Varietätenkompetenz in der Zweitsprache: Eine temporal-relationale Perspektive auf das Aneignungsverhältnis standardsprachlicher und bairisch-dialektaler Merkmale.**
+> <u>Wirtz, Mason A.</u> / Fischlhammer, Laura (under review) <br> **Erwerbstrajektorien von Varietätenkompetenz in der Zweitsprache: Eine temporal-relationale Perspektive auf das Aneignungsverhältnis standardsprachlicher und bairisch-dialektaler Merkmale.** <br> *Zeitschrift für Angewandte Linguistik*
 
-> <u>Wirtz, Mason A.</u> / Pickl, Simon / Niehaus, Konstantin / Elspaß, Stephan / Möller, Robert (under review) <br> **Reconciling the social and spatial: An apparent-time analysis based on variation intensity.** 
+> <u>Wirtz, Mason A.</u> / Pickl, Simon / Niehaus, Konstantin / Elspaß, Stephan / Möller, Robert (under review) <br> **Reconciling the social and spatial: An apparent-time analysis based on variation intensity.** <br> *Journal of Linguistic Geography*
 
 > Pfenninger, Simone E. / <u>Wirtz, Mason A.</u> (under review) <br> **Reconciling the divides: A dynamic integrative analysis of variability and commonality in (pre)primary school English development in Switzerland.** <br> *Language Teaching Research Quarterly*
 
-> <u>Wirtz, Mason A.</u> (under review) <br> **On the relationship between complexity of primary occupation and L2 varietal behavior in adult migrants in Austria.** 
+> <u>Wirtz, Mason A.</u> (under review) <br> **On the relationship between complexity of primary occupation and L2 varietal behavior in adult migrants in Austria.** <br> *Linguistics Vanguard*
 
 > <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (accepted pending revisions) <br> **Capturing Thresholds and Continuities: Individual Differences as Predictors of L2 Sociolinguistic Repertoires in Adult Migrant Learners in Austria.** <br> *Applied Linguistics*.
 
