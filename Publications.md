@@ -23,6 +23,8 @@ This page houses my list of publications, including previous and upcoming theses
 
 > <u>Wirtz, Mason A.</u> / Pickl, Simon / Niehaus, Konstantin / Elspaß, Stephan / Möller, Robert (in prep.) <br> **Variation intensity in colloquial German as a function of occupational complexity.** 
 
+> <u>Wirtz, Mason A.</u> / Ender, Andrea (in prep.) <br> **Functional prestige in sociolinguistic evaluative judgements by adult L2 migrants in Austria: Evidence from perception.**
+
 > <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. / Kaiser, Irmtraud / Ender, Andrea (under review) <br> **Sociolinguistic Competence and Varietal Repertoires in a Second Language: A Study on Addressee-Dependent Varietal Behavior Using Virtual Reality.**
 
 > <u>Wirtz, Mason A.</u> / Fischlhammer, Laura (under review) <br> **Erwerbstrajektorien von Varietätenkompetenz in der Zweitsprache: Eine temporal-relationale Perspektive auf das Aneignungsverhältnis standardsprachlicher und bairisch-dialektaler Merkmale.** <br> *Zeitschrift für Angewandte Linguistik*
