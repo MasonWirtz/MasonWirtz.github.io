@@ -35,7 +35,7 @@ This page houses my list of publications, including previous and upcoming theses
 
 > <u>Wirtz, Mason A.</u> (under review) <br> **On the relationship between complexity of primary occupation and L2 varietal behavior in adult migrants in Austria.** <br> *Linguistics Vanguard*
 
-> <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (in press) <br> **Capturing Thresholds and Continuities: Individual Differences as Predictors of L2 Sociolinguistic Repertoires in Adult Migrant Learners in Austria.** <br> *Applied Linguistics*
+> <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (in press) <br> **Capturing Thresholds and Continuities: Individual Differences as Predictors of L2 Sociolinguistic Repertoires in Adult Migrant Learners in Austria.** <br> *Applied Linguistics* <br> [Open data](https://osf.io/xmw3f/)
 
 > <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (accepted pending revisions) <br> **Signature Dynamics of Development in L2 Sociolinguistic Competence: Evidence from an Intensive Micro-Longitudinal Study.** <br> *Language Learning*
 
