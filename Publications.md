@@ -37,7 +37,7 @@ This page houses my list of publications, including previous and upcoming theses
 
 > <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (accepted pending revisions) <br> **Signature Dynamics of Development in L2 Sociolinguistic Competence: Evidence from an Intensive Micro-Longitudinal Study.** <br> *Language Learning* <br> [Open data](https://osf.io/w4n62/)
 
-> <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (in press) <br> **Capturing Thresholds and Continuities: Individual Differences as Predictors of L2 Sociolinguistic Repertoires in Adult Migrant Learners in Austria.** <br> *Applied Linguistics* <br> [Open data](https://osf.io/xmw3f/)
+> <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (in press) <br> **Capturing Thresholds and Continuities: Individual Differences as Predictors of L2 Sociolinguistic Repertoires in Adult Migrant Learners in Austria.** <br> *Applied Linguistics* [DOI](10.1093/applin/amad055) <br> [Open data](https://osf.io/xmw3f/)
 
 > Ender, Andrea / Kasberger, Gudrun / <u>Wirtz, Mason A.</u> (in press) <br> **Standard- und Dialektbewertungen auf den Grund gehen: Individuelle Unterschiede und subjektive Theorien hinsichtlich Dialekt- und Standardaffinität bei Deutsch-als-Zweitsprachsprechenden im bairischsprachigen Österreich.** <br> *Zeitschrift für Deutsch im Kontext von Mehrsprachigkeit*, 1(2) (Spezielle Ausgabe: Aneignung von Deutsch im Dialekt-Standard-Kontinuum bzw. -Spektrum)
 
