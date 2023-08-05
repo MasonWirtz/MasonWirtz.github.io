@@ -13,47 +13,47 @@ This page houses my list of publications, including previous and upcoming theses
 # Books/Theses
 ----------------
 
-> <u>Wirtz, Mason A.</u> (2023) <br> **Inter- and Intra-Individual Variation in Adult L2 Sociolinguistic Repertoires. Dynamics of Linguistic, Socioaffective and Cognitive Factors.** <br> PhD Thesis, University of Salzburg (Salzburg, Austria)
+> <u>Wirtz, M. A.</u> (2023). *Inter- and Intra-Individual Variation in Adult L2 Sociolinguistic Repertoires. Dynamics of Linguistic, Socioaffective and Cognitive Factors.* Doctoral Dissertation, University of Salzburg (Salzburg, Austria)
 
-> <u>Wirtz, Mason A.</u> (2020) <br> **Strategieneinsatz zum Erwerb rezeptiver Varietätenkompetenzen im mittelbairischen Dialektgebiet.** <br> OhioLink: Online repository for Masters' and PhD theses. <br> Master's Thesis, Bowling Green State University (Ohio, USA)
+> <u>Wirtz, M. A.</u> (2020). *Strategieneinsatz zum Erwerb rezeptiver Varietätenkompetenzen im mittelbairischen Dialektgebiet.* OhioLink: Online repository for Masters' and PhD theses. Master's Thesis, Bowling Green State University (Ohio, USA)
 
 ----------------
 # Journal Articles
 ----------------
 
-> <u>Wirtz, Mason A.</u> / Pickl, Simon / Niehaus, Konstantin / Elspaß, Stephan / Möller, Robert (in prep.) <br> **Variation intensity in colloquial German as a function of occupational complexity.** 
+> <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (in prep.). *Variation intensity in colloquial German as a function of occupational complexity.*
 
-> <u>Wirtz, Mason A.</u> / Ender, Andrea (in prep.) <br> **Functional prestige in sociolinguistic evaluative judgements by adult L2 migrants in Austria: Evidence from perception.**
+> <u>Wirtz, M. A.</u>, & Ender, A. (in prep.). *Functional prestige in sociolinguistic evaluative judgements by adult L2 migrants in Austria: Evidence from perception.*
 
-> <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. / Kaiser, Irmtraud / Ender, Andrea (under review) <br> **Sociolinguistic Competence and Varietal Repertoires in a Second Language: A Study on Addressee-Dependent Varietal Behavior Using Virtual Reality.**
+> <u>Wirtz, M. A.</u>, Pfenninger, S. E., Kaiser, I., & Ender, A. (under review). *Sociolinguistic competence and varietal repertoires in a second language: A study on addressee-dependent varietal behavior using virtual reality.*
 
-> <u>Wirtz, Mason A.</u> / Fischlhammer, Laura (under review) <br> **Erwerbstrajektorien von Varietätenkompetenz in der Zweitsprache: Eine temporal-relationale Perspektive auf das Aneignungsverhältnis standardsprachlicher und bairisch-dialektaler Merkmale.** <br> *Zeitschrift für Angewandte Linguistik*
+> <u>Wirtz, M. A.</u>, & Fischlhammer, L. (under review). Erwerbstrajektorien von Varietätenkompetenz in der Zweitsprache: Eine temporal-relationale Perspektive auf das Aneignungsverhältnis standardsprachlicher und bairisch-dialektaler Merkmale. *Zeitschrift für Angewandte Linguistik.*
 
-> <u>Wirtz, Mason A.</u> / Pickl, Simon / Niehaus, Konstantin / Elspaß, Stephan / Möller, Robert (under review) <br> **Reconciling the social and spatial: An apparent-time analysis based on variation intensity.** <br> *Journal of Linguistic Geography*
+> <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (under review). Reconciling the social and spatial: An apparent-time analysis based on variation intensity. *Journal of Linguistic Geography.*
 
-> Pfenninger, Simone E. / <u>Wirtz, Mason A.</u> (under review) <br> **Reconciling the divides: A dynamic integrative analysis of variability and commonality in (pre)primary school English development in Switzerland.** <br> *Language Teaching Research Quarterly*
+> Pfenninger, S. E., & <u>Wirtz, M. A.</u> (under review). Reconciling the divides: A dynamic integrative analysis of variability and commonality in (pre)primary school English development in Switzerland. *Language Teaching Research Quarterly.*
 
-> <u>Wirtz, Mason A.</u> (under review) <br> **On the relationship between complexity of primary occupation and L2 varietal behavior in adult migrants in Austria.** <br> *Linguistics Vanguard*
+> <u>Wirtz, M. A.</u> (under review). On the relationship between complexity of primary occupation and L2 varietal behavior in adult migrants in Austria. *Linguistics Vanguard.*
 
-> <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (accepted pending revisions) <br> **Signature Dynamics of Development in L2 Sociolinguistic Competence: Evidence from an Intensive Micro-Longitudinal Study.** <br> *Language Learning* <br> [Open data](https://osf.io/w4n62/)
+> <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (accepted pending revisions). Signature Dynamics of Development in L2 Sociolinguistic Competence: Evidence from an Intensive Micro-Longitudinal Study. *Language Learning* <br> [Open data](https://osf.io/w4n62/)
 
-> <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (in press) <br> **Capturing Thresholds and Continuities: Individual Differences as Predictors of L2 Sociolinguistic Repertoires in Adult Migrant Learners in Austria.** <br> *Applied Linguistics*. Advanced online publication. [DOI](10.1093/applin/amad055) <br> [Open data](https://osf.io/xmw3f/)
+> <u>Wirtz, M. A.</u>, & Pfenninger, Simone E. (in press). Capturing Thresholds and Continuities: Individual Differences as Predictors of L2 Sociolinguistic Repertoires in Adult Migrant Learners in Austria. *Applied Linguistics*. Advanced online publication. [DOI](10.1093/applin/amad055) <br> [Open data](https://osf.io/xmw3f/)
 
-> Ender, Andrea / Kasberger, Gudrun / <u>Wirtz, Mason A.</u> (in press) <br> **Standard- und Dialektbewertungen auf den Grund gehen: Individuelle Unterschiede und subjektive Theorien hinsichtlich Dialekt- und Standardaffinität bei Deutsch-als-Zweitsprachsprechenden im bairischsprachigen Österreich.** <br> *Zeitschrift für Deutsch im Kontext von Mehrsprachigkeit*, 1(2) (Spezielle Ausgabe: Aneignung von Deutsch im Dialekt-Standard-Kontinuum bzw. -Spektrum)
+> Ender, A., Kasberger, G., & <u>Wirtz, M. A.</u> (in press). Standard- und Dialektbewertungen auf den Grund gehen: Individuelle Unterschiede und subjektive Theorien hinsichtlich Dialekt- und Standardaffinität bei Deutsch-als-Zweitsprachsprechenden im bairischsprachigen Österreich. *Zeitschrift für Deutsch im Kontext von Mehrsprachigkeit, 1*(2).
 
-> <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (2023) <br> **Variability and Individual Differences in L2 Sociolinguistic Evaluations: The GROUP, the INDIVIDUAL and the HOMOGENEOUS ENSEMBLE.** <br> *Studies in Second Language Acquisition*. Advanced online publication. [DOI](https://doi.org/10.1017/S0272263123000177) <br> [Download article](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E2C4F9CB8D6DFF7B8D74802487143258/S0272263123000177a.pdf/variability_and_individual_differences_in_l2_sociolinguistic_evaluations_the_group_the_individual_and_the_homogeneous_ensemble.pdf) <br> [Open data](https://osf.io/yrqn6/)
+> <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (2023). Variability and Individual Differences in L2 Sociolinguistic Evaluations: The GROUP, the INDIVIDUAL and the HOMOGENEOUS ENSEMBLE. *Studies in Second Language Acquisition*. Advanced online publication. [DOI](https://doi.org/10.1017/S0272263123000177) <br> [Download article](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E2C4F9CB8D6DFF7B8D74802487143258/S0272263123000177a.pdf/variability_and_individual_differences_in_l2_sociolinguistic_evaluations_the_group_the_individual_and_the_homogeneous_ensemble.pdf) <br> [Open data](https://osf.io/yrqn6/)
 
-> <u>Wirtz, Mason A.</u> (2022) <br> **Discourse completion tasks meet virtual reality: A pilot study on virtual reality as an elicitation instrument.** <br> *Research Methods in Applied Linguistics*, 1(3), 1–12. [DOI](https://www.sciencedirect.com/science/article/pii/S277276612200026X) <br> [Download article](/publications/Wirtz_2022_RMAL.pdf) <br> [Open data](https://osf.io/ebcdf/)
+> <u>Wirtz, M. A.</u> (2022). Discourse completion tasks meet virtual reality: A pilot study on virtual reality as an elicitation instrument. *Research Methods in Applied Linguistics, 1*(3), 1–12. [DOI](https://www.sciencedirect.com/science/article/pii/S277276612200026X) <br> [Download article](/publications/Wirtz_2022_RMAL.pdf) <br> [Open data](https://osf.io/ebcdf/)
 
-> <u>Wirtz, Mason A.</u> (2021) <br> **Understanding Austria from Afar: Treating Regional Variation in the Virtual German as a Foreign Language Classroom. A Case Study in Light of COVID-19.** <br> *Frontiers: The Interdisciplinary Journal of Study Abroad*, 33(3), 59-69. [DOI](https://frontiersjournal.org/index.php/Frontiers/article/view/548/474) <br> [Download article](https://frontiersjournal.org/index.php/Frontiers/article/view/548/474)
+> <u>Wirtz, M. A.</u> (2021). Understanding Austria from Afar: Treating Regional Variation in the Virtual German as a Foreign Language Classroom. A Case Study in Light of COVID-19. *Frontiers: The Interdisciplinary Journal of Study Abroad, 33*(3), 59-69. [DOI](https://frontiersjournal.org/index.php/Frontiers/article/view/548/474) <br> [Download article](https://frontiersjournal.org/index.php/Frontiers/article/view/548/474)
 
 ----------------
 # Chapters in Edited Volumes
 ----------------
 
-> <u>Wirtz, Mason A.</u> / Pfenninger, Simone E. (in prep., invited contribution) <br> **Theoretical, methodological, and computational perspectives for immersive virtual reality in variationist SLA: Insights from user experience.** <br> In M. Kanwit, M. Solon & A. Gudmestad (Eds.), *Research at the intersection of second language acquisition and sociolinguistics: Studies in honor of Kimberly L. Geeslin*. 
+> <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (in prep., invited contribution). Theoretical, methodological, and computational perspectives for immersive virtual reality in variationist SLA: Insights from user experience. In M. Kanwit, M. Solon & A. Gudmestad (Eds.), *Research at the intersection of second language acquisition and sociolinguistics: Studies in honor of Kimberly L. Geeslin*. 
 
-> <u>Wirtz, Mason A.</u> (under review) <br> **Datenvisualisierung als mehrsprachiges Vermittlungsinstrument.** <br> In F. Gmainer-Pranzl & A. Ender (Eds.), *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens*.
+> <u>Wirtz, M. A.</u> (under review). Datenvisualisierung als mehrsprachiges Vermittlungsinstrument. In F. Gmainer-Pranzl & A. Ender (Eds.), *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens*.
 
 ----------------
 # Plenary Speaker
