@@ -35,7 +35,7 @@ This page houses my list of publications, including previous and upcoming theses
 
 > <u>Wirtz, M. A.</u> (revisions submitted). On the relationship between complexity of primary occupation and L2 varietal behavior in adult migrants in Austria. *Linguistics Vanguard.*
 
-> <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (accepted pending revisions). Signature Dynamics of Development in L2 Sociolinguistic Competence: Evidence from an Intensive Micro-Longitudinal Study. *Language Learning*. <br> [Open data](https://osf.io/w4n62/)
+> <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (accepted). Signature Dynamics of Development in L2 Sociolinguistic Competence: Evidence from an Intensive Micro-Longitudinal Study. *Language Learning*. <br> [Open data](https://osf.io/w4n62/)
 
 > Ender, A., Kasberger, G., & <u>Wirtz, M. A.</u> (in press). Standard- und Dialektbewertungen auf den Grund gehen: Individuelle Unterschiede und subjektive Theorien hinsichtlich Dialekt- und Standardaffinität bei Deutsch-als-Zweitsprachsprechenden im bairischsprachigen Österreich. *Zeitschrift für Deutsch im Kontext von Mehrsprachigkeit, 1*(2).
 
