@@ -79,9 +79,9 @@ This page houses my list of publications, including previous and upcoming theses
 # (Upcoming) Conference Presentations
 ----------------
 
-> <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., & Elspaß, S. (accepted). Zur Quantifizierung von Variation: Das Potential von Variationsintensität in einer *Apparent-Time* Analyse der Alltagssprache im deutschsprachigen Raum. *Bayerisch-Österreichische Dialektologietagung (BÖDT).* Munich, Germany.
+> <u>Wirtz, M. A.</u> (22.09.2023). Soziale, linguistische und sozioaffektive Prädiktoren für den Erwerb von Variation im Deutschen als Zweitsprache bei Erwachsenen im bairischsprachigen Österreich. *Aneignung und Vermittlung des Deutschen innerhalb von deutscher und mehrsprachiger Variation.* Vienna, Austria.
 
-> <u>Wirtz, M. A.</u> (accepted). Soziale, linguistische und sozioaffektive Prädiktoren für den Erwerb von Variation im Deutschen als Zweitsprache bei Erwachsenen im bairischsprachigen Österreich. *Aneignung und Vermittlung des Deutschen innerhalb von deutscher und mehrsprachiger Variation.* Vienna, Austria.
+> <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., & Elspaß, S. (14.09.2023). Zur Quantifizierung von Variation: Das Potential von Variationsintensität in einer *Apparent-Time* Analyse der Alltagssprache im deutschsprachigen Raum. *Bayerisch-Österreichische Dialektologietagung (BÖDT).* Munich, Germany.
 
 > <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (20.07.2023). Evolving lives = emerging perceptions? Identifying phase shifts and stimuli for change in sociolinguistic evaluative judgements using dense time serial measurements. *International Association of Applied Linguistics (AILA).* Lyon, France.
 
