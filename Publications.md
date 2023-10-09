@@ -21,7 +21,7 @@ This page houses my list of publications, including previous and upcoming theses
 # Journal Articles
 ----------------
 
-> <u>Wirtz, M. A.</u>, Kaiser, I., & Ender, A. (in prep.). *Decomposing varietal exposure in the lives of adult migrant L2 learners in Austria: A look at the dialect-standard-continuum.*
+> <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (in prep.). *Zur Dominanz von (Non-)Standard-Varianten in der Alltagssprache: Eine integrative Modellierung räumlicher und soziodemographischer Variation anhand von Generalized Additive Mixed-Effects Models.*
 
 > <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (in prep.). *Variation intensity in colloquial German as a function of occupational complexity.*
 
@@ -52,6 +52,8 @@ This page houses my list of publications, including previous and upcoming theses
 ----------------
 # Chapters in Edited Volumes
 ----------------
+
+> <u>Wirtz, M. A.</u>, Kaiser, I., & Ender, A. (in prep.). *Decomposing varietal exposure in the lives of adult migrant L2 learners in Austria: A look at the dialect-standard-continuum.*
 
 > <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (in prep., invited contribution). Theoretical, methodological, and computational perspectives for immersive virtual reality in variationist SLA: Insights from user experience. In M. Kanwit, M. Solon & A. Gudmestad (Eds.), *Research at the intersection of second language acquisition and sociolinguistics: Studies in honor of Kimberly L. Geeslin*. 
 
