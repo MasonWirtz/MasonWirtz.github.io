@@ -33,7 +33,7 @@ This page houses my list of publications, including previous and upcoming theses
 
 > Pfenninger, S. E., & <u>Wirtz, M. A.</u> (accepted). Reconciling the divides: A dynamic integrative analysis of variability and commonality in (pre)primary school English development in Switzerland. *Language Teaching Research Quarterly.*
 
-> <u>Wirtz, M. A.</u> (accepted with minor revisions). On the relationship between complexity of primary occupation and L2 varietal behavior in adult migrants in Austria. *Linguistics Vanguard.*
+> <u>Wirtz, M. A.</u> (in press). On the relationship between complexity of primary occupation and L2 varietal behavior in adult migrants in Austria. *Linguistics Vanguard.*
 
 > <u>Wirtz, M. A.</u>, & Fischlhammer, L. (in press). Erwerbstrajektorien von Varietätenkompetenz in der Zweitsprache: Eine temporal-relationale Perspektive auf das Aneignungsverhältnis standardsprachlicher und bairisch-dialektaler Merkmale. *Zeitschrift für Angewandte Linguistik.* <br> [Open data](https://osf.io/s9nf2/)
 
