@@ -55,7 +55,7 @@ This page houses my list of publications, including previous and upcoming theses
 
 > <u>Wirtz, M. A.</u>, Kaiser, I., & Ender, A. (in prep.). *Decomposing varietal exposure in the lives of adult migrant L2 learners in Austria: A look at the dialect-standard-continuum.*
 
-> <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (in prep., invited contribution). Theoretical, methodological, and computational perspectives for immersive virtual reality in variationist SLA: Insights from user experience. In M. Kanwit, M. Solon & A. Gudmestad (Eds.), *Research at the intersection of second language acquisition and sociolinguistics: Studies in honor of Kimberly L. Geeslin*. 
+> <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (under review, invited contribution). Theoretical, methodological, and computational perspectives on immersive virtual reality in variationist SLA: Insights from user experience. In M. Kanwit, M. Solon & A. Gudmestad (Eds.), *Research at the intersection of second language acquisition and sociolinguistics: Studies in honor of Kimberly L. Geeslin*. 
 
 > <u>Wirtz, M. A.</u> (under review). Datenvisualisierung als mehrsprachiges Vermittlungsinstrument. In F. Gmainer-Pranzl & A. Ender (Eds.), *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens*.
 
