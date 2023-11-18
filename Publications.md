@@ -81,6 +81,10 @@ This page houses my list of publications, including previous and upcoming theses
 # (Upcoming) Conference Presentations
 ----------------
 
+> <u>Wirtz, M. A.</u>, Pickl, S. (accepted). Characteristics of major life events as catalysts for retrospective perceptions of linguistic change across adulthood. *Conference for Corpora on Language and Aging (CLARe6).* Tübingen, Germany.
+
+> <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., & Elspaß, S. (07.12.2023). Variationsintensität und berufsbezogene Komplexität: Zwei neue Konzepte für die Variationslinguistik und ihre Anwendung. *Quantitative Ansätze in der Dialektologie und Variationslinguistik: Neue Methoden – neue Befunde?* Munich, Germany.
+
 > <u>Wirtz, M. A.</u> (22.09.2023). Soziale, linguistische und sozioaffektive Prädiktoren für den Erwerb von Variation im Deutschen als Zweitsprache bei Erwachsenen im bairischsprachigen Österreich. *Aneignung und Vermittlung des Deutschen innerhalb von deutscher und mehrsprachiger Variation.* Vienna, Austria.
 
 > <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., & Elspaß, S. (14.09.2023). Zur Quantifizierung von Variation: Das Potential von Variationsintensität in einer *Apparent-Time* Analyse der Alltagssprache im deutschsprachigen Raum. *Bayerisch-Österreichische Dialektologietagung (BÖDT).* Munich, Germany.
