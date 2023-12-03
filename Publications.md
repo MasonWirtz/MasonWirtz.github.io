@@ -111,6 +111,8 @@ This page houses my list of publications, including previous and upcoming theses
 # Media
 ----------------
 
+> [Salzburger Nachrichten: Verändern Lebensereignisse die Sprache? (01.12.2023)](https://www.sn.at/salzburg/chronik/veraendern-lebensereignisse-sprache-salzburger-forscher-teilnahme-online-umfrage-149343079)
+
 > [Die Presse: Die Sprachkarte des 21. Jahrhunderts (30.04.2023)](https://www.diepresse.com/6281274/die-sprachkarte-des-21-jahrhunderts)
 
 > [DiÖ: Dialekt lernt man nicht, den bekommt man mit. Stimmt das?](https://iam.dioe.at/frage-des-monats/dialekt-lernt-man-nicht-den-bekommt-man-mit)
