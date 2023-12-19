@@ -31,7 +31,7 @@ This page houses my list of publications, including previous and upcoming theses
 
 > <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (under review). Reconciling the social and spatial: An apparent-time analysis based on variation intensity. *Journal of Linguistic Geography.*
 
-> Pfenninger, S. E., & <u>Wirtz, M. A.</u> (in press). Reconciling the divides: A dynamic integrative analysis of variability and commonality in (pre)primary school English development in Switzerland. *Language Teaching Research Quarterly.*
+> Pfenninger, S. E., & <u>Wirtz, M. A.</u> (2023). Reconciling the divides: A dynamic integrative analysis of variability and commonality in (pre)primary school English development in Switzerland. *Language Teaching Research Quarterly*, 46(1), 145-173. [DOI](https://eurokd.com/doi/10.32038/ltrq.2024.39.11) <br> [Download article](https://api.eurokd.com/Uploads/Article/936/ltrq.2024.39.11.pdf) <br>  [Open data](https://osf.io/purk9/?view_only=13823b26ff744bd593c4c9d404e0ed8c)
 
 > <u>Wirtz, M. A.</u> (in press). On the relationship between complexity of primary occupation and L2 varietal behavior in adult migrants in Austria. *Linguistics Vanguard.*
 
