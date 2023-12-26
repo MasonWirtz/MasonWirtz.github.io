@@ -81,8 +81,6 @@ This page houses my list of publications, including previous and upcoming theses
 # (Upcoming) Conference Presentations
 ----------------
 
-> <u>Wirtz, M. A.</u>, Pickl, S. (accepted). Characteristics of major life events as catalysts for retrospective perceptions of linguistic change across adulthood. *Conference for Corpora on Language and Aging (CLARe6).* Tübingen, Germany.
-
 > PANEL ORGANIZER: <br> <u>Wirtz, M. A.</u>, & Schmidt-Riese, A. (accepted). Dynamics of Sociolinguistic Development in the First and Second Language. *International Conference on Language Variation in Europe (ICLaVE).* Vienna, Austria.
 
 > PANEL ORGANIZER: <br> <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., & Elspaß, S. (accepted). Modeling Context and the Individual. *International Conference on Language Variation in Europe (ICLaVE).* Vienna, Austria.
