@@ -15,9 +15,9 @@ To date, I have taught in a wide variety of areas, both in the Anglo-American an
 
 This page houses a list of courses/workshops I have taught. 
 
--------------------
-### Video Series on Methods in (Applied) Linguistics (in German; for STUDENTS at BA and MA level)
--------------------
+<br> 
+
+> ### Video Series on Methods in (Applied) Linguistics (in German; for STUDENTS at BA and MA level)
 
 **Methoden in der Sprachwissenschaft: Eine Einführung** 
 
@@ -26,9 +26,7 @@ This page houses a list of courses/workshops I have taught.
 – [Einheit 2: Deskriptive Statistik](https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=0dc27fe0-5596-4db5-a651-afef00f95f5b) 
 
 
--------------------
-### Workshops (Statistics and Methodology)
--------------------
+> ### Workshops (Statistics and Methodology)
 
 - **Psycho for PsychoPy! An Introduction to Creating Experiments in PsychoPy** <br> University of Salzburg, Austria <br> 07.2023
 
@@ -38,9 +36,9 @@ This page houses a list of courses/workshops I have taught.
 
 - **Intro to RStudio and R Markdown for Open Data and Reproducibility (IntRo2RStudio)** <br> [Workshop materials](https://masonwirtz.github.io/intRo2RStudio/) <br> University of Salzburg, Austria <br> 18–19.03.2022 <br> Funded by the Doctoral College: Language, Society and Digital Life
 
--------------------
-### Post-Secondary Teaching <br> Sociolinguistics and SLA
--------------------
+
+> ### Post-Secondary Teaching <br> Sociolinguistics and SLA
+
 - **Soziolinguistische Kompetenz in DaM, DaZ, DaF (Sociolinguistic Competence in German as a First, Second, and Foreign Language)** (co-taught with Prof. Andrea Ender) <br> Summer Semester 2023 <br> BA/MA Seminar, University of Salzburg, Austria
 
 - **Individuelle Unterschiede im erwachsenen Zweitspracherwerb (Individual Difference in Adult Second Language Acquisition)** <br> Fall Semester 2022/23 <br> Proseminar, University of Salzburg, Austria
@@ -49,9 +47,9 @@ This page houses a list of courses/workshops I have taught.
 
 - **History of the Western World: Problems of the Human Past** <br> Fall Semester 2020 <br> BA Proseminar, Salzburg College, Austria
 
--------------------
-### Post-Secondary Teaching <br> Language Courses
--------------------
+
+> ### Post-Secondary Teaching <br> Language Courses
+
 - **Beginning German I: Personal World** <br> Summer Semester 2020; Fall Semester 2020 <br> BA Proseminar, Salzburg College, Austria
 
 - **Beginning German II: The German-Speaking World** <br> Spring Semester 2020; Summer Semester 2020; Fall Semester 2020 <br> BA Proseminar, Salzburg College, Austria
@@ -62,16 +60,16 @@ This page houses a list of courses/workshops I have taught.
 
 - **Reading, Writing, Translating** <br> Fall Semester 2020 <br> BA Proseminar, Salzburg College, Austria
 
--------------------
-### Post-Secondary Teaching <br> Academic Writing
--------------------
+
+> ### Post-Secondary Teaching <br> Academic Writing
+
 - **Rhetoric and Composition I** <br> Fall Semester 2020 <br> BA Proseminar, Salzburg College, Austria
 
 - **Rhetoric and Composition II** <br> Fall Semester 2020 <br> BA Proseminar, Salzburg College, Austria
 
--------------------
-### Adult Education <br> Language Courses
--------------------
+
+> ### Adult Education <br> Language Courses
+
 - **German language course: Level A1** <br> LernCENTER Progredere, Austria
 
 - **German language course: Level A2** <br> LernCENTER Progredere, Austria <br> BFI Salzburg, Austria <br> BFI Linz, Austria
