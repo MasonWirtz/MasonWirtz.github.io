@@ -13,6 +13,8 @@ This page houses my list of publications, including previous and upcoming theses
 # Books/Theses
 ----------------
 
+> # 2023
+
 > <u>Wirtz, M. A.</u> (2023). *Inter- and Intra-Individual Variation in Adult L2 Sociolinguistic Repertoires. Dynamics of Linguistic, Socioaffective and Cognitive Factors.* Doctoral Dissertation, University of Salzburg (Salzburg, Austria)
 
 > <u>Wirtz, M. A.</u> (2020). *Strategieneinsatz zum Erwerb rezeptiver Varietätenkompetenzen im mittelbairischen Dialektgebiet.* OhioLink: Online repository for Masters' and PhD theses. Master's Thesis, Bowling Green State University (Ohio, USA)
