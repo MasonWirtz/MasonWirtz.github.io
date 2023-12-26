@@ -83,6 +83,16 @@ This page houses my list of publications, including previous and upcoming theses
 
 > <u>Wirtz, M. A.</u>, Pickl, S. (accepted). Characteristics of major life events as catalysts for retrospective perceptions of linguistic change across adulthood. *Conference for Corpora on Language and Aging (CLARe6).* Tübingen, Germany.
 
+> PANEL ORGANIZER: <br> <u>Wirtz, M. A.</u>, & Schmidt-Riese, A. (accepted). Dynamics of Sociolinguistic Development in the First and Second Language. *International Conference on Language Variation in Europe (ICLaVE).* Vienna, Austria.
+
+> PANEL ORGANIZER: <br> <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., & Elspaß, S. (accepted). Modeling Context and the Individual. *International Conference on Language Variation in Europe (ICLaVE).* Vienna, Austria.
+
+> <u>Wirtz, M. A.</u>, Pickl, S., & Niehaus, K. (accepted). Taking a new perspective to occupational metrics: Variation intensity in colloquial German as a function of occupational complexity. *International Conference on Language Variation in Europe (ICLaVE).* Vienna, Austria.
+
+> <u>Wirtz, M. A.</u> (accepted). Operationalizing individuality in variationist SLA: Taking stock and charging forward. *International Conference on Language Variation in Europe (ICLaVE).* Vienna, Austria.
+
+> <u>Wirtz, M. A.</u>, & Pickl, S. (accepted). Characteristics of major life events as catalysts for retrospective perceptions of linguistic change across adulthood. *Conference for Corpora on Language and Aging (CLARe6).* Tübingen, Germany.
+
 > <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., & Elspaß, S. (07.12.2023). Variationsintensität und berufsbezogene Komplexität: Zwei neue Konzepte für die Variationslinguistik und ihre Anwendung. *Quantitative Ansätze in der Dialektologie und Variationslinguistik: Neue Methoden – neue Befunde?* Munich, Germany.
 
 > <u>Wirtz, M. A.</u> (22.09.2023). Soziale, linguistische und sozioaffektive Prädiktoren für den Erwerb von Variation im Deutschen als Zweitsprache bei Erwachsenen im bairischsprachigen Österreich. *Aneignung und Vermittlung des Deutschen innerhalb von deutscher und mehrsprachiger Variation.* Vienna, Austria.
