@@ -75,10 +75,20 @@ This page houses my list of publications, including previous and upcoming theses
 
 
 
+<br>
+<br>
+<br>
 
 > # Plenary Speaker
 
 * Pfenninger, S. E., & <u>Wirtz, M. A.</u> (20.05.2022). “I thought I was there, just sitting in my chair” – Towards immersive task-based elicitation methodologies using virtual reality. *33rd International Conference on Foreign / Second Language Acquisition.* Szczyrk, Poland. <br> [Download slides](/publications/ICFSLA22.pdf)
+
+
+
+<br>
+<br>
+<br>
+
 
 
 > # Invited Talks / Guest Lectures
@@ -90,6 +100,11 @@ This page houses my list of publications, including previous and upcoming theses
 * <u>Wirtz, M. A.</u> (01.07.2022). Vom Umgang mit Dialekten im DaF/DaZ-Unterricht: Praktische Ansätze zur Förderung (rezeptiver) Varietätenkompetenz. Presented at: *Österreichischer Verband für Deutsch als Fremd/Zweitsprache.* <br> Innsbruck, Austria.
 
 * <u>Wirtz, M. A.</u> (11.01.2022). Soziolinguistische Kompetenz im Zweitspracherwerb bei Erwachsenen. Dynamiken von linguistischen, sozioaffektiven und kognitiven Faktoren in der soziolinguistischen Entwicklung. Presented at: *Österreichischer Verband für Deutsch als Fremd/Zweitsprache.* <br> Salzburg, Austria. <br> [Download slides](/publications/OeDaFVortrag.pdf)
+
+<br>
+<br>
+<br>
+
 
 
 > # (Upcoming) Conference Presentations
