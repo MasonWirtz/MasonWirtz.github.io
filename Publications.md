@@ -13,7 +13,6 @@ This page houses my list of publications, including previous and upcoming theses
 > # Publications
 
 ## In Preparation
-----------------
 
 * <u>Wirtz, M. A.</u>, Kaiser, I., & Ender, A. (in prep.). *Decomposing varietal exposure in the lives of adult migrant L2 learners in Austria: A look at the dialect-standard-continuum.*
 
@@ -23,8 +22,8 @@ This page houses my list of publications, including previous and upcoming theses
 
 * <u>Wirtz, M. A.</u>, & Ender, A. (in prep.). *Functional prestige in sociolinguistic evaluative judgements by adult L2 migrants in Austria: Evidence from perception.*
 
-## Under Review
 ----------------
+## Under Review
 
 * <u>Wirtz, M. A.</u>, Pfenninger, S. E., Kaiser, I., & Ender, A. (under review). *Sociolinguistic competence and varietal repertoires in a second language: A study on addressee-dependent varietal behavior using virtual reality.*
 
@@ -34,8 +33,8 @@ This page houses my list of publications, including previous and upcoming theses
 
 * <u>Wirtz, M. A.</u> (under review). Datenvisualisierung als mehrsprachiges Vermittlungsinstrument. In F. Gmainer-Pranzl & A. Ender (Eds.), *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens*.
 
-## 2024 / In Press
 ----------------
+## 2024 / In Press
 
 * <u>Wirtz, M. A.</u> (in press). On the relationship between complexity of primary occupation and L2 varietal behavior in adult migrants in Austria. *Linguistics Vanguard.*
 
@@ -45,8 +44,8 @@ This page houses my list of publications, including previous and upcoming theses
 
 * Pfenninger, S. E., & <u>Wirtz, M. A.</u> (2024). Reconciling the divides: A dynamic integrative analysis of variability and commonality in (pre)primary school English development in Switzerland. *Language Teaching Research Quarterly*, 46(1), 145-173. [DOI](https://eurokd.com/doi/10.32038/ltrq.2024.39.11) <br> [Download article](https://api.eurokd.com/Uploads/Article/936/ltrq.2024.39.11.pdf) <br>  [Open data](https://osf.io/purk9/?view_only=13823b26ff744bd593c4c9d404e0ed8c)
 
-## 2023
 ----------------
+## 2023
 
 * Ender, A., Kasberger, G., & <u>Wirtz, M. A.</u> (2023). Standard- und Dialektbewertungen auf den Grund gehen: Individuelle Unterschiede und subjektive Theorien hinsichtlich Dialekt- und Standardaffinität bei Personen mit Deutsch als Zweitsprache im bairischsprachigen Österreich. *Zeitschrift für Deutsch im Kontext von Mehrsprachigkeit, 1*(2), 8-25. [DOI](https://www.vr-elibrary.de/doi/abs/10.14220/odaf.2023.39.1.8)
 
@@ -56,18 +55,18 @@ This page houses my list of publications, including previous and upcoming theses
 
 * <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (2023). Variability and Individual Differences in L2 Sociolinguistic Evaluations: The GROUP, the INDIVIDUAL and the HOMOGENEOUS ENSEMBLE. *Studies in Second Language Acquisition*, 45(5), 1186–1209. [DOI](https://doi.org/10.1017/S0272263123000177) <br> [Download article](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/E2C4F9CB8D6DFF7B8D74802487143258/S0272263123000177a.pdf/variability_and_individual_differences_in_l2_sociolinguistic_evaluations_the_group_the_individual_and_the_homogeneous_ensemble.pdf) <br> [Open data](https://osf.io/yrqn6/)
 
-## 2022
 ----------------
+## 2022
 
 * <u>Wirtz, M. A.</u> (2022). Discourse completion tasks meet virtual reality: A pilot study on virtual reality as an elicitation instrument. *Research Methods in Applied Linguistics, 1*(3), 1–12. [DOI](https://www.sciencedirect.com/science/article/pii/S277276612200026X) <br> [Download article](/publications/Wirtz_2022_RMAL.pdf) <br> [Open data](https://osf.io/ebcdf/)
 
-## 2021
 ----------------
+## 2021
 
 * <u>Wirtz, M. A.</u> (2021). Understanding Austria from Afar: Treating Regional Variation in the Virtual German as a Foreign Language Classroom. A Case Study in Light of COVID-19. *Frontiers: The Interdisciplinary Journal of Study Abroad, 33*(3), 59-69. [DOI](https://frontiersjournal.org/index.php/Frontiers/article/view/548/474) <br> [Download article](https://frontiersjournal.org/index.php/Frontiers/article/view/548/474)
 
-## 2020
 ----------------
+## 2020
 
 * <u>Wirtz, M. A.</u> (2020). *Strategieneinsatz zum Erwerb rezeptiver Varietätenkompetenzen im mittelbairischen Dialektgebiet.* OhioLink: Online repository for Masters' and PhD theses. Master's Thesis, Bowling Green State University (Ohio, USA)
 
