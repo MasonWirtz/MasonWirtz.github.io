@@ -31,13 +31,13 @@ This page houses my list of publications, including previous and upcoming theses
 
 > <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (under review). Reconciling the social and spatial: An apparent-time analysis based on variation intensity. *Journal of Linguistic Geography.*
 
-> Pfenninger, S. E., & <u>Wirtz, M. A.</u> (2023). Reconciling the divides: A dynamic integrative analysis of variability and commonality in (pre)primary school English development in Switzerland. *Language Teaching Research Quarterly*, 46(1), 145-173. [DOI](https://eurokd.com/doi/10.32038/ltrq.2024.39.11) <br> [Download article](https://api.eurokd.com/Uploads/Article/936/ltrq.2024.39.11.pdf) <br>  [Open data](https://osf.io/purk9/?view_only=13823b26ff744bd593c4c9d404e0ed8c)
-
 > <u>Wirtz, M. A.</u> (in press). On the relationship between complexity of primary occupation and L2 varietal behavior in adult migrants in Austria. *Linguistics Vanguard.*
 
 > <u>Wirtz, M. A.</u>, & Fischlhammer, L. (in press). Erwerbstrajektorien von Varietätenkompetenz in der Zweitsprache: Eine temporal-relationale Perspektive auf das Aneignungsverhältnis standardsprachlicher und bairisch-dialektaler Merkmale. *Zeitschrift für Angewandte Linguistik.* <br> [Open data](https://osf.io/s9nf2/)
 
 > <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (in press). Signature Dynamics of Development in L2 Sociolinguistic Competence: Evidence from an Intensive Micro-Longitudinal Study. *Language Learning*. <br> [Open data](https://osf.io/w4n62/)
+
+> Pfenninger, S. E., & <u>Wirtz, M. A.</u> (2024). Reconciling the divides: A dynamic integrative analysis of variability and commonality in (pre)primary school English development in Switzerland. *Language Teaching Research Quarterly*, 46(1), 145-173. [DOI](https://eurokd.com/doi/10.32038/ltrq.2024.39.11) <br> [Download article](https://api.eurokd.com/Uploads/Article/936/ltrq.2024.39.11.pdf) <br>  [Open data](https://osf.io/purk9/?view_only=13823b26ff744bd593c4c9d404e0ed8c)
 
 > Ender, A., Kasberger, G., & <u>Wirtz, M. A.</u> (2023). Standard- und Dialektbewertungen auf den Grund gehen: Individuelle Unterschiede und subjektive Theorien hinsichtlich Dialekt- und Standardaffinität bei Personen mit Deutsch als Zweitsprache im bairischsprachigen Österreich. *Zeitschrift für Deutsch im Kontext von Mehrsprachigkeit, 1*(2), 8-25. [DOI](https://www.vr-elibrary.de/doi/abs/10.14220/odaf.2023.39.1.8)
 
