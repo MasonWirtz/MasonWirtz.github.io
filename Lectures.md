@@ -18,12 +18,7 @@ This page houses my list of speeches at (inter-)national academic conferences, i
 * Pfenninger, S. E., & <u>Wirtz, M. A.</u> (20.05.2022). “I thought I was there, just sitting in my chair” – Towards immersive task-based elicitation methodologies using virtual reality. *33rd International Conference on Foreign / Second Language Acquisition.* Szczyrk, Poland. <br> [Download slides](/publications/ICFSLA22.pdf)
 
 
-
 <br>
-<br>
-<br>
-
-
 
 > # Invited Talks / Guest Lectures
 
@@ -35,11 +30,8 @@ This page houses my list of speeches at (inter-)national academic conferences, i
 
 * <u>Wirtz, M. A.</u> (11.01.2022). Soziolinguistische Kompetenz im Zweitspracherwerb bei Erwachsenen. Dynamiken von linguistischen, sozioaffektiven und kognitiven Faktoren in der soziolinguistischen Entwicklung. Presented at: *Österreichischer Verband für Deutsch als Fremd/Zweitsprache.* <br> Salzburg, Austria. <br> [Download slides](/publications/OeDaFVortrag.pdf)
 
-<br>
-<br>
-<br>
 
-
+<br>
 
 > # (Upcoming) Conference Presentations
 
@@ -78,9 +70,6 @@ This page houses my list of speeches at (inter-)national academic conferences, i
 * <u>Wirtz, M. A.</u> (02.06.2021). Acquiring sociodialectal competence in a second language – one learner belief at a time. *Variation in Language Acquisition (ViLA).* Rorschach, Switzerland. <br> [Download slides](/publications/AcquiringSociodialectalCompetenceInASecondLanguage.pdf)
 
 
-
-<br>
-<br>
 <br>
 
 > # Media
