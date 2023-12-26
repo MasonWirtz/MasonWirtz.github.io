@@ -22,10 +22,6 @@ This page houses my list of publications, including previous and upcoming theses
 
 * <u>Wirtz, M. A.</u>, & Ender, A. (in prep.). *Functional prestige in sociolinguistic evaluative judgements by adult L2 migrants in Austria: Evidence from perception.*
 
-
-<br>
-<br>
-
 > ## Under Review
 
 * <u>Wirtz, M. A.</u>, Pfenninger, S. E., Kaiser, I., & Ender, A. (under review). *Sociolinguistic competence and varietal repertoires in a second language: A study on addressee-dependent varietal behavior using virtual reality.*
