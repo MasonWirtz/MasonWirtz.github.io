@@ -22,6 +22,9 @@ This page houses my list of publications, including previous and upcoming theses
 
 * <u>Wirtz, M. A.</u>, & Ender, A. (in prep.). *Functional prestige in sociolinguistic evaluative judgements by adult L2 migrants in Austria: Evidence from perception.*
 
+
+<br>
+
 > ## Under Review
 
 * <u>Wirtz, M. A.</u>, Pfenninger, S. E., Kaiser, I., & Ender, A. (under review). *Sociolinguistic competence and varietal repertoires in a second language: A study on addressee-dependent varietal behavior using virtual reality.*
@@ -33,7 +36,6 @@ This page houses my list of publications, including previous and upcoming theses
 * <u>Wirtz, M. A.</u> (under review). Datenvisualisierung als mehrsprachiges Vermittlungsinstrument. In F. Gmainer-Pranzl & A. Ender (Eds.), *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens*.
 
 
-<br>
 <br>
 
 > ## 2024 / In Press
@@ -48,7 +50,6 @@ This page houses my list of publications, including previous and upcoming theses
 
 
 <br>
-<br>
 
 > ## 2023
 
@@ -62,7 +63,6 @@ This page houses my list of publications, including previous and upcoming theses
 
 
 <br>
-<br>
 
 > ## 2022
 
@@ -70,14 +70,12 @@ This page houses my list of publications, including previous and upcoming theses
 
 
 <br>
-<br>
 
 > ## 2021
 
 * <u>Wirtz, M. A.</u> (2021). Understanding Austria from Afar: Treating Regional Variation in the Virtual German as a Foreign Language Classroom. A Case Study in Light of COVID-19. *Frontiers: The Interdisciplinary Journal of Study Abroad, 33*(3), 59-69. [DOI](https://frontiersjournal.org/index.php/Frontiers/article/view/548/474) <br> [Download article](https://frontiersjournal.org/index.php/Frontiers/article/view/548/474)
 
 
-<br>
 <br>
 
 > ## 2020
