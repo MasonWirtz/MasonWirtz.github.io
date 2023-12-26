@@ -26,6 +26,8 @@ This page houses a list of courses/workshops I have taught.
 – [Einheit 2: Deskriptive Statistik](https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=0dc27fe0-5596-4db5-a651-afef00f95f5b) 
 
 
+<br>
+
 > ### Workshops (Statistics and Methodology)
 
 - **Psycho for PsychoPy! An Introduction to Creating Experiments in PsychoPy** <br> University of Salzburg, Austria <br> 07.2023
@@ -37,6 +39,8 @@ This page houses a list of courses/workshops I have taught.
 - **Intro to RStudio and R Markdown for Open Data and Reproducibility (IntRo2RStudio)** <br> [Workshop materials](https://masonwirtz.github.io/intRo2RStudio/) <br> University of Salzburg, Austria <br> 18–19.03.2022 <br> Funded by the Doctoral College: Language, Society and Digital Life
 
 
+<br>
+
 > ### Post-Secondary Teaching <br> Sociolinguistics and SLA
 
 - **Soziolinguistische Kompetenz in DaM, DaZ, DaF (Sociolinguistic Competence in German as a First, Second, and Foreign Language)** (co-taught with Prof. Andrea Ender) <br> Summer Semester 2023 <br> BA/MA Seminar, University of Salzburg, Austria
@@ -47,6 +51,8 @@ This page houses a list of courses/workshops I have taught.
 
 - **History of the Western World: Problems of the Human Past** <br> Fall Semester 2020 <br> BA Proseminar, Salzburg College, Austria
 
+
+<br>
 
 > ### Post-Secondary Teaching <br> Language Courses
 
@@ -61,12 +67,16 @@ This page houses a list of courses/workshops I have taught.
 - **Reading, Writing, Translating** <br> Fall Semester 2020 <br> BA Proseminar, Salzburg College, Austria
 
 
+<br>
+
 > ### Post-Secondary Teaching <br> Academic Writing
 
 - **Rhetoric and Composition I** <br> Fall Semester 2020 <br> BA Proseminar, Salzburg College, Austria
 
 - **Rhetoric and Composition II** <br> Fall Semester 2020 <br> BA Proseminar, Salzburg College, Austria
 
+
+<br>
 
 > ### Adult Education <br> Language Courses
 
