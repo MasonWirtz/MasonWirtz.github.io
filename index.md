@@ -14,16 +14,19 @@ My primary research interests include psycholinguistics, variationist sociolingu
 
 [OSF](https://osf.io/gn4m7/)  &nbsp; &nbsp; [GitHub](https://github.com/MasonWirtz)  &nbsp; &nbsp; [Twitter](https://mobile.twitter.com/WirtzMason)
 
-----------------
-# Awards
-----------------
+<br>
+
+> # Awards
+
 - "Young Investigators Award" 2022 (2nd Place) <br> Paris Lodron University of Salzburg, Austria
 
 - Team Lead for the winning team for the "World Summit Awards Youth for Innovation (WSA YFI)"
 
-----------------
-# Education
-----------------
+
+<br>
+
+> # Education
+
 - 09.2020 – 05.2023 <br> Paris Lodron University of Salzburg, Austria <br> Doctoral Program in (German) Linguistics and SLA
 
 - 10.2021 – 09.2022 <br> Paris Lodron University of Salzburg, Austria <br> Certificate Program: Applied Statistics
@@ -36,10 +39,13 @@ My primary research interests include psycholinguistics, variationist sociolingu
 
 - 09.2017 – 07.2019 <br> Bowling Green State University, USA <br> Bachelor of Arts in German Studies
 
-----------------
-# Research Interests
-----------------
-- Second language use and development 
+
+<br>
+
+> # Research Interests
+
+- Second language use and development
+- Language variation and change across the lifespan
 - Intra-individual variation and variability in L2 development from psycholinguistic and sociolinguistic perspectives
 - Cognition-affect interface
 - Research methods and statistics
