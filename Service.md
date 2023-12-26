@@ -4,6 +4,8 @@ title: "Service and Management"
 ---
 
 
+<br>
+
 > # (Institutional) Volunteer Work
 
 - Summer Semester 2023: Outreach between school and university (middle school visit to the University of Salzburg w/ brief Q&A on academic careers; highschool workshop on academic writing, i.e., preparation for the pre-scientific thesis) 
@@ -12,6 +14,8 @@ title: "Service and Management"
 - Since 07/2021: Head of the Doctorate Student Union (StV) (Vorsitzender der Studierendenvertretung Doktorat an der Kultur- und Gesellschaftswissenschaftlichen Fakultät)
 - 02/2018–06/2020: Member of the Student Union, University of Salzburg: Department of English and American Studies; Department of German (Sachbearbeiter, Universität Salzburg: Fachbereich Anglistik und Amerikanistik; Fachbereich Germanistik)
 
+
+<br>
 
 > # Curricularkommissionen / Curricular Committees
 
@@ -23,11 +27,15 @@ title: "Service and Management"
 - 09/2019–06/2020: Curricularkommission Bachelorstudium Anglistik und Amerikanistik (StV Hauptmitglied / Main Member)
 
 
+<br>
+
 > # Promotionskommissionen / Doctorate Committees
 
 - Since 10/2022: Promotionskommission Doktorat an der Gesellschaftswissenschaftlichen Fakultät (StV Ersatzmitglied / Alternate Member)
 - Since 03/2022: Promotionskommission Doktoratsstudium an der KW-Fakultät (StV Hauptmitglied / Main Member)
 
+
+<br>
 
 > # Membership of Scientific Societies
 
