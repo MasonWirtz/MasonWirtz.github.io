@@ -4,7 +4,7 @@ title: "Lectures"
 ---
 
 <p align="center">
-  <img width="200" height="200" src="/images/PublicationsPhoto.png">
+  <img width="200" height="200" src="/images/LecturesPhoto.png">
 </p>
 
 This page houses my list of speeches at (inter-)national academic conferences, invited guest lectures at universities, lectures for professionals (e.g., teachers), and also all interviews and articles about my research that have been published in the media. This page is always up-to-date. 
