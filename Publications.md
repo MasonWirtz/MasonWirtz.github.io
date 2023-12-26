@@ -11,7 +11,6 @@ This page houses my list of publications, including previous and upcoming theses
 
 <br>
 <br>
-<br>
 
 > # Publications
 
