@@ -24,20 +24,22 @@ This page houses a list of courses/workshops I have taught.
 
 <br>
 
-> ### Workshops (Statistics and Methodology)
+> ### Statistics and Methodology
 
-* **Psycho for PsychoPy! An Introduction to Creating Experiments in PsychoPy** <br> University of Salzburg, Austria <br> 07.2023
+* **Psycho for PsychoPy! An Introduction to Creating Experiments in PsychoPy** <br> 07.2023 <br> PhD / Postdoc Workshop, University of Salzburg, Austria
 
-* **Intro to RStudio and R Markdown for Open Data and Reproducibility (IntRo2RStudio)** <br> [Workshop materials](https://masonwirtz.github.io/intRo2RStudio/) <br> University of Zurich, Switzerland <br> 25–26.11.2022
+* **Intro to RStudio and R Markdown for Open Data and Reproducibility (IntRo2RStudio)** <br> [Workshop materials](https://masonwirtz.github.io/intRo2RStudio/) <br> 25–26.11.2022 <br> PhD / Postdoc Workshop, University of Zurich, Switzerland
 
-* **Psycho for PsychoPy! An Introduction to Creating Experiments in PsychoPy** <br> University of Zurich, Switzerland <br> 25.11.2022
+* **Psycho for PsychoPy! An Introduction to Creating Experiments in PsychoPy** <br> 25.11.2022 <br> PhD / Postdoc Workshop, University of Zurich, Switzerland
 
-* **Intro to RStudio and R Markdown for Open Data and Reproducibility (IntRo2RStudio)** <br> [Workshop materials](https://masonwirtz.github.io/intRo2RStudio/) <br> University of Salzburg, Austria <br> 18–19.03.2022 <br> Funded by the Doctoral College: Language, Society and Digital Life
+* **Intro to RStudio and R Markdown for Open Data and Reproducibility (IntRo2RStudio)** <br> [Workshop materials](https://masonwirtz.github.io/intRo2RStudio/) <br> 18–19.03.2022 <br> PhD / Postdoc Workshop, University of Salzburg, Austria
 
 
 <br>
 
-> ### Post-Secondary Teaching <br> Sociolinguistics and SLA
+> ### Sociolinguistics and SLA
+
+* **Soziolinguistische Variation über die Lebensspanne (Sociolinguistic Variation Across the Lifespan)** <br> Summer Semester 2024 <br> BA Seminar, University of Innsbruck, Austria
 
 * **Soziolinguistische Kompetenz in DaM, DaZ, DaF (Sociolinguistic Competence in German as a First, Second, and Foreign Language)** (co-taught with Prof. Andrea Ender) <br> Summer Semester 2023 <br> BA/MA Seminar, University of Salzburg, Austria
 
@@ -50,7 +52,18 @@ This page houses a list of courses/workshops I have taught.
 
 <br>
 
-> ### Post-Secondary Teaching <br> Language Courses
+> ### Academic Writing
+
+* **Rhetoric and Composition I** <br> Fall Semester 2020 <br> BA Proseminar, Salzburg College, Austria
+
+* **Rhetoric and Composition II** <br> Fall Semester 2020 <br> BA Proseminar, Salzburg College, Austria
+
+* **Reading, Writing, Translating** <br> Fall Semester 2020 <br> BA Proseminar, Salzburg College, Austria
+
+
+<br>
+
+> ### Language Acquisition Coursework
 
 * **Beginning German I: Personal World** <br> Summer Semester 2020; Fall Semester 2020 <br> BA Proseminar, Salzburg College, Austria
 
@@ -60,21 +73,10 @@ This page houses a list of courses/workshops I have taught.
 
 * **Advanced German II** <br> Spring Semester 2020 <br> BA Proseminar, Salzburg College, Austria
 
-* **Reading, Writing, Translating** <br> Fall Semester 2020 <br> BA Proseminar, Salzburg College, Austria
-
 
 <br>
 
-> ### Post-Secondary Teaching <br> Academic Writing
-
-* **Rhetoric and Composition I** <br> Fall Semester 2020 <br> BA Proseminar, Salzburg College, Austria
-
-* **Rhetoric and Composition II** <br> Fall Semester 2020 <br> BA Proseminar, Salzburg College, Austria
-
-
-<br>
-
-> ### Adult Education <br> Language Courses
+> ### Non-Tertiary Adult Education Language Coursework
 
 * **German language course: Level A1** <br> LernCENTER Progredere, Austria
 
