@@ -10,7 +10,6 @@ title: "Publications"
 This page houses my list of publications, including previous and upcoming theses, journal articles, book chapters as well as conference presentations. This page is always up to date and new projects, published work and submitted manuscripts will be added on a rolling basis. The respective data for each work will also be uploaded, but the interested reader is referred to my [osf](https://osf.io/gn4m7/) account for the most up-to-date data and projects. As soon as preprints are available, they will be linked to this page and uploaded to my [ResearchGate](https://www.researchgate.net/profile/Mason-Wirtz) account.  
 
 <br>
-<br>
 
 > ## In Preparation
 
