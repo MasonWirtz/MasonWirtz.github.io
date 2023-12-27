@@ -33,9 +33,9 @@ This page houses my list of speeches at (inter-)national academic conferences, i
 
 > # (Upcoming) Conference Presentations
 
-* PANEL ORGANIZER: <br> <u>Wirtz, M. A.</u>, & Schmidt-Riese, A. (accepted). Dynamics of Sociolinguistic Development in the First and Second Language. *International Conference on Language Variation in Europe (ICLaVE).* Vienna, Austria.
+* PANEL ORGANIZATION: <br> <u>Wirtz, M. A.</u>, & Schmidt-Riese, A. (accepted). Dynamics of Sociolinguistic Development in the First and Second Language. *International Conference on Language Variation in Europe (ICLaVE).* Vienna, Austria.
 
-* PANEL ORGANIZER: <br> <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., & Elspaß, S. (accepted). Modeling Context and the Individual. *International Conference on Language Variation in Europe (ICLaVE).* Vienna, Austria.
+* PANEL ORGANIZATION: <br> <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., & Elspaß, S. (accepted). Modeling Context and the Individual. *International Conference on Language Variation in Europe (ICLaVE).* Vienna, Austria.
 
 * <u>Wirtz, M. A.</u>, Pickl, S., & Niehaus, K. (accepted). Taking a new perspective to occupational metrics: Variation intensity in colloquial German as a function of occupational complexity. *International Conference on Language Variation in Europe (ICLaVE).* Vienna, Austria.
 
