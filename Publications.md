@@ -22,11 +22,11 @@ This page houses my list of publications, including previous and upcoming theses
 
 <br>
 
-> ## Under Review
+> ## Under Review / Accepted Pending Revisions
 
 * <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (under review). *On occupational complexity and age as predictors for variation intensity.*
 
-* <u>Wirtz, M. A.</u>, Pfenninger, S. E., Kaiser, I., & Ender, A. (under review). *Sociolinguistic competence and varietal repertoires in a second language: A study on addressee-dependent varietal behavior using virtual reality.*
+* <u>Wirtz, M. A.</u>, Pfenninger, S. E., Kaiser, I., & Ender, A. (accepted pending revisions). Sociolinguistic competence and varietal repertoires in a second language: A study on addressee-dependent varietal behavior using virtual reality. *The Modern Language Journal.*
 
 * <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (under review). Reconciling the social and spatial: An apparent-time analysis based on variation intensity. *Journal of Linguistic Geography.*
 
