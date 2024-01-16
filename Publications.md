@@ -13,7 +13,7 @@ This page houses my list of publications, including previous and upcoming theses
 
 > ## In Preparation
 
-* <u>Wirtz, M. A.</u>, Kaiser, I., & Ender, A. (in prep.). *Decomposing varietal exposure in the lives of adult migrant L2 learners in Austria: A look at the dialect-standard-continuum.*
+* <u>Wirtz, M. A.</u>, Kaiser, I., & Ender, A. (in prep.). Decomposing varietal exposure in the lives of adult migrant L2 learners in Austria: A look at the dialect-standard-continuum. . In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation: The interaction between world and mind.*
 
 * <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (in prep.). *Zur Dominanz von (Non-)Standard-Varianten in der Alltagssprache: Eine integrative Modellierung räumlicher und soziodemographischer Variation anhand von Generalized Additive Mixed-Effects Models.*
 
@@ -24,7 +24,7 @@ This page houses my list of publications, including previous and upcoming theses
 
 > ## Under Review / Accepted Pending Revisions
 
-* <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (under review). *On occupational complexity and age as predictors for variation intensity.*
+* <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (under review). On occupational complexity and age as predictors for variation intensity. *Language Variation and Change.*
 
 * <u>Wirtz, M. A.</u>, Pfenninger, S. E., Kaiser, I., & Ender, A. (accepted pending revisions). Sociolinguistic competence and varietal repertoires in a second language: A study on addressee-dependent varietal behavior using virtual reality. *The Modern Language Journal.*
 
