@@ -25,8 +25,6 @@ This page houses my list of publications, including previous and upcoming theses
 
 * <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (under review). On occupational complexity and age as predictors for variation intensity. *Language Variation and Change.*
 
-* <u>Wirtz, M. A.</u>, Pfenninger, S. E., Kaiser, I., & Ender, A. (accepted pending revisions). Sociolinguistic competence and varietal repertoires in a second language: A study on addressee-dependent varietal behavior using virtual reality. *The Modern Language Journal.*
-
 * <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (under review). Reconciling the social and spatial: An apparent-time analysis based on variation intensity. *Journal of Linguistic Geography.*
 
 * <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (under review). Theoretical, methodological, and computational perspectives on immersive virtual reality in variationist SLA: Insights from user experience. In M. Solon, M. Kanwit & A. Gudmestad (Eds.), *Research at the intersection of second language acquisition and sociolinguistics: Studies in honor of Kimberly L. Geeslin*. 
@@ -37,6 +35,8 @@ This page houses my list of publications, including previous and upcoming theses
 <br>
 
 > ## 2024 / In Press
+
+* <u>Wirtz, M. A.</u>, Pfenninger, S. E., Kaiser, I., & Ender, A. (in press). Sociolinguistic competence and varietal repertoires in a second language: A study on addressee-dependent varietal behavior using virtual reality. *The Modern Language Journal.*
 
 * <u>Wirtz, M. A.</u> (in press). On the relationship between complexity of primary occupation and L2 varietal behavior in adult migrants in Austria. *Linguistics Vanguard.*
 
