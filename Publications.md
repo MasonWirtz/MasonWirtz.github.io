@@ -17,12 +17,11 @@ This page houses my list of publications, including previous and upcoming theses
 
 * <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (in prep.). *Zur Dominanz von (Non-)Standard-Varianten in der Alltagssprache: Eine integrative Modellierung räumlicher und soziodemographischer Variation anhand von Generalized Additive Mixed-Effects Models.*
 
-* <u>Wirtz, M. A.</u>, & Ender, A. (in prep.). *Functional prestige in sociolinguistic evaluative judgements by adult L2 migrants in Austria: Evidence from perception.*
-
-
 <br>
 
 > ## Under Review / Accepted Pending Revisions
+
+* <u>Wirtz, M. A.</u>, & Ender, A. (under review). Functional prestige in sociolinguistic evaluative judgements by adult L2 migrants in Austria: Evidence from perception. *Journal of Sociolinguistics.*
 
 * <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (under review). On occupational complexity and age as predictors for variation intensity. *Language Variation and Change.*
 
