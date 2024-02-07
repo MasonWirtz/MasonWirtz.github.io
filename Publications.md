@@ -15,7 +15,7 @@ This page houses my list of publications, including previous and upcoming theses
 
 * <u>Wirtz, M. A.</u>, Kaiser, I., & Ender, A. (in prep.). Decomposing varietal exposure in the lives of adult migrant L2 learners in Austria: A look at the dialect-standard-continuum. In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation: The interaction between world and mind.*
 
-* <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (in prep.). *Zur Dominanz von (Non-)Standard-Varianten in der Alltagssprache: Eine integrative Modellierung räumlicher und soziodemographischer Variation anhand von Generalized Additive Mixed-Effects Models.*
+* <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (in prep.). *Gebrauchsstandard in der deutschen Alltagssprache: Eine integrative Modellierung räumlicher und sozialer Variation.*
 
 <br>
 
