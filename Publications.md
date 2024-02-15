@@ -13,6 +13,8 @@ This page houses my list of publications, including previous and upcoming theses
 
 > ## In Preparation
 
+* <u>Wirtz, M. A.</u>, & Pickl, S. (in prep.). *Major life events as drivers for linguistic change across adulthood.*
+
 * <u>Wirtz, M. A.</u>, Kaiser, I., & Ender, A. (in prep.). Decomposing varietal exposure in the lives of adult migrant L2 learners in Austria: A look at the dialect-standard-continuum. In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation: The interaction between world and mind.*
 
 <br>
