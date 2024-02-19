@@ -59,13 +59,13 @@ This page houses my list of speeches at (inter-)national academic conferences, i
 
 * <u>Wirtz, M. A.</u> (29.09.2022). Individual Differences in Variationist SLA: On the Dynamics of Socioaffect in Predicting Sociolinguistic Evaluative Judgements by L2 Learners in Adulthood. *L2 acquisition of non-equivalent linguistic and cognitive categories in Romance and Germanic languages: Transfer revisited (GeRoSLA).* Salzburg, Austria.
 
-* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (30.04.2022). At the intersection of context and intra-speaker variation: Virtual reality as an elicitation instrument in sociolinguistic and psycholinguistic research. *Austrian Association of University Teachers of English.* Salzburg, Austria. <br> [Download slides](/publications/AAUTE22.pdf)
+* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (30.04.2022). At the intersection of context and intra-speaker variation: Virtual reality as an elicitation instrument in sociolinguistic and psycholinguistic research. *Austrian Association of University Teachers of English.* Salzburg, Austria.
 
-* <u>Wirtz, M A.</u>, & Unterberger, E. (22.10.2021). Red' Deutsch mit mir! Zur mehrsprachigen Vermittlung statistischer Ergebnisse. *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens.* Salzburg, Austria. <br> [Download slides](/publications/ZurMehrsprachigenVermittlungStatistischerErgebnisse.pdf)
+* <u>Wirtz, M A.</u>, & Unterberger, E. (22.10.2021). Red' Deutsch mit mir! Zur mehrsprachigen Vermittlung statistischer Ergebnisse. *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens.* Salzburg, Austria.
 
-* <u>Wirtz, M. A.</u> (24.09.2021). Discourse completion tasks meet virtual reality: A standalone researcher's new best friend? *STaPs 18 (Sprachwissenschaftliche Tagung für Promotionsstudierende).* Salzburg, Austria. <br> [Download slides](/publications/DiscourseCompletionTasksMeetVirtualReality.pdf)
+* <u>Wirtz, M. A.</u> (24.09.2021). Discourse completion tasks meet virtual reality: A standalone researcher's new best friend? *STaPs 18 (Sprachwissenschaftliche Tagung für Promotionsstudierende).* Salzburg, Austria.
 
-* <u>Wirtz, M. A.</u> (02.06.2021). Acquiring sociodialectal competence in a second language – one learner belief at a time. *Variation in Language Acquisition (ViLA).* Rorschach, Switzerland. <br> [Download slides](/publications/AcquiringSociodialectalCompetenceInASecondLanguage.pdf)
+* <u>Wirtz, M. A.</u> (02.06.2021). Acquiring sociodialectal competence in a second language – one learner belief at a time. *Variation in Language Acquisition (ViLA).* Rorschach, Switzerland.
 
 
 <br>
