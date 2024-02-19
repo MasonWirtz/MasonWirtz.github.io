@@ -72,6 +72,8 @@ This page houses my list of speeches at (inter-)national academic conferences, i
 
 > # Media
 
+* [Standard: Dialekt spricht man vor allem in der Jugend und im Alter (19.02.2024)](https://www.derstandard.at/story/3000000206800/dialekt-spricht-man-vor-allem-in-der-jugend-und-im-alter)
+
 * [Salzburger Nachrichten: Verändern Lebensereignisse die Sprache? (01.12.2023)](https://www.sn.at/salzburg/chronik/veraendern-lebensereignisse-sprache-salzburger-forscher-teilnahme-online-umfrage-149343079)
 
 * [Die Presse: Die Sprachkarte des 21. Jahrhunderts (30.04.2023)](https://www.diepresse.com/6281274/die-sprachkarte-des-21-jahrhunderts)
