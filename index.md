@@ -20,9 +20,9 @@ My **habilitation project** explores from a variationist perspective the role of
 
 > # Awards & Grants
 
-– "Early Career Research Grant" 2024 (€ 94.415,00) <br> FWF, ÖAW, and Paris Lodron University of Salzburg, Austria [Project Description](https://www.plus.ac.at/germanistik/forschung/midlife-zusaetzliches-sprachenlernen-im-mittleren-lebensalter/)
+- "Early Career Research Grant" 2024 (€ 94.415,00) <br> FWF, ÖAW, and Paris Lodron University of Salzburg, Austria <br> [Project Description](https://www.plus.ac.at/germanistik/forschung/midlife-zusaetzliches-sprachenlernen-im-mittleren-lebensalter/)
 
-- "Young Investigators Award" 2022 (2nd Place) <br> Paris Lodron University of Salzburg, Austria
+- "Young Investigators Award" 2022 <br> Paris Lodron University of Salzburg, Austria <br> [Award Description](https://www.plus.ac.at/doctorate-school-plus/yia-young-investigators-award-en-de/award-winners-2022/)
 
 - Team Lead for the winning team for the "World Summit Awards Youth for Innovation (WSA YFI)"
 
