@@ -26,6 +26,7 @@ My **habilitation project** explores from a variationist perspective the role of
 
 - Team Lead for the winning team for the "World Summit Awards Youth for Innovation (WSA YFI)"
 
+- "Erwerb soziolinguistischer Variation in der Zweitsprache" (€ 1.500,00) <br> Salzburg Stadt: Kultur, Bildung und Wissen
 
 <br>
 
