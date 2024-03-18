@@ -7,7 +7,7 @@ title: "Publications"
   <img width="200" height="200" src="/images/PublicationsPhoto.png">
 </p>
 
-This page houses my list of publications, including previous and upcoming theses, journal articles, book chapters as well as conference presentations. This page is always up to date and new projects, published work and submitted manuscripts will be added on a rolling basis. The respective data for each work will also be uploaded, but the interested reader is referred to my [osf](https://osf.io/gn4m7/) account for the most up-to-date data and projects. As soon as preprints are available, they will be linked to this page and uploaded to my [ResearchGate](https://www.researchgate.net/profile/Mason-Wirtz) account.  
+This page houses my list of publications and is always up to date. Published work and submitted manuscripts will be added on a rolling basis. The interested reader is also referred to my [osf](https://osf.io/gn4m7/) account for the most up-to-date data and projects. As soon as pre- and/or postprints are available, they will be linked to this page and uploaded to my [ResearchGate](https://www.researchgate.net/profile/Mason-Wirtz) account.  
 
 <br>
 
@@ -16,6 +16,8 @@ This page houses my list of publications, including previous and upcoming theses
 * <u>Wirtz, M. A.</u>, Pickl, S., & Pfenninger, S. E. (in prep.). Individual differences in event experiences and psychosocial factors as drivers for language change following occupational major life events.
 
 * <u>Wirtz, M. A.</u>, Kaiser, I., & Ender, A. (in prep.). Decomposing varietal exposure in the lives of adult migrant L2 learners in Austria: A look at the dialect-standard-continuum. In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation: The interaction between world and mind.*
+
+* <u>Wirtz, M. A.</u>, Pfenninger, S. E., Rossmanith, A., & Zbinden, L. (in prep.). Continuity vs. cut-off points in SLA across the lifespan: From significant life events to biologically regulated thresholds. In C. Wright, T. Piske, A. Steinlein, P. Peltonen (eds.), *Context Matters*.
 
 <br>
 
@@ -31,7 +33,7 @@ This page houses my list of publications, including previous and upcoming theses
 
 * <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (under review). Reconciling the social and spatial: An apparent-time analysis based on variation intensity. *Journal of Linguistic Geography.*
 
-* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (under review). Theoretical, methodological, and computational perspectives on immersive virtual reality in variationist SLA: Insights from user experience. In M. Solon, M. Kanwit & A. Gudmestad (Eds.), *Research at the intersection of second language acquisition and sociolinguistics: Studies in honor of Kimberly L. Geeslin*. 
+* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (accepted pending revisions). Theoretical, methodological, and computational perspectives on immersive virtual reality in variationist SLA: Insights from user experience. In M. Solon, M. Kanwit & A. Gudmestad (Eds.), *Research at the intersection of second language acquisition and sociolinguistics: Studies in honor of Kimberly L. Geeslin*. 
 
 * <u>Wirtz, M. A.</u> (under review). Datenvisualisierung als mehrsprachiges Vermittlungsinstrument. In F. Gmainer-Pranzl & A. Ender (Eds.), *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens*.
 
@@ -46,7 +48,7 @@ This page houses my list of publications, including previous and upcoming theses
 
 * <u>Wirtz, M. A.</u>, & Fischlhammer, L. (in press). Erwerbstrajektorien von Varietätenkompetenz in der Zweitsprache: Eine temporal-relationale Perspektive auf das Aneignungsverhältnis standardsprachlicher und bairisch-dialektaler Merkmale. *Zeitschrift für Angewandte Linguistik.* <br> [Open data](https://osf.io/s9nf2/)
 
-* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (in press). Signature Dynamics of Development in L2 Sociolinguistic Competence: Evidence from an Intensive Micro-Longitudinal Study. *Language Learning*. <br> [Open data](https://osf.io/w4n62/)
+* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (in press). Signature Dynamics of Development in L2 Sociolinguistic Competence: Evidence from an Intensive Micro-Longitudinal Study. *Language Learning*. <br> [Download article](https://onlinelibrary.wiley.com/doi/epdf/10.1111/lang.12634) <br> [Open data](https://osf.io/w4n62/)
 
 * Pfenninger, S. E., & <u>Wirtz, M. A.</u> (2024). Reconciling the divides: A dynamic integrative analysis of variability and commonality in (pre)primary school English development in Switzerland. *Language Teaching Research Quarterly*, 46(1), 145-173. [DOI](https://eurokd.com/doi/10.32038/ltrq.2024.39.11) <br> [Download article](https://api.eurokd.com/Uploads/Article/936/ltrq.2024.39.11.pdf) <br>  [Open data](https://osf.io/purk9/?view_only=13823b26ff744bd593c4c9d404e0ed8c)
 
