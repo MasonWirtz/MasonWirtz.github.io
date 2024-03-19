@@ -33,6 +33,10 @@ This page houses my list of speeches at (inter-)national academic conferences, i
 
 > # (Upcoming) Conference Presentations
 
+* Pfenninger, S. E., & <u>Wirtz, M. A.</u> (complexity) *When* and *for whom* does extracurricular English exposure work? Introducing new methods to capture the temporal specificity of L2 development and individual differences in young learners. *EuroSLA 33.* Montpellier, France. 
+
+* <u>Wirtz, M. A.</u> (complexity). Major life events and psychosocial factors as drivers for language change across the lifespan. *LRI: Language & Belonging.* Merano, South Tyrol.
+
 * PANEL ORGANIZATION: <br> <u>Wirtz, M. A.</u>, & Schmidt-Riese, A. (accepted). Dynamics of Sociolinguistic Development in the First and Second Language. *International Conference on Language Variation in Europe (ICLaVE).* Vienna, Austria.
 
 * PANEL ORGANIZATION: <br> <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., & Elspaß, S. (accepted). Modeling Context and the Individual. *International Conference on Language Variation in Europe (ICLaVE).* Vienna, Austria.
