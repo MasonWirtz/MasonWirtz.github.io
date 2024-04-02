@@ -13,6 +13,8 @@ This page houses my list of publications and is always up to date. Published wor
 
 > ## In Preparation
 
+* <u>Wirtz, M. A.</u>, & Ender, A. (in prep.). Functional prestige in sociolinguistic evaluative judgements by adult L2 migrants in Austria: Evidence from perception.
+
 * <u>Wirtz, M. A.</u>, Pickl, S., & Pfenninger, S. E. (in prep.). Individual differences in event experiences and psychosocial factors as drivers for language change following occupational major life events.
 
 * <u>Wirtz, M. A.</u>, Kaiser, I., & Ender, A. (in prep.). Decomposing varietal exposure in the lives of adult migrant L2 learners in Austria: A look at the dialect-standard-continuum. In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation: The interaction between world and mind.*
@@ -26,8 +28,6 @@ This page houses my list of publications and is always up to date. Published wor
 * <u>Wirtz, M. A.</u>, & Pickl, S. (under review). Major life events as drivers for linguistic change across adulthood.
 
 * <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (under review). Gebrauchsstandard in der deutschen Alltagssprache: Eine integrative Modellierung räumlicher und sozialer Variation. *Zeitschrift für germanistische Linguistik.*
-
-* <u>Wirtz, M. A.</u>, & Ender, A. (under review). Functional prestige in sociolinguistic evaluative judgements by adult L2 migrants in Austria: Evidence from perception.
 
 * <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (under review). On occupational complexity and age as predictors for variation intensity. *Language Variation and Change.*
 
