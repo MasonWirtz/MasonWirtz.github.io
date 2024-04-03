@@ -13,17 +13,18 @@ This page houses my list of publications and is always up to date. Published wor
 
 > ## In Preparation / Under Contract
 
-* <u>Wirtz, M. A.</u>, & Ender, A. (under contract). Functional prestige in sociolinguistic evaluative judgements by adult L2 migrants in Austria: Evidence from perception.
+* <u>Wirtz, M. A.</u>, & Ender, A. (under contract). Functional prestige in sociolinguistic evaluative judgements by adult L2 migrants in Austria: Evidence from perception. *Languages* (special issue, edited by Vera Regan and Kristen Kennedy Terry).
 
 * <u>Wirtz, M. A.</u>, Pickl, S., & Pfenninger, S. E. (in prep.). Individual differences in event experiences and psychosocial factors as drivers for language change following occupational major life events.
-
-* <u>Wirtz, M. A.</u>, Kaiser, I., & Ender, A. (under contract). Decomposing varietal exposure in the lives of adult migrant L2 learners in Austria: A look at the dialect-standard-continuum. In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation: The interaction between world and mind.*
 
 * <u>Wirtz, M. A.</u>, Pfenninger, S. E., Rossmanith, A., & Zbinden, L. (under contract). Continuity vs. cut-off points in SLA across the lifespan: From significant life events to biologically regulated thresholds. In C. Wright, T. Piske, A. Steinlein, P. Peltonen (eds.), *Context Matters*.
 
 <br>
 
+
 > ## Under Review / Accepted Pending Revisions
+
+* <u>Wirtz, M. A.</u>, Kaiser, I., & Ender, A. (under review). Decomposing varietal exposure in the lives of adult migrant L2 learners in Austria: A look at the dialect-standard-continuum. In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation: The interaction between world and mind.*
 
 * <u>Wirtz, M. A.</u>, & Pickl, S. (under review). Major life events as drivers for linguistic change across adulthood.
 
@@ -37,8 +38,8 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u> (under review). Datenvisualisierung als mehrsprachiges Vermittlungsinstrument. In F. Gmainer-Pranzl & A. Ender (Eds.), *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens*.
 
-
 <br>
+
 
 > ## 2024 / In Press
 
