@@ -49,13 +49,13 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u> (in press). On the relationship between complexity of primary occupation and L2 varietal behavior in adult migrants in Austria. *Linguistics Vanguard.*
 
-* <u>Wirtz, M. A.</u>, Pfenninger, S. E., Kaiser, I., & Ender, A. (2024). Sociolinguistic competence and varietal repertoires in a second language: A study on addressee-dependent varietal behavior using virtual reality. *The Modern Language Journal.* [DOI](https://doi.org/10.1111/modl.12918) | [Open data](https://osf.io/myhgw/)
+* <u>Wirtz, M. A.</u>, Pfenninger, S. E., Kaiser, I., & Ender, A. (2024). Sociolinguistic competence and varietal repertoires in a second language: A study on addressee-dependent varietal behavior using virtual reality. *The Modern Language Journal.* [DOI](https://doi.org/10.1111/modl.12918) [(Open data)](https://osf.io/myhgw/)
 
-* <u>Wirtz, M. A.</u>, & Fischlhammer, L. (2024). Erwerbstrajektorien von Varietätenkompetenz in der Zweitsprache: Eine temporal-relationale Perspektive auf das Aneignungsverhältnis standardsprachlicher und bairisch-dialektaler Merkmale. *Zeitschrift für Angewandte Linguistik.* [DOI](https://doi.org/10.1515/zfal-2024-2006) | [Open data](https://osf.io/s9nf2/)
+* <u>Wirtz, M. A.</u>, & Fischlhammer, L. (2024). Erwerbstrajektorien von Varietätenkompetenz in der Zweitsprache: Eine temporal-relationale Perspektive auf das Aneignungsverhältnis standardsprachlicher und bairisch-dialektaler Merkmale. *Zeitschrift für Angewandte Linguistik.* [DOI](https://doi.org/10.1515/zfal-2024-2006) [(Open data)](https://osf.io/s9nf2/)
 
-* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (2024). Signature Dynamics of Development in L2 Sociolinguistic Competence: Evidence from an Intensive Micro-Longitudinal Study. *Language Learning*. [DOI](https://doi.org/10.1111/lang.12634). [Open data](https://osf.io/w4n62/)
+* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (2024). Signature Dynamics of Development in L2 Sociolinguistic Competence: Evidence from an Intensive Micro-Longitudinal Study. *Language Learning*. [DOI](https://doi.org/10.1111/lang.12634) [(Open data)](https://osf.io/w4n62/)
 
-* Pfenninger, S. E., & <u>Wirtz, M. A.</u> (2024). Reconciling the divides: A dynamic integrative analysis of variability and commonality in (pre)primary school English development in Switzerland. *Language Teaching Research Quarterly*, 46(1), 145-173. [DOI](https://eurokd.com/doi/10.32038/ltrq.2024.39.11) | [Open data](https://osf.io/purk9/?view_only=13823b26ff744bd593c4c9d404e0ed8c)
+* Pfenninger, S. E., & <u>Wirtz, M. A.</u> (2024). Reconciling the divides: A dynamic integrative analysis of variability and commonality in (pre)primary school English development in Switzerland. *Language Teaching Research Quarterly*, 46(1), 145-173. [DOI](https://eurokd.com/doi/10.32038/ltrq.2024.39.11) [(Open data)](https://osf.io/purk9/?view_only=13823b26ff744bd593c4c9d404e0ed8c)
 
 
 <br>
@@ -66,16 +66,16 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u> (2023). *Inter- and Intra-Individual Variation in Adult L2 Sociolinguistic Repertoires. Dynamics of Linguistic, Socioaffective and Cognitive Factors.* Doctoral Dissertation, University of Salzburg (Salzburg, Austria)
 
-* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (2023). Capturing Thresholds and Continuities: Individual Differences as Predictors of L2 Sociolinguistic Repertoires in Adult Migrant Learners in Austria. *Applied Linguistics*. Advanced online publication. [DOI](10.1093/applin/amad055) | [Open data](https://osf.io/xmw3f/)
+* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (2023). Capturing Thresholds and Continuities: Individual Differences as Predictors of L2 Sociolinguistic Repertoires in Adult Migrant Learners in Austria. *Applied Linguistics*. Advanced online publication. [DOI](10.1093/applin/amad055) [(Open data)](https://osf.io/xmw3f/)
 
-* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (2023). Variability and Individual Differences in L2 Sociolinguistic Evaluations: The GROUP, the INDIVIDUAL and the HOMOGENEOUS ENSEMBLE. *Studies in Second Language Acquisition*, 45(5), 1186–1209. [DOI](https://doi.org/10.1017/S0272263123000177) | [Open data](https://osf.io/yrqn6/)
+* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (2023). Variability and Individual Differences in L2 Sociolinguistic Evaluations: The GROUP, the INDIVIDUAL and the HOMOGENEOUS ENSEMBLE. *Studies in Second Language Acquisition*, 45(5), 1186–1209. [DOI](https://doi.org/10.1017/S0272263123000177) [(Open data)](https://osf.io/yrqn6/)
 
 
 <br>
 
 > ## 2022
 
-* <u>Wirtz, M. A.</u> (2022). Discourse completion tasks meet virtual reality: A pilot study on virtual reality as an elicitation instrument. *Research Methods in Applied Linguistics, 1*(3), 1–12. [DOI](https://www.sciencedirect.com/science/article/pii/S277276612200026X) | [Open data](https://osf.io/ebcdf/)
+* <u>Wirtz, M. A.</u> (2022). Discourse completion tasks meet virtual reality: A pilot study on virtual reality as an elicitation instrument. *Research Methods in Applied Linguistics, 1*(3), 1–12. [DOI](https://www.sciencedirect.com/science/article/pii/S277276612200026X) [(Open data)](https://osf.io/ebcdf/)
 
 
 <br>
