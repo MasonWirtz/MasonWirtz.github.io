@@ -24,13 +24,13 @@ This page houses my list of publications and is always up to date. Published wor
 
 > ## Under Review / Accepted Pending Revisions
 
-* <u>Wirtz, M. A.</u>, Pickl, S., & Pfenninger, S. E. (under review). Individual differences in event experiences and psychosocial factors as drivers for language change following occupational major life events.
+* <u>Wirtz, M. A.</u>, Pickl, S., & Pfenninger, S. E. (under review). Individual differences in event experiences and psychosocial factors as drivers for language change following occupational major life events. *Open Linguistics.*
 
 * <u>Wirtz, M. A.</u>, & Ender, A. (under review). Functional prestige in sociolinguistic evaluative judgements by adult L2 migrants in Austria: Evidence from perception. *Languages* (special issue, edited by Vera Regan and Kristen Kennedy Terry).
 
 * <u>Wirtz, M. A.</u>, Kaiser, I., & Ender, A. (under review). Decomposing varietal exposure in the lives of adult migrant L2 learners in Austria: A look at the dialect-standard-continuum. In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation: The interaction between world and mind.*
 
-* <u>Wirtz, M. A.</u>, & Pickl, S. (under review). Major life events as drivers for linguistic change across adulthood.
+* <u>Wirtz, M. A.</u>, & Pickl, S. (under review). Major life events as drivers for linguistic change across adulthood. *Language Variation and Change.*
 
 * <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (under review). Gebrauchsstandard in der deutschen Alltagssprache: Eine integrative Modellierung räumlicher und sozialer Variation. *Zeitschrift für germanistische Linguistik.*
 
