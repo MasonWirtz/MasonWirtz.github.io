@@ -45,7 +45,7 @@ This page houses my list of speeches at (inter-)national academic conferences, i
 
 * <u>Wirtz, M. A.</u> (accepted). Operationalizing individuality in variationist SLA: Taking stock and charging forward. *International Conference on Language Variation in Europe (ICLaVE).* Vienna, Austria.
 
-* <u>Wirtz, M. A.</u>, & Pickl, S. (accepted). Characteristics of major life events as catalysts for retrospective perceptions of linguistic change across adulthood. *Conference for Corpora on Language and Aging (CLARe6).* Tübingen, Germany.
+* <u>Wirtz, M. A.</u>, & Pickl, S. (12.04.2024). Characteristics of major life events as catalysts for retrospective perceptions of linguistic change across adulthood. *Conference for Corpora on Language and Aging (CLARe6).* Tübingen, Germany.
 
 * <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., & Elspaß, S. (07.12.2023). Variationsintensität und berufsbezogene Komplexität: Zwei neue Konzepte für die Variationslinguistik und ihre Anwendung. *Quantitative Ansätze in der Dialektologie und Variationslinguistik: Neue Methoden – neue Befunde?* Munich, Germany.
 
@@ -75,6 +75,8 @@ This page houses my list of speeches at (inter-)national academic conferences, i
 <br>
 
 > # Media
+
+* [Standard: Dialekt in der Zweitsprache – kann so schwer (nicht) sein … (08.04.2024)](https://www.derstandard.at/story/3000000214298/dialekt-in-der-zweitsprache-kann-so-schwer-nicht-sein-)
 
 * [Standard: Dialekt spricht man vor allem in der Jugend und im Alter (19.02.2024)](https://www.derstandard.at/story/3000000206800/dialekt-spricht-man-vor-allem-in-der-jugend-und-im-alter)
 
