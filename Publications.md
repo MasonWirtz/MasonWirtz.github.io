@@ -13,8 +13,6 @@ This page houses my list of publications and is always up to date. Published wor
 
 > ## In Preparation / Under Contract
 
-* <u>Wirtz, M. A.</u> (in prep.). Individual differences in intraspeaker (in)stability following life-course transitions in the personal domain.
-
 * <u>Wirtz, M. A.</u>, Elspaß, S., Pickl, S., & Niehaus, K. (under contract). Geospatial and social influences on pragmatic variation: Testing the limits of ordinal generalized additive modeling.
 
 * <u>Wirtz, M. A.</u>, Pfenninger, S. E., Rossmanith, A., & Zbinden, L. (under contract). Continuity vs. cut-off points in SLA across the lifespan: From significant life events to biologically regulated thresholds. In C. Wright, T. Piske, A. Steinlein, P. Peltonen (eds.), *Context Matters*.
@@ -23,6 +21,8 @@ This page houses my list of publications and is always up to date. Published wor
 
 
 > ## Under Review / Accepted Pending Revisions
+
+* <u>Wirtz, M. A.</u> (under review). Individual differences in intraspeaker (in)stability following life-course transitions in the personal domain.
 
 * <u>Wirtz, M. A.</u>, Pickl, S., & Pfenninger, S. E. (under review). Individual differences in event experiences and psychosocial factors as drivers for language change following occupational major life events. *Open Linguistics.*
 
