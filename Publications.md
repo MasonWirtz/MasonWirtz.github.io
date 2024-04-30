@@ -13,7 +13,7 @@ This page houses my list of publications and is always up to date. Published wor
 
 > ## In Preparation / Under Contract
 
-* <u>Wirtz, M. A.</u>, Elspaß, S., Pickl, S., & Niehaus, K. (under contract). Geospatial and social influences on pragmatic variation: Testing the limits of ordinal generalized additive modeling.
+* <u>Wirtz, M. A.</u>, Elspaß, S., Pickl, S., & Niehaus, K. (under contract). Geospatial and social influences on pragmatic variation: Testing the limits of ordinal generalized additive modeling. *Journal of Language Variation and Sociolinguistics* (special issue, edited by Philip C. Vergeiner).
 
 * Ender, A., & <u>Wirtz, M. A.</u> (under contract). In(ter)dependent dialect and standard L2 systems? Inter- and intra-individual variation in the acquisition of multivarietal repertoires. In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation: The interaction between world and mind*.
 
