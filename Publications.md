@@ -24,6 +24,8 @@ This page houses my list of publications and is always up to date. Published wor
 
 > ## Under Review / Accepted Pending Revisions
 
+* <u>Wirtz, M. A.</u>, & Vergeiner, P. C. (under review). Lebensereignisse im Bildungsbereich als Erklärung für individuellen Sprachwandel. *Zeitschrift für Angewandte Linguistik.*
+
 * <u>Wirtz, M. A.</u> (under review). Individual differences in intraspeaker (in)stability following life-course transitions in the personal domain. *Journal of Germanic Linguistics.*
 
 * <u>Wirtz, M. A.</u>, Pickl, S., & Pfenninger, S. E. (under review). Individual differences in event experiences and psychosocial factors as drivers for language change following occupational major life events. *Open Linguistics.*
