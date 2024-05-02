@@ -51,7 +51,7 @@ This page houses my list of publications and is always up to date. Published wor
 
 > ## 2024 / In Press
 
-* <u>Wirtz, M. A.</u> (in press). On the relationship between complexity of primary occupation and L2 varietal behavior in adult migrants in Austria. *Linguistics Vanguard.*
+* <u>Wirtz, M. A.</u> (2024). On the relationship between complexity of primary occupation and L2 varietal behavior in adult migrants in Austria. *Linguistics Vanguard.* [DOI](https://doi.org/10.1515/lingvan-2023-0069)
 
 * <u>Wirtz, M. A.</u>, Pfenninger, S. E., Kaiser, I., & Ender, A. (2024). Sociolinguistic competence and varietal repertoires in a second language: A study on addressee-dependent varietal behavior using virtual reality. *The Modern Language Journal.* [DOI](https://doi.org/10.1111/modl.12918) [(Open data)](https://osf.io/myhgw/)
 
