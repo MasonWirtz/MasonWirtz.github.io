@@ -42,14 +42,14 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (accepted pending revisions). On occupational complexity and age as predictors for variation intensity. *Language Variation and Change.*
 
-* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (accepted pending revisions). Theoretical, methodological, and computational perspectives on immersive virtual reality in variationist SLA: Insights from user experience. In M. Solon, M. Kanwit & A. Gudmestad (Eds.), *Research at the intersection of second language acquisition and sociolinguistics: Studies in honor of Kimberly L. Geeslin*. 
-
 * <u>Wirtz, M. A.</u> (under review). Datenvisualisierung als mehrsprachiges Vermittlungsinstrument. In F. Gmainer-Pranzl & A. Ender (Eds.), *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens*.
 
 <br>
 
 
 > ## 2024 / In Press
+
+* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (in press). Theoretical, methodological, and computational perspectives on immersive virtual reality in variationist SLA: Insights from user experience. In M. Solon, M. Kanwit & A. Gudmestad (Eds.), *Research at the intersection of second language acquisition and sociolinguistics: Studies in honor of Kimberly L. Geeslin*. 
 
 * <u>Wirtz, M. A.</u> (2024). On the relationship between complexity of primary occupation and L2 varietal behavior in adult migrants in Austria. *Linguistics Vanguard.* [DOI](https://doi.org/10.1515/lingvan-2023-0069)
 
