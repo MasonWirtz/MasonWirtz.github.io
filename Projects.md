@@ -13,6 +13,7 @@ title: "Projects"
 
 PIs: Mason Wirtz, Erik Schleef (University of Salzburg)
 
+<br>
 
 
 > # LangLife
@@ -21,6 +22,7 @@ PIs: Mason Wirtz, Erik Schleef (University of Salzburg)
 
 PIs: Mason Wirtz, Simon Pickl (University of Salzburg)
 
+<br>
 
 
 > # MIDLIFE
@@ -33,6 +35,7 @@ PI: Mason Wirtz
 
 Collaborator(s): Simone Pfenninger (University of Zurich)
 
+<br>
 
 
 > # DiAL2
@@ -41,6 +44,7 @@ Collaborator(s): Simone Pfenninger (University of Zurich)
 
 PIs: Mason Wirtz, Andrea Ender (University of Salzburg)
 
+<br>
 
 
 > # DYNSC
@@ -52,4 +56,6 @@ Funding: Salzburg Stadt: Kultur, Bildung und Wissen (€ 1.500,00)
 PI: Mason Wirtz
 
 Collaborator(s): Andrea Ender, Irmtraud Kaiser (University of Salzburg), Simone Pfenninger (University of Zurich)
+
+<br>
 
