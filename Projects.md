@@ -28,7 +28,9 @@ PIs: Mason Wirtz, Simon Pickl (University of Salzburg)
 **Additional language learning in midlife by lifestyle migrants**
 
 Funding: “Early Career Research Grant” 2024. FWF, ÖAW, and Paris Lodron University of Salzburg (€ 94.415,00)
+
 PI: Mason Wirtz
+
 Collaborator(s): Simone Pfenninger (University of Zurich)
 
 
@@ -46,6 +48,8 @@ PIs: Mason Wirtz, Andrea Ender (University of Salzburg)
 **Dynamics of sociolinguistic competence**
 
 Funding: Salzburg Stadt: Kultur, Bildung und Wissen (€ 1.500,00) 
+
 PI: Mason Wirtz
+
 Collaborator(s): Andrea Ender, Irmtraud Kaiser (University of Salzburg), Simone Pfenninger (University of Zurich)
 
