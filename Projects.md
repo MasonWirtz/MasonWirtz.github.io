@@ -24,6 +24,8 @@ While social variables such as age, gender, occupation, etc. are considered to h
 
 PIs: Mason Wirtz, Simon Pickl (University of Salzburg)
 
+Collaborator(s): Simone Pfenninger (University of Zurich), Philip Vergeiner (Ludwig Maximilian University of Munich)
+
 The LangLife project explores from a variationist perspective the role of major life events (e.g., first entrance into the workforce, geographic relocation, entering a new romantic relationship, retirement) and individual differences in event experiences (e.g., the emotional significance of an event, the impact of an event on one’s social life), psychosocial variables (occupational complexity, psychological resilience), and sociolinguistic factors (gender, age at MLE, varietal proficiency) on patterns of individual-level language change across the lifespan. Specifically, it focuses on change in Austrians' use of standard German and dialect, as well as on changes in affective-attitudinal factors such as local dialect identity and attitudes towards standard German. In merging socio- and psycholinguistic perspectives on language change, and integrating quantitative and qualitative methods, the LangLife project sets out a new direction for variationist designs and agendas that approach lifespan language change not as a result of chronological age per se, but rather as a function of experiential factors complexly intertwined with the process of aging.
 
 <br>
