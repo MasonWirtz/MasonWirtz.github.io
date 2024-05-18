@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "Lectures.md", title: "Talks & Lectures", icon: comments}
   - {file: "Teaching.md", title: "Teaching", icon: chalkboard}
   - {file: "Service.md", title: "Service", icon: building}
-  - {file: "Projects.md", title: "Projects", icon: diagram-project}
+  - {file: "Projects.md", title: "Projects", icon: folder}
 # - {title: "PhD Project", url: "https://masonawirtz.wixsite.com/dynsc"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
