@@ -13,14 +13,14 @@ This page houses my list of publications and is always up to date. Published wor
 
 > ## In Preparation / Under Contract
 
-* <u>Wirtz, M. A.</u>, Elspaß, S., Pickl, S., & Niehaus, K. (under contract). Geospatial and social influences on pragmatic variation: Testing the limits of ordinal generalized additive modeling. *Journal of Language Variation and Sociolinguistics* (special issue, edited by Philip C. Vergeiner).
-
 * <u>Wirtz, M. A.</u>, Pfenninger, S. E., Rossmanith, A., & Zbinden, L. (under contract). Continuity vs. cut-off points in SLA across the lifespan: From significant life events to biologically regulated thresholds. In C. Wright, T. Piske, A. Steinlein, P. Peltonen (eds.), *Context Matters*.
 
 <br>
 
 
 > ## Under Review / Accepted Pending Revisions
+
+* <u>Wirtz, M. A.</u>, Elspaß, S., Pickl, S., & Niehaus, K. (under review). Geospatial and social influences on pragmatic variation. *Journal of Language Variation and Sociolinguistics* (special issue, edited by Philip C. Vergeiner).
 
 * Ender, A., & <u>Wirtz, M. A.</u> (under review). In(ter)dependent dialect and standard L2 systems? On the development of receptive varietal proficiency. In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation: The interaction between world and mind*.
 
