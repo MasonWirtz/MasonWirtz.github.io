@@ -37,8 +37,6 @@ This page houses my list of speeches at (inter-)national academic conferences, i
 
 * Pfenninger, S. E., & <u>Wirtz, M. A.</u> (accepted) *When* and *for whom* does extracurricular English exposure work? Introducing new methods to capture the temporal specificity of L2 development and individual differences in young learners. *EuroSLA 33.* Montpellier, France. 
 
-* <u>Wirtz, M. A.</u> (accepted). Major life events and psychosocial factors as drivers for language change across the lifespan. *LRI: Language & Belonging.* Merano, South Tyrol.
-
 * PANEL ORGANIZATION: <br> <u>Wirtz, M. A.</u>, & Schmidt-Riese, A. (accepted). Dynamics of Sociolinguistic Development in the First and Second Language. *International Conference on Language Variation in Europe (ICLaVE).* Vienna, Austria.
 
 * PANEL ORGANIZATION: <br> <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., & Elspaß, S. (accepted). Modeling Context and the Individual. *International Conference on Language Variation in Europe (ICLaVE).* Vienna, Austria.
@@ -46,6 +44,8 @@ This page houses my list of speeches at (inter-)national academic conferences, i
 * <u>Wirtz, M. A.</u>, Pickl, S., & Niehaus, K. (accepted). Taking a new perspective to occupational metrics: Variation intensity in colloquial German as a function of occupational complexity. *International Conference on Language Variation in Europe (ICLaVE).* Vienna, Austria.
 
 * <u>Wirtz, M. A.</u> (accepted). Operationalizing individuality in variationist SLA: Taking stock and charging forward. *International Conference on Language Variation in Europe (ICLaVE).* Vienna, Austria.
+
+* <u>Wirtz, M. A.</u> (06.06.2024). Major life events and psychosocial factors as drivers for language change across the lifespan. *LRI: Language & Belonging.* Merano, South Tyrol.
 
 * <u>Wirtz, M. A.</u>, & Pickl, S. (12.04.2024). Characteristics of major life events as catalysts for retrospective perceptions of linguistic change across adulthood. *Conference for Corpora on Language and Aging (CLARe6).* Tübingen, Germany.
 
@@ -77,6 +77,8 @@ This page houses my list of speeches at (inter-)national academic conferences, i
 <br>
 
 > # Media
+
+* [Salzburger Nachrichten: Wie Einschnitte im Leben die Sprache beeinflussen: Salzburger Sprachforscher präsentieren Studienergebnisse (05.06.2024)](https://www.sn.at/salzburg/kultur/wie-einschnitte-leben-sprache-salzburger-sprachforscher-studienergebnisse-159537265)
 
 * [Standard: Dialekt in der Zweitsprache – kann so schwer (nicht) sein … (08.04.2024)](https://www.derstandard.at/story/3000000214298/dialekt-in-der-zweitsprache-kann-so-schwer-nicht-sein-)
 
