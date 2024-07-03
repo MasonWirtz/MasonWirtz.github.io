@@ -15,14 +15,14 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u>, Pfenninger, S. E., Rossmanith, A., & Zbinden, L. (under contract). Continuity vs. cut-off points in SLA across the lifespan: From significant life events to biologically regulated thresholds. In C. Wright, T. Piske, A. Steinlein, P. Peltonen (eds.), *Context Matters*.
 
-* <u>Wirtz, M. A.</u>, & Vergeiner, P. C. (in prep.). Typen des individuellen Sprachwandels nach wesentlichen Lebensereignissen.
-
 * <u>Wirtz, M. A.</u>, & Unterberger, E. (in prep.). Language attitudes across adolescence and adulthood: Evaluative judgement trajectories and significant life events as critical inflection points.
 
 <br>
 
 
 > ## Under Review / Accepted Pending Revisions
+
+* <u>Wirtz, M. A.</u>, & Vergeiner, P. C. (under review). Typen des individuellen Sprachwandels nach wesentlichen Lebensereignissen. *Zeitschrift für Dialektologie und Linguistik*.
 
 * <u>Wirtz, M. A.</u>, Elspaß, S., Pickl, S., & Niehaus, K. (under review). Geospatial and social influences on pragmatic variation. *Journal of Language Variation and Sociolinguistics* (special issue, edited by Philip C. Vergeiner).
 
