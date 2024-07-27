@@ -13,8 +13,6 @@ This page houses my list of publications and is always up to date. Published wor
 
 > ## In Preparation / Under Contract
 
-* <u>Wirtz, M. A.</u>, Pfenninger, S. E., Rossmanith, A., & Zbinden, L. (under contract). Continuity vs. cut-off points in SLA across the lifespan: From significant life events to biologically regulated thresholds. In C. Wright, T. Piske, A. Steinlein, P. Peltonen (eds.), *Context Matters*.
-
 * Pfenninger, S. E., & <u>Wirtz, M. A.</u> (under contract). Age and additional language acquisition. *International Encyclopedia of Language and Linguistics*.
 
 * Schleef, E., & <u>Wirtz, M. A.</u> (under contract). Sociolinguistics. In J. Clenton, & D. Coulson (eds.), *An Introduction to Applied Linguistics* (4th ed.). Routledge.
@@ -23,6 +21,8 @@ This page houses my list of publications and is always up to date. Published wor
 
 
 > ## Under Review / Accepted Pending Revisions
+
+* <u>Wirtz, M. A.</u>, Pfenninger, S. E., Rossmanith, A., & Zbinden, L. (under review). Continuity vs. cut-off points in SLA across the lifespan: From significant life events to biologically regulated thresholds. In C. Wright, T. Piske, A. Steinlein, P. Peltonen (eds.), *Context Matters*.
 
 * <u>Wirtz, M. A.</u> (under review). Language attitudes across adolescence and adulthood: Evaluative judgement trajectories and significant life events as critical inflection points.
 
