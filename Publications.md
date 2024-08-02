@@ -26,7 +26,7 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u> (under review). Language attitudes across adolescence and adulthood: Evaluative judgement trajectories and significant life events as critical inflection points.
 
-* <u>Wirtz, M. A.</u>, & Vergeiner, P. C. (under review). Typen des individuellen Sprachwandels nach wesentlichen Lebensereignissen. *Zeitschrift für Dialektologie und Linguistik*.
+* <u>Wirtz, M. A.</u>, & Vergeiner, P. C. (under review). Typen des individuellen Sprachwandels nach wesentlichen Lebensereignissen. *Zeitschrift für germanistische Linguistik*.
 
 * <u>Wirtz, M. A.</u>, Elspaß, S., Pickl, S., & Niehaus, K. (under review). Geospatial and social influences on pragmatic variation. *Journal of Language Variation and Sociolinguistics* (special issue, edited by Philip C. Vergeiner).
 
