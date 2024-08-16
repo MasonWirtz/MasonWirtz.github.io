@@ -22,7 +22,7 @@ This page houses my list of publications and is always up to date. Published wor
 <br>
 
 
-> ## Under Review / Accepted Pending Revisions
+> ## Under Review / Invited Resubmission
 
 * <u>Wirtz, M. A.</u>, Pfenninger, S. E., Rossmanith, A., & Zbinden, L. (under review). Continuity vs. cut-off points in SLA across the lifespan: From significant life events to biologically regulated thresholds. In C. Wright, T. Piske, A. Steinlein, P. Peltonen (eds.), *Context Matters*. Multilingual Matters. 
 
@@ -36,13 +36,9 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u>, & Vergeiner, P. C. (under review). Lebensereignisse im Bildungsbereich als Erklärung für individuellen Sprachwandel. *Zeitschrift für Angewandte Linguistik.*
 
-* <u>Wirtz, M. A.</u> (under review). Individual differences in intraspeaker (in)stability following life-course transitions in the personal domain. *Journal of Germanic Linguistics.*
-
 * <u>Wirtz, M. A.</u>, Pickl, S., & Pfenninger, S. E. (under review). Individual differences in event experiences and psychosocial factors as drivers for language change following occupational major life events. *Open Linguistics.*
 
 * <u>Wirtz, M. A.</u>, Kaiser, I., & Ender, A. (under review). Decomposing varietal exposure in the lives of adult migrant L2 learners in Austria: A look at the dialect-standard-continuum. In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation: The interaction between world and mind*.
-
-* <u>Wirtz, M. A.</u>, & Pickl, S. (under review). Major life events as drivers for linguistic change across adulthood. *Language Variation and Change.*
 
 * <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (under review). Gebrauchsstandard in der deutschen Alltagssprache: Eine integrative Modellierung räumlicher und sozialer Variation. *Zeitschrift für germanistische Linguistik.*
 
@@ -50,9 +46,13 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u> (under review). Datenvisualisierung als mehrsprachiges Vermittlungsinstrument. In F. Gmainer-Pranzl & A. Ender (Eds.), *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens*.
 
-* <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (accepted pending revisions). On the intensity of variation in colloquial German: Spatial, occupational, and age-related effects. *Language Variation and Change.*
+* <u>Wirtz, M. A.</u> (invited resubmission). Individual differences in intraspeaker (in)stability following life-course transitions in the personal domain. *Journal of Germanic Linguistics.*
 
-* <u>Wirtz, M. A.</u>, & Ender, A. (accepted pending revisions). Functional prestige in sociolinguistic evaluative judgements by adult L2 speakers in Austria: Evidence from perception. *Languages* (special issue, edited by Vera Regan and Kristen Kennedy Terry).
+* <u>Wirtz, M. A.</u>, & Pickl, S. (invited resubmission). Major life events as drivers for linguistic change across adulthood. *Language Variation and Change.*
+
+* <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (invited resubmission). Spatial, occupational, and age-related effects on reported variation in colloquial German. *Language Variation and Change.*
+
+* <u>Wirtz, M. A.</u>, & Ender, A. (invited resubmission). Functional prestige in sociolinguistic evaluative judgements by adult L2 speakers in Austria: Evidence from perception. *Languages* (special issue, edited by Vera Regan and Kristen Kennedy Terry).
 
 <br>
 
