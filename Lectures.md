@@ -22,6 +22,8 @@ This page houses my list of speeches at (inter-)national academic conferences, i
 
 > # Invited Talks / Guest Lectures
 
+* <u>Wirtz, M. A.</u> (05.11.2024). Sociolinguistic development in immersion contexts and longitudinal micro-development designs. Guest lecture in: *Acquisition of Variation (Graduate Seminar taught by Prof. Dr. Matthew Kanwit).* University of Pittsburgh, USA.
+
 * <u>Wirtz, M. A.</u> (21.03.2023). Soziolinguistische Kompetenz: Einige Erkenntnisse aus dem bairisch-österreichischen Kontext. Guest lecture in: *Soziolinguistische Kompetenz in DaM, DaZ, DaF (Seminar taught by Univ.-Prof. Dr. Andrea Ender).* University of Salzburg, Austria.
 
 * <u>Wirtz, M. A.</u> (18.01.2023). INTRA-individuelle Variation und Variabilität: Zur Messung und Funktionalität. Guest lecture in: *Dialektsoziologie (Seminar taught by Dr. Christa Schneider).* <br> University of Salzburg, Austria.
