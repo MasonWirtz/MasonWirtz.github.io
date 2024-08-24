@@ -34,8 +34,6 @@ This page houses my list of publications and is always up to date. Published wor
 
 * Ender, A., & <u>Wirtz, M. A.</u> (under review). In(ter)dependent dialect and standard L2 systems? On the development of receptive varietal proficiency. In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation: The interaction between world and mind*.
 
-* <u>Wirtz, M. A.</u>, & Vergeiner, P. C. (under review). Lebensereignisse im Bildungsbereich als Erklärung für individuellen Sprachwandel. *Zeitschrift für Angewandte Linguistik.*
-
 * <u>Wirtz, M. A.</u>, Pickl, S., & Pfenninger, S. E. (under review). Individual differences in event experiences and psychosocial factors as drivers for language change following occupational major life events. *Open Linguistics.*
 
 * <u>Wirtz, M. A.</u>, Kaiser, I., & Ender, A. (under review). Decomposing varietal exposure in the lives of adult migrant L2 learners in Austria: A look at the dialect-standard-continuum. In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation: The interaction between world and mind*.
@@ -45,6 +43,8 @@ This page houses my list of publications and is always up to date. Published wor
 * <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (under review). Reconciling the social and spatial: An apparent-time analysis based on variation intensity. *Journal of Linguistic Geography.*
 
 * <u>Wirtz, M. A.</u> (under review). Datenvisualisierung als mehrsprachiges Vermittlungsinstrument. In F. Gmainer-Pranzl & A. Ender (Eds.), *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens*.
+
+* <u>Wirtz, M. A.</u>, & Vergeiner, P. C. (invited resubmission). Lebensereignisse im Bildungsbereich als Erklärung für individuellen Sprachwandel. *Zeitschrift für Angewandte Linguistik.*
 
 * <u>Wirtz, M. A.</u> (invited resubmission). Individual differences in intraspeaker (in)stability following life-course transitions in the personal domain. *Journal of Germanic Linguistics.*
 
