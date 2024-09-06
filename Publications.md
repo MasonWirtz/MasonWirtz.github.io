@@ -13,14 +13,14 @@ This page houses my list of publications and is always up to date. Published wor
 
 > ## In Preparation / Under Contract
 
-* <u>Wirtz, M. A.</u> (under contract). *Dynamics of L2 sociolinguistic development in adulthood*. Multilingual Matters.
-
 * Schleef, E., & <u>Wirtz, M. A.</u> (under contract). Sociolinguistics. In J. Clenton, & D. Coulson (eds.), *An Introduction to Applied Linguistics* (4th ed.). Routledge.
 
 <br>
 
 
 > ## Under Review / Invited Resubmission
+
+* <u>Wirtz, M. A.</u> (under review). *Dynamics of L2 sociolinguistic development in adulthood*. Multilingual Matters.
 
 * Pfenninger, S. E., & <u>Wirtz, M. A.</u> (under review). Age and additional language acquisition. *International Encyclopedia of Language and Linguistics*.
 
