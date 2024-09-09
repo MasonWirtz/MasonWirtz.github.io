@@ -15,7 +15,7 @@ This page houses my list of speeches at (inter-)national academic conferences, i
 
 * Pfenninger, S. E., & <u>Wirtz, M. A.</u> (04.2025). Title TBD. *Sprachvariation und Sprachwandel im deutschsprachigen Raum – Research on Language Variation and Change in the German-speaking Area*. [CfP](https://igdd.org/wp-content/uploads/2024/04/20240327_Call_D-A-CH_LVC.pdf)
 
-* Pfenninger, S. E., & <u>Wirtz, M. A.</u> (20.05.2022). “I thought I was there, just sitting in my chair” – Towards immersive task-based elicitation methodologies using virtual reality. *33rd International Conference on Foreign / Second Language Acquisition.* Szczyrk, Poland. <br> [Download slides](/publications/ICFSLA22.pdf)
+* Pfenninger, S. E., & <u>Wirtz, M. A.</u> (20.05.2022). “I thought I was there, just sitting in my chair” – Towards immersive task-based elicitation methodologies using virtual reality. *33rd International Conference on Foreign / Second Language Acquisition.* Szczyrk, Poland. 
 
 
 <br>
@@ -30,7 +30,7 @@ This page houses my list of speeches at (inter-)national academic conferences, i
 
 * <u>Wirtz, M. A.</u> (01.07.2022). Vom Umgang mit Dialekten im DaF/DaZ-Unterricht: Praktische Ansätze zur Förderung (rezeptiver) Varietätenkompetenz. Presented at: *Österreichischer Verband für Deutsch als Fremd/Zweitsprache.* <br> Innsbruck, Austria.
 
-* <u>Wirtz, M. A.</u> (11.01.2022). Soziolinguistische Kompetenz im Zweitspracherwerb bei Erwachsenen. Dynamiken von linguistischen, sozioaffektiven und kognitiven Faktoren in der soziolinguistischen Entwicklung. Presented at: *Österreichischer Verband für Deutsch als Fremd/Zweitsprache.* <br> Salzburg, Austria. <br> [Download slides](/publications/OeDaFVortrag.pdf)
+* <u>Wirtz, M. A.</u> (11.01.2022). Soziolinguistische Kompetenz im Zweitspracherwerb bei Erwachsenen. Dynamiken von linguistischen, sozioaffektiven und kognitiven Faktoren in der soziolinguistischen Entwicklung. Presented at: *Österreichischer Verband für Deutsch als Fremd/Zweitsprache.* <br> Salzburg, Austria.
 
 
 <br>
