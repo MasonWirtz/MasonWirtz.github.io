@@ -13,6 +13,8 @@ This page houses my list of publications and is always up to date. Published wor
 
 > ## In Preparation / Under Contract
 
+* Fischlhammer, L., & <u>Wirtz, M. A.</u> (in prep.). The effects of change of writing device in historical letters.
+
 * Schleef, E., & <u>Wirtz, M. A.</u> (under contract). Sociolinguistics. In J. Clenton, & D. Coulson (eds.), *An Introduction to Applied Linguistics* (4th ed.). Routledge.
 
 <br>
