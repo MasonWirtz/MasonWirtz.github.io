@@ -80,6 +80,8 @@ This page houses my list of speeches at (inter-)national academic conferences, i
 
 > # Media
 
+* [Standard: Wie redet man in Österreich im Alltag? (16.09.2024)](https://www.derstandard.at/story/3000000233741/wie-redet-man-in-oesterreich-im-alltag)
+
 * [Salzburger Nachrichten: Wie Einschnitte im Leben die Sprache beeinflussen: Salzburger Sprachforscher präsentieren Studienergebnisse (05.06.2024)](https://www.sn.at/salzburg/kultur/wie-einschnitte-leben-sprache-salzburger-sprachforscher-studienergebnisse-159537265)
 
 * [Standard: Dialekt in der Zweitsprache – kann so schwer (nicht) sein … (08.04.2024)](https://www.derstandard.at/story/3000000214298/dialekt-in-der-zweitsprache-kann-so-schwer-nicht-sein-)
