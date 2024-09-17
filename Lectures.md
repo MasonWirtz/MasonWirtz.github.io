@@ -27,11 +27,11 @@ This page houses my list of speeches at (inter-)national academic conferences, i
 
 * <u>Wirtz, M. A.</u> (21.03.2023). Soziolinguistische Kompetenz: Einige Erkenntnisse aus dem bairisch-österreichischen Kontext. Guest lecture in: *Soziolinguistische Kompetenz in DaM, DaZ, DaF (Seminar taught by Univ.-Prof. Dr. Andrea Ender).* University of Salzburg, Austria.
 
-* <u>Wirtz, M. A.</u> (18.01.2023). INTRA-individuelle Variation und Variabilität: Zur Messung und Funktionalität. Guest lecture in: *Dialektsoziologie (Seminar taught by Dr. Christa Schneider).* <br> University of Salzburg, Austria.
+* <u>Wirtz, M. A.</u> (18.01.2023). INTRA-individuelle Variation und Variabilität: Zur Messung und Funktionalität. Guest lecture in: *Dialektsoziologie (Seminar taught by Dr. Christa Schneider).* University of Salzburg, Austria.
 
-* <u>Wirtz, M. A.</u> (01.07.2022). Vom Umgang mit Dialekten im DaF/DaZ-Unterricht: Praktische Ansätze zur Förderung (rezeptiver) Varietätenkompetenz. Presented at: *Österreichischer Verband für Deutsch als Fremd/Zweitsprache.* <br> Innsbruck, Austria.
+* <u>Wirtz, M. A.</u> (01.07.2022). Vom Umgang mit Dialekten im DaF/DaZ-Unterricht: Praktische Ansätze zur Förderung (rezeptiver) Varietätenkompetenz. Presented at: *Österreichischer Verband für Deutsch als Fremd/Zweitsprache.* Innsbruck, Austria.
 
-* <u>Wirtz, M. A.</u> (11.01.2022). Soziolinguistische Kompetenz im Zweitspracherwerb bei Erwachsenen. Dynamiken von linguistischen, sozioaffektiven und kognitiven Faktoren in der soziolinguistischen Entwicklung. Presented at: *Österreichischer Verband für Deutsch als Fremd/Zweitsprache.* <br> Salzburg, Austria.
+* <u>Wirtz, M. A.</u> (11.01.2022). Soziolinguistische Kompetenz im Zweitspracherwerb bei Erwachsenen. Dynamiken von linguistischen, sozioaffektiven und kognitiven Faktoren in der soziolinguistischen Entwicklung. Presented at: *Österreichischer Verband für Deutsch als Fremd/Zweitsprache.* Salzburg, Austria.
 
 <br>
 
