@@ -11,14 +11,15 @@ This page houses my list of speeches at (inter-)national academic conferences, i
 
 <br>
 
+
 > # Plenary Speaker
 
 * Pfenninger, S. E., & <u>Wirtz, M. A.</u> (04.2025). Title TBD. *Sprachvariation und Sprachwandel im deutschsprachigen Raum – Research on Language Variation and Change in the German-speaking Area*. [CfP](https://igdd.org/wp-content/uploads/2024/04/20240327_Call_D-A-CH_LVC.pdf)
 
 * Pfenninger, S. E., & <u>Wirtz, M. A.</u> (20.05.2022). “I thought I was there, just sitting in my chair” – Towards immersive task-based elicitation methodologies using virtual reality. *33rd International Conference on Foreign / Second Language Acquisition.* Szczyrk, Poland. 
 
-
 <br>
+
 
 > # Invited Talks / Guest Lectures
 
@@ -32,20 +33,20 @@ This page houses my list of speeches at (inter-)national academic conferences, i
 
 * <u>Wirtz, M. A.</u> (11.01.2022). Soziolinguistische Kompetenz im Zweitspracherwerb bei Erwachsenen. Dynamiken von linguistischen, sozioaffektiven und kognitiven Faktoren in der soziolinguistischen Entwicklung. Presented at: *Österreichischer Verband für Deutsch als Fremd/Zweitsprache.* <br> Salzburg, Austria.
 
-
 <br>
+
 
 > # (Upcoming) Conference Presentations
 
-* Pfenninger, S. E., & <u>Wirtz, M. A.</u> (accepted) *When* and *for whom* does extracurricular English exposure work? Introducing new methods to capture the temporal specificity of L2 development and individual differences in young learners. *EuroSLA 33.* Montpellier, France. 
+* Pfenninger, S. E., & <u>Wirtz, M. A.</u> (04.07.2024) *When* and *for whom* does extracurricular English exposure work? Introducing new methods to capture the temporal specificity of L2 development and individual differences in young learners. *EuroSLA 33.* Montpellier, France. 
 
-* PANEL ORGANIZATION: <br> <u>Wirtz, M. A.</u>, & Schmidt-Riese, A. (accepted). Dynamics of Sociolinguistic Development in the First and Second Language. *International Conference on Language Variation in Europe (ICLaVE).* Vienna, Austria.
+* PANEL ORGANIZATION: <br> <u>Wirtz, M. A.</u>, & Schmidt-Riese, A. (08.07.2024). Dynamics of Sociolinguistic Development in the First and Second Language. *International Conference on Language Variation in Europe (ICLaVE).* Vienna, Austria.
 
-* PANEL ORGANIZATION: <br> <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., & Elspaß, S. (accepted). Modeling Context and the Individual. *International Conference on Language Variation in Europe (ICLaVE).* Vienna, Austria.
+* PANEL ORGANIZATION: <br> <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., & Elspaß, S. (09.07.2024). Modeling Context and the Individual. *International Conference on Language Variation in Europe (ICLaVE).* Vienna, Austria.
 
-* <u>Wirtz, M. A.</u>, Pickl, S., & Niehaus, K. (accepted). Taking a new perspective to occupational metrics: Variation intensity in colloquial German as a function of occupational complexity. *International Conference on Language Variation in Europe (ICLaVE).* Vienna, Austria.
+* <u>Wirtz, M. A.</u>, Pickl, S., & Niehaus, K. (09.07.2024). Taking a new perspective to occupational metrics: Variation intensity in colloquial German as a function of occupational complexity. *International Conference on Language Variation in Europe (ICLaVE).* Vienna, Austria.
 
-* <u>Wirtz, M. A.</u> (accepted). Operationalizing individuality in variationist SLA: Taking stock and charging forward. *International Conference on Language Variation in Europe (ICLaVE).* Vienna, Austria.
+* <u>Wirtz, M. A.</u> (08.07.2024). Operationalizing individuality in variationist SLA: Taking stock and charging forward. *International Conference on Language Variation in Europe (ICLaVE).* Vienna, Austria.
 
 * <u>Wirtz, M. A.</u> (06.06.2024). Major life events and psychosocial factors as drivers for language change across the lifespan. *LRI: Language & Belonging.* Merano, South Tyrol.
 
@@ -75,8 +76,8 @@ This page houses my list of speeches at (inter-)national academic conferences, i
 
 * <u>Wirtz, M. A.</u> (02.06.2021). Acquiring sociodialectal competence in a second language – one learner belief at a time. *Variation in Language Acquisition (ViLA).* Rorschach, Switzerland.
 
-
 <br>
+
 
 > # Media
 
