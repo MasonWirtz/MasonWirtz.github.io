@@ -40,8 +40,6 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u>, Kaiser, I., & Ender, A. (under review). Decomposing varietal exposure in the lives of adult migrant L2 learners in Austria: A look at the dialect-standard-continuum. In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation: The interaction between world and mind*.
 
-* <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (under review). Gebrauchsstandard in der deutschen Alltagssprache: Eine integrative Modellierung räumlicher und sozialer Variation. *Zeitschrift für germanistische Linguistik.*
-
 * <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (under review). Reconciling the social and spatial: An apparent-time analysis based on variation intensity. *Journal of Linguistic Geography.*
 
 * <u>Wirtz, M. A.</u> (under review). Datenvisualisierung als mehrsprachiges Vermittlungsinstrument. In F. Gmainer-Pranzl & A. Ender (Eds.), *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens*.
@@ -58,6 +56,8 @@ This page houses my list of publications and is always up to date. Published wor
 
 
 > ## 2024 / In Press
+
+* <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (accepted). Gebrauchsstandard in der deutschen Alltagssprache: Eine integrative Modellierung räumlicher und sozialer Variation. *Zeitschrift für germanistische Linguistik.*
 
 * <u>Wirtz, M. A.</u>, & Ender, A. (in press). Functional prestige in sociolinguistic evaluative judgements by adult L2 speakers in Austria: Evidence from perception. *Languages* (special issue, edited by Vera Regan and Kristen Kennedy Terry).
 
