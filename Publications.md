@@ -44,13 +44,13 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u> (under review). Datenvisualisierung als mehrsprachiges Vermittlungsinstrument. In F. Gmainer-Pranzl & A. Ender (Eds.), *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens*.
 
-* <u>Wirtz, M. A.</u>, & Vergeiner, P. C. (invited resubmission). Lebensereignisse im Bildungsbereich als Erklärung für individuellen Sprachwandel. *Zeitschrift für Angewandte Linguistik.*
+* <u>Wirtz, M. A.</u>, & Vergeiner, P. C. (invited resubmission under review). Lebensereignisse im Bildungsbereich als Erklärung für individuellen Sprachwandel. *Zeitschrift für Angewandte Linguistik.*
 
-* <u>Wirtz, M. A.</u> (invited resubmission). Individual differences in perceived linguistic change following life-course transitions in the personal domain. *Journal of Germanic Linguistics.*
+* <u>Wirtz, M. A.</u> (invited resubmission under review). Individual differences in perceived linguistic change following life-course transitions in the personal domain. *Journal of Germanic Linguistics.*
 
-* <u>Wirtz, M. A.</u>, & Pickl, S. (invited resubmission). Major life events as drivers for perceived linguistic change across adulthood. *Language Variation and Change.*
+* <u>Wirtz, M. A.</u>, & Pickl, S. (invited resubmission under review). Major life events as drivers for perceived linguistic change across adulthood. *Language Variation and Change.*
 
-* <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (invited resubmission). Spatial, occupational, and age-related effects on reported variation in colloquial German. *Language Variation and Change.*
+* <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (invited resubmission under review). Spatial, occupational, and age-related effects on reported variation in colloquial German. *Language Variation and Change.*
 
 <br>
 
