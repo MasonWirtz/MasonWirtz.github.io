@@ -44,8 +44,6 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u> (under review). Datenvisualisierung als mehrsprachiges Vermittlungsinstrument. In F. Gmainer-Pranzl & A. Ender (Eds.), *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens*.
 
-* <u>Wirtz, M. A.</u>, & Vergeiner, P. C. (invited resubmission under review). Lebensereignisse im Bildungsbereich als Erklärung für individuellen Sprachwandel. *Zeitschrift für Angewandte Linguistik.*
-
 * <u>Wirtz, M. A.</u> (invited resubmission under review). Individual differences in perceived linguistic change following life-course transitions in the personal domain. *Journal of Germanic Linguistics.*
 
 * <u>Wirtz, M. A.</u>, & Pickl, S. (invited resubmission under review). Major life events as drivers for perceived linguistic change across adulthood. *Language Variation and Change.*
@@ -56,6 +54,8 @@ This page houses my list of publications and is always up to date. Published wor
 
 
 > ## 2024 / In Press
+
+* <u>Wirtz, M. A.</u>, & Vergeiner, P. C. (accepted). Lebensereignisse im Bildungsbereich als Erklärung für individuellen Sprachwandel. *Zeitschrift für Angewandte Linguistik.*
 
 * <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (in press). Gebrauchsstandard in der deutschen Alltagssprache: Eine integrative Modellierung räumlicher und sozialer Variation. *Zeitschrift für germanistische Linguistik.*
 
