@@ -34,8 +34,6 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u>, Elspaß, S., Pickl, S., & Niehaus, K. (under review). Geospatial and social influences on pragmatic variation. *Journal of Language Variation and Sociolinguistics* (special issue, edited by Philip C. Vergeiner).
 
-* Ender, A., & <u>Wirtz, M. A.</u> (under review). In(ter)dependent dialect and standard L2 systems? On the development of receptive varietal proficiency. In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation: The interaction between world and mind*.
-
 * <u>Wirtz, M. A.</u>, Pickl, S., & Pfenninger, S. E. (under review). Individual differences in event experiences and psychosocial factors as drivers for language change following occupational major life events. *Open Linguistics.*
 
 * <u>Wirtz, M. A.</u>, Kaiser, I., & Ender, A. (under review). Decomposing varietal exposure in the lives of adult migrant L2 learners in Austria: A look at the dialect-standard-continuum. In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation: The interaction between world and mind*.
@@ -53,7 +51,9 @@ This page houses my list of publications and is always up to date. Published wor
 <br>
 
 
-> ## 2024 / In Press
+> ## 2024 / Accepted
+
+* Ender, A., & <u>Wirtz, M. A.</u> (accepted pending minor revisions). In(ter)dependent dialect and standard L2 systems? On the development of receptive varietal proficiency. In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation: The interaction between world and mind*.
 
 * <u>Wirtz, M. A.</u>, & Vergeiner, P. C. (accepted). Lebensereignisse im Bildungsbereich als Erklärung für individuellen Sprachwandel. *Zeitschrift für Angewandte Linguistik.*
 
