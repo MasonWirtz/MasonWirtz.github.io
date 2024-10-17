@@ -44,14 +44,14 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u>, & Pickl, S. (invited resubmission under review). Major life events as drivers for perceived linguistic change across adulthood. *Language Variation and Change.*
 
-* <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (invited resubmission under review). Spatial, occupational, and age-related effects on reported variation in colloquial German. *Language Variation and Change.*
-
 <br>
 
 
 > ## 2024 / Accepted
 
 * Ender, A., & <u>Wirtz, M. A.</u> (accepted pending minor revisions). In(ter)dependent dialect and standard L2 systems? On the development of receptive varietal proficiency. In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation: The interaction between world and mind*.
+
+* <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (accepted). Spatial, occupational, and age-related effects on reported variation in colloquial German. *Language Variation and Change.*
 
 * <u>Wirtz, M. A.</u>, & Vergeiner, P. C. (accepted). Lebensereignisse im Bildungsbereich als Erklärung für individuellen Sprachwandel. *Zeitschrift für Angewandte Linguistik.*
 
