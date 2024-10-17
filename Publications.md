@@ -73,6 +73,7 @@ This page houses my list of publications and is always up to date. Published wor
 
 * Pfenninger, S. E., & <u>Wirtz, M. A.</u> (2024). Reconciling the divides: A dynamic integrative analysis of variability and commonality in (pre)primary school English development in Switzerland. *Language Teaching Research Quarterly*, 46(1), 145-173. [DOI](https://eurokd.com/doi/10.32038/ltrq.2024.39.11) [(Open data)](https://osf.io/purk9/?view_only=13823b26ff744bd593c4c9d404e0ed8c)
 
+* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (2024). Capturing Thresholds and Continuities: Individual Differences as Predictors of L2 Sociolinguistic Repertoires in Adult Migrant Learners in Austria. *Applied Linguistics*, 45(2), 249–271. [DOI](https://doi.org/10.1093/applin/amad055) [(Open data)](https://osf.io/xmw3f/)
 
 <br>
 
@@ -81,8 +82,6 @@ This page houses my list of publications and is always up to date. Published wor
 * Ender, A., Kasberger, G., & <u>Wirtz, M. A.</u> (2023). Standard- und Dialektbewertungen auf den Grund gehen: Individuelle Unterschiede und subjektive Theorien hinsichtlich Dialekt- und Standardaffinität bei Personen mit Deutsch als Zweitsprache im bairischsprachigen Österreich. *Zeitschrift für Deutsch im Kontext von Mehrsprachigkeit, 1*(2), 8-25. [DOI](https://www.vr-elibrary.de/doi/abs/10.14220/odaf.2023.39.1.8)
 
 * <u>Wirtz, M. A.</u> (2023). *Inter- and Intra-Individual Variation in Adult L2 Sociolinguistic Repertoires. Dynamics of Linguistic, Socioaffective and Cognitive Factors.* Doctoral Dissertation, University of Salzburg (Salzburg, Austria)
-
-* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (2023). Capturing Thresholds and Continuities: Individual Differences as Predictors of L2 Sociolinguistic Repertoires in Adult Migrant Learners in Austria. *Applied Linguistics*. Advanced online publication. [DOI](10.1093/applin/amad055) [(Open data)](https://osf.io/xmw3f/)
 
 * <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (2023). Variability and Individual Differences in L2 Sociolinguistic Evaluations: The GROUP, the INDIVIDUAL and the HOMOGENEOUS ENSEMBLE. *Studies in Second Language Acquisition*, 45(5), 1186–1209. [DOI](https://doi.org/10.1017/S0272263123000177) [(Open data)](https://osf.io/yrqn6/)
 
