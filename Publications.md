@@ -40,7 +40,7 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u> (under review). Datenvisualisierung als mehrsprachiges Vermittlungsinstrument. In F. Gmainer-Pranzl & A. Ender (Eds.), *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens*.
 
-* <u>Wirtz, M. A.</u>, Pickl, S., & Pfenninger, S. E. (invited resubmission). Individual differences in event experiences and psychosocial factors as drivers for perceived linguistic change following occupational major life events. *Open Linguistics.*
+* <u>Wirtz, M. A.</u>, Pickl, S., & Pfenninger, S. E. (invited resubmission under review). Individual differences in event experiences and psychosocial factors as drivers for perceived linguistic change following occupational major life events. *Open Linguistics.*
 
 * <u>Wirtz, M. A.</u> (invited resubmission under review). Individual differences in perceived linguistic change following life-course transitions in the personal domain. *Journal of Germanic Linguistics.*
 
