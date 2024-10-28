@@ -51,7 +51,7 @@ This page houses my list of publications and is always up to date. Published wor
 
 * Ender, A., & <u>Wirtz, M. A.</u> (accepted pending minor revisions). In(ter)dependent dialect and standard L2 systems? On the development of receptive varietal proficiency. In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation: The interaction between world and mind*.
 
-* <u>Wirtz, M. A.</u> (accepted). Individual differences in perceived linguistic change following life-course transitions in the personal domain. *Journal of Germanic Linguistics.*
+* <u>Wirtz, M. A.</u> (accepted). Individual differences in perceived linguistic change following life-course transitions in the personal domain. *Journal of Germanic Linguistics.* [(Open data)](https://osf.io/er7zw/)
 
 * <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (accepted). Spatial, occupational, and age-related effects on reported variation in colloquial German. *Language Variation and Change.*
 
