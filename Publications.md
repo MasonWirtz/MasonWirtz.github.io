@@ -42,12 +42,12 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u>, Pickl, S., & Pfenninger, S. E. (invited resubmission under review). Individual differences in event experiences and psychosocial factors as drivers for perceived linguistic change following occupational major life events. *Open Linguistics.*
 
-* <u>Wirtz, M. A.</u>, & Pickl, S. (invited resubmission under review). Major life events as drivers for perceived linguistic change across adulthood. *Language Variation and Change.*
-
 <br>
 
 
 > ## 2024 / Accepted
+
+* <u>Wirtz, M. A.</u>, & Pickl, S. (accepted). Major life events as drivers for perceived linguistic change across adulthood. *Language Variation and Change.*
 
 * Ender, A., & <u>Wirtz, M. A.</u> (accepted pending minor revisions). In(ter)dependent dialect and standard L2 systems? On the development of receptive varietal proficiency. In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation: The interaction between world and mind*.
 
