@@ -24,8 +24,6 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u> (under review). The love factor in variationist SLA: Effects of multilingual coupledom on sociolinguistic development in additional-language German. 
 
-* <u>Wirtz, M. A.</u> (under review). *Dynamics of L2 sociolinguistic development in adulthood*. Multilingual Matters.
-
 * Pfenninger, S. E., & <u>Wirtz, M. A.</u> (under review). Age and additional language acquisition. *International Encyclopedia of Language and Linguistics*.
 
 * <u>Wirtz, M. A.</u>, Pfenninger, S. E., Rossmanith, A., & Zbinden, L. (under review). Continuity vs. cut-off points in SLA across the lifespan: From significant life events to biologically regulated thresholds. In C. Wright, T. Piske, A. Steinlein, P. Peltonen (eds.), *Context Matters*. Multilingual Matters. 
@@ -39,6 +37,8 @@ This page houses my list of publications and is always up to date. Published wor
 * <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (under review). Reconciling the social and spatial: An apparent-time analysis based on variation intensity. *Journal of Linguistic Geography.*
 
 * <u>Wirtz, M. A.</u> (under review). Datenvisualisierung als mehrsprachiges Vermittlungsinstrument. In F. Gmainer-Pranzl & A. Ender (Eds.), *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens*.
+
+* <u>Wirtz, M. A.</u> (invited resubmission under review). *Dynamics of L2 sociolinguistic development in adulthood*. Multilingual Matters.
 
 * <u>Wirtz, M. A.</u>, Pickl, S., & Pfenninger, S. E. (invited resubmission under review). Individual differences in event experiences and psychosocial factors as drivers for perceived linguistic change following occupational major life events. *Open Linguistics.*
 
