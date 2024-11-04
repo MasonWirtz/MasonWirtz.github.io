@@ -13,8 +13,6 @@ This page houses my list of publications and is always up to date. Published wor
 
 > ## In Preparation / Under Contract
 
-* <u>Wirtz, M. A.</u> (in prep.). The love factor in variationist SLA: Effects of multilingual coupledom on sociolinguistic development in additional-language German. 
-
 * Fischlhammer, L., & <u>Wirtz, M. A.</u> (in prep.). Real-time change in writing patterns and the effects of writing device on linguistic (in-)stability.
 
 * Schleef, E., & <u>Wirtz, M. A.</u> (under contract). Sociolinguistics. In J. Clenton, & D. Coulson (eds.), *An Introduction to Applied Linguistics* (4th ed.). Routledge.
@@ -23,6 +21,8 @@ This page houses my list of publications and is always up to date. Published wor
 
 
 > ## Under Review / Invited Resubmission
+
+* <u>Wirtz, M. A.</u> (under review). The love factor in variationist SLA: Effects of multilingual coupledom on sociolinguistic development in additional-language German. 
 
 * <u>Wirtz, M. A.</u> (under review). *Dynamics of L2 sociolinguistic development in adulthood*. Multilingual Matters.
 
