@@ -71,7 +71,7 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u>, & Fischlhammer, L. (2024). Erwerbstrajektorien von Varietätenkompetenz in der Zweitsprache: Eine temporal-relationale Perspektive auf das Aneignungsverhältnis standardsprachlicher und bairisch-dialektaler Merkmale. *Zeitschrift für Angewandte Linguistik.* [DOI](https://doi.org/10.1515/zfal-2024-2006) [(Open data)](https://osf.io/s9nf2/)
 
-* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (2024). Signature Dynamics of Development in L2 Sociolinguistic Competence: Evidence from an Intensive Micro-Longitudinal Study. *Language Learning*. [DOI](https://doi.org/10.1111/lang.12634) [(Open data)](https://osf.io/w4n62/)
+* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (2024). Signature Dynamics of Development in L2 Sociolinguistic Competence: Evidence from an Intensive Micro-Longitudinal Study. *Language Learning*, 74(3), 707-743. [DOI](https://doi.org/10.1111/lang.12634) [(Open data)](https://osf.io/w4n62/)
 
 * Pfenninger, S. E., & <u>Wirtz, M. A.</u> (2024). Reconciling the divides: A dynamic integrative analysis of variability and commonality in (pre)primary school English development in Switzerland. *Language Teaching Research Quarterly*, 46(1), 145-173. [DOI](https://eurokd.com/doi/10.32038/ltrq.2024.39.11) [(Open data)](https://osf.io/purk9/?view_only=13823b26ff744bd593c4c9d404e0ed8c)
 
