@@ -40,9 +40,11 @@ This page houses my list of speeches at (inter-)national academic conferences, i
 
 > # (Upcoming) Conference Presentations
 
-* <u>Wirtz, M. A.</u> (accepted, 18.03.2025). Significant life events as drivers for sociolinguistic development across the lifespan. *Variation in Language Acquisition 6 (ViLA 6).* Potsdam, Germany.
+* <u>Wirtz, M. A.</u>, Elspaß, S., Möller, R., Pickl, S., & Niehaus, K. (accepted, 04.2025). Real- and apparent-time change in colloquial German: A 20-year trend study. *Sprachvariation und Sprachwandel im deutschsprachigen Raum – Research on Language Variation and Change in the German-speaking Area.* Munich, Germany.
 
-* <u>Wirtz, M. A.</u> (accepted, 18.03.2025). A holistic view on sociolinguistic development among adult L2 learners. Dynamics of social, socioaffective, and cognitive variables. *Variation in Language Acquisition 6 (ViLA 6).* Potsdam, Germany.
+* <u>Wirtz, M. A.</u> (accepted, 03.2025). Significant life events as drivers for sociolinguistic development across the lifespan. *Variation in Language Acquisition 6 (ViLA 6).* Potsdam, Germany.
+
+* <u>Wirtz, M. A.</u> (accepted, 03.2025). A holistic view on sociolinguistic development among adult L2 learners. Dynamics of social, socioaffective, and cognitive variables. *Variation in Language Acquisition 6 (ViLA 6).* Potsdam, Germany.
 
 * Pfenninger, S. E., & <u>Wirtz, M. A.</u> (04.07.2024) *When* and *for whom* does extracurricular English exposure work? Introducing new methods to capture the temporal specificity of L2 development and individual differences in young learners. *EuroSLA 33.* Montpellier, France. 
 
