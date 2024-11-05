@@ -40,6 +40,10 @@ This page houses my list of speeches at (inter-)national academic conferences, i
 
 > # (Upcoming) Conference Presentations
 
+* <u>Wirtz, M. A.</u> (accepted, 18.03.2025). Significant life events as drivers for sociolinguistic development across the lifespan. *Variation in Language Acquisition 6 (ViLA 6).* Potsdam, Germany.
+
+* <u>Wirtz, M. A.</u> (accepted, 18.03.2025). A holistic view on sociolinguistic development among adult L2 learners. Dynamics of social, socioaffective, and cognitive variables. *Variation in Language Acquisition 6 (ViLA 6).* Potsdam, Germany.
+
 * Pfenninger, S. E., & <u>Wirtz, M. A.</u> (04.07.2024) *When* and *for whom* does extracurricular English exposure work? Introducing new methods to capture the temporal specificity of L2 development and individual differences in young learners. *EuroSLA 33.* Montpellier, France. 
 
 * PANEL ORGANIZATION: <br> <u>Wirtz, M. A.</u>, & Schmidt-Riese, A. (08.07.2024). Dynamics of Sociolinguistic Development in the First and Second Language. *International Conference on Language Variation in Europe (ICLaVE).* Vienna, Austria.
@@ -76,7 +80,7 @@ This page houses my list of speeches at (inter-)national academic conferences, i
 
 * <u>Wirtz, M. A.</u> (24.09.2021). Discourse completion tasks meet virtual reality: A standalone researcher's new best friend? *STaPs 18 (Sprachwissenschaftliche Tagung für Promotionsstudierende).* Salzburg, Austria.
 
-* <u>Wirtz, M. A.</u> (02.06.2021). Acquiring sociodialectal competence in a second language – one learner belief at a time. *Variation in Language Acquisition (ViLA).* Rorschach, Switzerland.
+* <u>Wirtz, M. A.</u> (02.06.2021). Acquiring sociodialectal competence in a second language – one learner belief at a time. *Variation in Language Acquisition 4 (ViLA 4).* Rorschach, Switzerland.
 
 <br>
 
