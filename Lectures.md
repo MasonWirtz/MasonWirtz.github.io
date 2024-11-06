@@ -14,7 +14,7 @@ This page houses my list of speeches at (inter-)national academic conferences, i
 
 > # Plenary Speaker
 
-* Pfenninger, S. E., & <u>Wirtz, M. A.</u> (04.2025). Title TBD. *Sprachvariation und Sprachwandel im deutschsprachigen Raum – Research on Language Variation and Change in the German-speaking Area*. [CfP](https://igdd.org/wp-content/uploads/2024/04/20240327_Call_D-A-CH_LVC.pdf)
+* Pfenninger, S. E., & <u>Wirtz, M. A.</u> (04.2025). Revisiting causality in SLA and sociolinguistics: Inferential goals and causal linkages in light of emerging dynamic methodologies. *Sprachvariation und Sprachwandel im deutschsprachigen Raum – Research on Language Variation and Change in the German-speaking Area*. Munich, Germany.
 
 * Pfenninger, S. E., & <u>Wirtz, M. A.</u> (20.05.2022). “I thought I was there, just sitting in my chair” – Towards immersive task-based elicitation methodologies using virtual reality. *33rd International Conference on Foreign / Second Language Acquisition.* Szczyrk, Poland. 
 
