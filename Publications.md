@@ -24,8 +24,6 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u> (under review). The love factor in variationist SLA: Effects of multilingual coupledom on sociolinguistic development in additional-language German. 
 
-* Pfenninger, S. E., & <u>Wirtz, M. A.</u> (under review). Age and additional language acquisition. *International Encyclopedia of Language and Linguistics*.
-
 * <u>Wirtz, M. A.</u>, Pfenninger, S. E., Rossmanith, A., & Zbinden, L. (under review). Continuity vs. cut-off points in SLA across the lifespan: From significant life events to biologically regulated thresholds. In C. Wright, T. Piske, A. Steinlein, P. Peltonen (eds.), *Context Matters*. Multilingual Matters. 
 
 * <u>Wirtz, M. A.</u> (under review). Language attitudes across adolescence and adulthood: Evaluative judgement trajectories and significant life events as critical inflection points. *Zeitschrift für Angewandte Linguistik.*
@@ -46,6 +44,8 @@ This page houses my list of publications and is always up to date. Published wor
 
 
 > ## 2024 / Accepted
+
+* Pfenninger, S. E., & <u>Wirtz, M. A.</u> (accepted). Age and additional language acquisition. *International Encyclopedia of Language and Linguistics*.
 
 * <u>Wirtz, M. A.</u>, & Pickl, S. (accepted). Major life events as drivers for perceived linguistic change across adulthood. *Language Variation and Change.* [(Open data)](https://osf.io/mf3jh/)
 
