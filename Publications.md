@@ -38,12 +38,12 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u> (invited resubmission under review). *Dynamics of L2 sociolinguistic development in adulthood*. Multilingual Matters. [(Open data)](https://osf.io/jzwd4/)
 
-* <u>Wirtz, M. A.</u>, Pickl, S., & Pfenninger, S. E. (invited resubmission under review). Individual differences in event experiences and psychosocial factors as drivers for perceived linguistic change following occupational major life events. *Open Linguistics.*
-
 <br>
 
 
 > ## 2024 / Accepted
+
+* <u>Wirtz, M. A.</u>, Pickl, S., & Pfenninger, S. E. (accepted). Individual differences in event experiences and psychosocial factors as drivers for perceived linguistic change following occupational major life events. *Open Linguistics.*
 
 * Pfenninger, S. E., & <u>Wirtz, M. A.</u> (accepted). Age and additional language acquisition. *International Encyclopedia of Language and Linguistics*.
 
