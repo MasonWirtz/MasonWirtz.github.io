@@ -43,7 +43,7 @@ This page houses my list of publications and is always up to date. Published wor
 
 > ## 2024 / Accepted
 
-* <u>Wirtz, M. A.</u>, Pickl, S., & Pfenninger, S. E. (accepted). Individual differences in event experiences and psychosocial factors as drivers for perceived linguistic change following occupational major life events. *Open Linguistics.*
+* <u>Wirtz, M. A.</u>, Pickl, S., & Pfenninger, S. E. (accepted). Individual differences in event experiences and psychosocial factors as drivers for perceived linguistic change following occupational major life events. *Open Linguistics.* [(Open data)](https://osf.io/46fkh/)
 
 * Pfenninger, S. E., & <u>Wirtz, M. A.</u> (accepted). Age and additional language acquisition. *International Encyclopedia of Language and Linguistics*.
 
