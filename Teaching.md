@@ -26,6 +26,8 @@ This page houses a list of courses/workshops I have taught.
 
 > ### Statistics and Methodology
 
+* **Statistics: Factor analyses and regression modeling** <br> 27.11.2024 <br> PhD / Postdoc Workshop, University of Salzburg, Austria
+
 * **Psycho for PsychoPy! An Introduction to Creating Experiments in PsychoPy** <br> 07.2023 <br> PhD / Postdoc Workshop, University of Salzburg, Austria
 
 * **Intro to RStudio and R Markdown for Open Data and Reproducibility (IntRo2RStudio)** <br> [Workshop materials](https://masonwirtz.github.io/intRo2RStudio/) <br> 25–26.11.2022 <br> PhD / Postdoc Workshop, University of Zurich, Switzerland
