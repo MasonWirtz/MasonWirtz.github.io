@@ -49,14 +49,27 @@ My **habilitation project** explores from a variationist perspective the role of
 
 > # Research Interests
 
-- Second language use and development
-- Language variation and change across the lifespan
-- Intra-individual variation and variability in L2 development from psycholinguistic and sociolinguistic perspectives
-- Cognition-affect interface
-- Research methods and statistics
-- Contextual factors (classroom and non-instructional settings, differences in input, family and peer circumstances)
-- Methodological challenges for empirical research, e.g., reconciling quantitative and qualitative methods as a means of explaining predications, capitalizing on new methodological designs (e.g., virtual reality) to control for the role of context
-- Second language development in the context of sociolinguistic and spatial variation
-- (Acquisition of) Bidialectalism in L2 learning
-- Dialectometry and geostatistical methods to explore the interplay of social, spatial, and linguistic variation 
+**Second language acquisition**
+- SLA across the lifespan
+- Variationist approaches to SLA
+- Acquisition of bidialectalism and sociolinguistic variation in L2 learning
+- Individual differences in cognitive, socio-affective, linguistic, and instructional variables affecting SLA
+- The love factor in (variationist) SLA
+
+**Variationist sociolinguistics and dialectology**
+- Language variation and change across the lifespan 
+- Effects of major life events on post-adolescent linguistic (in-)stability
+- Individual differences in cognitive and psychobehavioral factors affecting linguistic variability 
+- Language attitudes and attitude development
+- Dialectometry
+- Geostatistical modeling of the interplay between social and spatial factors on linguistic variation
+
+**Multilingualism**
+- Bilingual and bidialectal (cognitive) advantage
+- Effects of migratory experience on linguistic variability in the L1 and L2
+
+**Research methods**
+- Statistical methods for operationalizing individuality and intra-individual variability
+- Novel methodological designs and elicitation instruments (e.g., virtual reality) to control for the role of context
+- Reconciling quantitative and qualitative methods as a means of explaining predications
 
