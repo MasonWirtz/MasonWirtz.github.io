@@ -30,8 +30,6 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u>, Elspaß, S., Pickl, S., & Niehaus, K. (under review). Geospatial and social influences on pragmatic variation. *Journal of Language Variation and Sociolinguistics* (special issue, edited by Philip C. Vergeiner).
 
-* <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (under review). Reconciling the social and spatial: An apparent-time analysis based on variation intensity. *Journal of Linguistic Geography.*
-
 * <u>Wirtz, M. A.</u> (under review). Datenvisualisierung als mehrsprachiges Vermittlungsinstrument. In F. Gmainer-Pranzl & A. Ender (Eds.), *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens*.
 
 * <u>Wirtz, M. A.</u>, Kaiser, I., & Ender, A. (invited resubmission under review). Perceived varietal contact and use in the lives of adult migrant L2 learners in Austria: A look at the dialect-standard-continuum. In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation: The interaction between world and mind*.
@@ -42,6 +40,8 @@ This page houses my list of publications and is always up to date. Published wor
 
 
 > ## 2024 / Accepted
+
+* <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (accepted). Reconciling the social and spatial: An apparent-time analysis based on variation intensity. *Journal of Linguistic Geography.*
 
 * <u>Wirtz, M. A.</u>, Pickl, S., & Pfenninger, S. E. (accepted). Individual differences in event experiences and psychosocial factors as drivers for perceived linguistic change following occupational major life events. *Open Linguistics.* [(Open data)](https://osf.io/46fkh/)
 
