@@ -41,23 +41,23 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u> (accepted). *Dynamics of L2 sociolinguistic development in adulthood*. Multilingual Matters. [(Open data)](https://osf.io/jzwd4/)
 
-* <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (accepted). Reconciling the social and spatial: An apparent-time analysis based on variation intensity. *Journal of Linguistic Geography.*
+* <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (accepted). Reconciling the social and spatial: An apparent-time analysis of variation intensity in colloquial German. *Journal of Linguistic Geography.*
 
 * <u>Wirtz, M. A.</u>, Pickl, S., & Pfenninger, S. E. (accepted). Individual differences in event experiences and psychosocial factors as drivers for perceived linguistic change following occupational major life events. *Open Linguistics.* [(Open data)](https://osf.io/46fkh/)
-
-* Pfenninger, S. E., & <u>Wirtz, M. A.</u> (accepted). Age and additional language acquisition. *International Encyclopedia of Language and Linguistics*.
-
-* <u>Wirtz, M. A.</u>, & Pickl, S. (accepted). Major life events as drivers for perceived linguistic change across adulthood. *Language Variation and Change.* [(Open data)](https://osf.io/mf3jh/)
 
 * Ender, A., & <u>Wirtz, M. A.</u> (accepted pending minor revisions). In(ter)dependent dialect and standard L2 systems? On the development of receptive varietal proficiency. In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation: The interaction between world and mind*.
 
 * <u>Wirtz, M. A.</u> (accepted). Individual differences in perceived linguistic change following life-course transitions in the personal domain. *Journal of Germanic Linguistics.* [(Open data)](https://osf.io/er7zw/)
 
-* <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (accepted). Spatial, occupational, and age-related effects on reported variation in colloquial German. *Language Variation and Change.*
+* Pfenninger, S. E., & <u>Wirtz, M. A.</u> (in press). Age and additional language acquisition. *International Encyclopedia of Language and Linguistics*.
 
-* <u>Wirtz, M. A.</u>, & Vergeiner, P. C. (accepted). Lebensereignisse im Bildungsbereich als Erklärung für individuellen Sprachwandel. *Zeitschrift für Angewandte Linguistik.*
+* <u>Wirtz, M. A.</u>, & Pickl, S. (in press). Major life events as drivers for perceived linguistic change across adulthood. *Language Variation and Change.* [(Open data)](https://osf.io/mf3jh/)
 
-* <u>Wirtz, M. A.</u>, & Ender, A. (accepted). Functional prestige in sociolinguistic evaluative judgements by adult L2 speakers in Austria: Evidence from perception. *Languages* (special issue, edited by Vera Regan and Kristen Kennedy Terry).
+* <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (in press). Spatial, occupational, and age-related effects on reported variation in colloquial German. *Language Variation and Change.*
+
+* <u>Wirtz, M. A.</u>, & Vergeiner, P. C. (in press). Lebensereignisse im Bildungsbereich als Erklärung für individuellen Sprachwandel. *Zeitschrift für Angewandte Linguistik.*
+
+* <u>Wirtz, M. A.</u>, & Ender, A. (in press). Functional prestige in sociolinguistic evaluative judgements by adult L2 speakers in Austria: Evidence from perception. *Languages* (special issue, edited by Vera Regan and Kristen Kennedy Terry).
 
 * <u>Wirtz, M. A.</u>, & Vergeiner, P. C. (in press). Typen des individuellen Sprachwandels nach wesentlichen Lebensereignissen. *Zeitschrift für germanistische Linguistik*.
 
