@@ -17,8 +17,8 @@ This page houses my list of publications and is always up to date. Published wor
 
 * Schleef, E., & <u>Wirtz, M. A.</u> (under contract). Sociolinguistics. In J. Clenton, & D. Coulson (eds.), *An Introduction to Applied Linguistics* (4th ed.). Routledge.
 
-<br>
 
+<br>
 
 > ## Under Review / Invited Resubmission
 
@@ -34,8 +34,8 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u>, Kaiser, I., & Ender, A. (invited resubmission under review). Perceived varietal contact and use in the lives of adult migrant L2 learners in Austria: A look at the dialect-standard-continuum. In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation: The interaction between world and mind*.
 
-<br>
 
+<br>
 
 > ## 2025 / Accepted
 
@@ -65,6 +65,8 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (2025). Spatial, occupational, and age-related effects on reported variation in colloquial German. *Language Variation and Change,* Advanced Online Publication. [DOI](https://www.cambridge.org/core/journals/language-variation-and-change/article/spatial-occupational-and-agerelated-effects-on-reported-variation-in-colloquial-german/8A859ED99BFEE0A88D8A74BD03D6E809)
 
+
+<br>
 
 > ## 2024
 
