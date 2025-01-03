@@ -8,7 +8,7 @@ title: "Dr. Mason A. Wirtz"
 </p>
 
 
-I am a postdoctoral researcher at the University of Salzburg, Austria in the newly minted [MuSt Lab](https://www.plus.ac.at/germanistik/forschung/muster-und-strukturen-der-regionalen-sprachwirklichkeit/) (PIs: Prof. Stephan Elspaß, Prof. Simon Pickl, and Dr. Konstantin Niehaus). Prior to my current position, I held graduate teaching and research scholarships at Bowling Green State University, worked as a lecturer in German as a foreign/second language and as Academic Programs Manager at Salzburg College in Salzburg, Austria, and taught German as a second language courses at various adult education institutes in Austria. I received my BA (2015–2019) and MA (2019–2020) in German studies from Bowling Green State University (Ohio, USA) and my PhD (2020–2023) in German linguistics with a focus on second language acquisition and variationist sociolinguistics from the University of Salzburg, Austria (supervised by Prof. Andrea Ender, University of Salzburg, PD Irmtraud Kaiser, University of Salzburg, and Prof. Simone E. Pfenninger, University of Zurich). 
+I am a postdoctoral researcher at the University of Zurich, Switzerland working in the [VARIAGE project](https://www.variage.ch). Prior to my current position, I was a postdoc in the [MuSt Lab](https://www.plus.ac.at/germanistik/forschung/muster-und-strukturen-der-regionalen-sprachwirklichkeit/) (PIs: Prof. Stephan Elspaß, Prof. Simon Pickl, and Dr. Konstantin Niehaus), I held graduate teaching and research scholarships at Bowling Green State University, worked as a lecturer in German as a foreign/second language and as Academic Programs Manager at Salzburg College in Salzburg, Austria, and taught German as a second language courses at various adult education institutes in Austria. I received my BA (2015–2019) and MA (2019–2020) in German studies from Bowling Green State University (Ohio, USA) and my PhD (2020–2023) in German linguistics with a focus on second language acquisition and variationist sociolinguistics from the University of Salzburg, Austria (supervised by Prof. Andrea Ender, University of Salzburg, PD Irmtraud Kaiser, University of Salzburg, and Prof. Simone E. Pfenninger, University of Zurich). 
  
 My primary research interests include psycholinguistics, variationist sociolinguistics, and second language acquisition (SLA) in adulthood, especially as concerns quantitative approaches and statistical methods. My SLA research sheds light on the role of domain-general cognitive functioning alongside psychosocial and linguistic factors on the acquisition of sociolinguistic variation in L2 learning during (young) adulthood, as well as how socioaffective, experiential, and contextual variables impact on additional language learning by mature adults. Additionally, I am interested in intra-individual variation and variability in L2 development from psycholinguistic and sociolinguistic perspectives as well as methodological challenges for empirical research, e.g., reconciling quantitative and qualitative methods as a means of explaining predications and capitalizing on new methodological designs and instruments (e.g., virtual reality) to control for the role of context. I also dabble in geostatistics and dialectometric methods and enjoy testing out new and innovative ways to visualize data for different audiences. 
 
@@ -61,8 +61,7 @@ My **habilitation project** explores from a variationist perspective the role of
 - Effects of major life events on post-adolescent linguistic (in-)stability
 - Individual differences in cognitive and psychobehavioral factors affecting linguistic variability 
 - Language attitudes and attitude development
-- Dialectometry
-- Geostatistical modeling of the interplay between social and spatial factors on linguistic variation
+- Dialectometry and geostatistical modeling of the interplay between social and spatial factors on linguistic variation
 
 **Multilingualism**
 - Bilingual and bidialectal (cognitive) advantage
@@ -70,6 +69,6 @@ My **habilitation project** explores from a variationist perspective the role of
 
 **Research methods**
 - Statistical methods for operationalizing individuality and intra-individual variability
-- Novel methodological designs and elicitation instruments (e.g., virtual reality) to control for the role of context
+- Novel experimental designs and elicitation instruments (e.g., virtual reality) to control for the role of context
 - Reconciling quantitative and qualitative methods as a means of explaining predications
 
