@@ -12,7 +12,7 @@ I am a postdoctoral researcher at the University of Zurich, Switzerland (2025-pr
  
 My primary research interests include psycholinguistics, variationist sociolinguistics, and second language acquisition (SLA) in adulthood, especially as concerns quantitative approaches and statistical methods. In my work on SLA, I am interested in the role of psychosocial, linguistic, and cognitive factors on the acquisition of sociolinguistic variation in L2 learning during (young) adulthood, and how socioaffective, experiential, and contextual variables impact additional language learning among mature adults. My habilitation project merges psycho- and sociolinguistic approaches in order to investigate how major life events (e.g., entry into the workforce, parenthood, retirement) affect language variation and change across the lifespan. 
 
-[OSF](https://osf.io/gn4m7/)  &nbsp; &nbsp; [GitHub](https://github.com/MasonWirtz)  &nbsp; &nbsp; [Twitter](https://mobile.twitter.com/WirtzMason)
+[OSF](https://osf.io/gn4m7/)  &nbsp; &nbsp; [GitHub](https://github.com/MasonWirtz)  &nbsp; &nbsp; [ORCiD](https://orcid.org/0000-0002-9408-1993)  &nbsp; &nbsp; [Google Scholar](https://scholar.google.de/citations?user=XqXyTbwAAAAJ&hl=de)  &nbsp; &nbsp; [ResearchGate](https://www.researchgate.net/profile/Mason-Wirtz )
 
 <br>
 
