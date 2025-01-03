@@ -37,23 +37,21 @@ This page houses my list of publications and is always up to date. Published wor
 <br>
 
 
-> ## 2024 / Accepted
+> ## 2025 / Accepted
 
-* <u>Wirtz, M. A.</u> (accepted). *Dynamics of L2 sociolinguistic development in adulthood*. Multilingual Matters. [(Open data)](https://osf.io/jzwd4/)
+* <u>Wirtz, M. A.</u> (in press). *Dynamics of L2 sociolinguistic development in adulthood*. Multilingual Matters. [(Open data)](https://osf.io/jzwd4/)
 
 * <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (accepted). Reconciling the social and spatial: An apparent-time analysis of variation intensity in colloquial German. *Journal of Linguistic Geography.*
 
 * <u>Wirtz, M. A.</u>, Pickl, S., & Pfenninger, S. E. (accepted). Individual differences in event experiences and psychosocial factors as drivers for perceived linguistic change following occupational major life events. *Open Linguistics.* [(Open data)](https://osf.io/46fkh/)
 
-* Ender, A., & <u>Wirtz, M. A.</u> (accepted pending minor revisions). In(ter)dependent dialect and standard L2 systems? On the development of receptive varietal proficiency. In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation: The interaction between world and mind*.
+* Ender, A., & <u>Wirtz, M. A.</u> (accepted). In(ter)dependent dialect and standard L2 systems? On the development of receptive varietal proficiency. In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation: The interaction between world and mind*.
 
 * <u>Wirtz, M. A.</u> (accepted). Individual differences in perceived linguistic change following life-course transitions in the personal domain. *Journal of Germanic Linguistics.* [(Open data)](https://osf.io/er7zw/)
 
 * Pfenninger, S. E., & <u>Wirtz, M. A.</u> (in press). Age and additional language acquisition. *International Encyclopedia of Language and Linguistics*.
 
 * <u>Wirtz, M. A.</u>, & Pickl, S. (in press). Major life events as drivers for perceived linguistic change across adulthood. *Language Variation and Change.* [(Open data)](https://osf.io/mf3jh/)
-
-* <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (in press). Spatial, occupational, and age-related effects on reported variation in colloquial German. *Language Variation and Change.*
 
 * <u>Wirtz, M. A.</u>, & Vergeiner, P. C. (in press). Lebensereignisse im Bildungsbereich als Erklärung für individuellen Sprachwandel. *Zeitschrift für Angewandte Linguistik.*
 
@@ -65,11 +63,16 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (in press). Theoretical, methodological, and computational perspectives on immersive virtual reality in variationist SLA: Insights from user experience. In M. Solon, M. Kanwit & A. Gudmestad (Eds.), *Research at the intersection of second language acquisition and sociolinguistics: Studies in honor of Kimberly L. Geeslin*. [(Open data)](https://osf.io/sbtae/)
 
-* <u>Wirtz, M. A.</u> (2024). On the relationship between complexity of primary occupation and L2 varietal behavior in adult migrants in Austria. *Linguistics Vanguard.* [DOI](https://doi.org/10.1515/lingvan-2023-0069)
+* <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (2025). Spatial, occupational, and age-related effects on reported variation in colloquial German. *Language Variation and Change,* Advanced Online Publication. [DOI](https://www.cambridge.org/core/journals/language-variation-and-change/article/spatial-occupational-and-agerelated-effects-on-reported-variation-in-colloquial-german/8A859ED99BFEE0A88D8A74BD03D6E809)
 
-* <u>Wirtz, M. A.</u>, Pfenninger, S. E., Kaiser, I., & Ender, A. (2024). Sociolinguistic competence and varietal repertoires in a second language: A study on addressee-dependent varietal behavior using virtual reality. *The Modern Language Journal.* [DOI](https://doi.org/10.1111/modl.12918) [(Open data)](https://osf.io/myhgw/)
 
-* <u>Wirtz, M. A.</u>, & Fischlhammer, L. (2024). Erwerbstrajektorien von Varietätenkompetenz in der Zweitsprache: Eine temporal-relationale Perspektive auf das Aneignungsverhältnis standardsprachlicher und bairisch-dialektaler Merkmale. *Zeitschrift für Angewandte Linguistik.* [DOI](https://doi.org/10.1515/zfal-2024-2006) [(Open data)](https://osf.io/s9nf2/)
+> ## 2024
+
+* <u>Wirtz, M. A.</u> (2024). On the relationship between complexity of primary occupation and L2 varietal behavior in adult migrants in Austria. *Linguistics Vanguard*, 1-15. [DOI](https://doi.org/10.1515/lingvan-2023-0069)
+
+* <u>Wirtz, M. A.</u>, Pfenninger, S. E., Kaiser, I., & Ender, A. (2024). Sociolinguistic competence and varietal repertoires in a second language: A study on addressee-dependent varietal behavior using virtual reality. *The Modern Language Journal*, 108(1), 385–411. [DOI](https://doi.org/10.1111/modl.12918) [(Open data)](https://osf.io/myhgw/)
+
+* <u>Wirtz, M. A.</u>, & Fischlhammer, L. (2024). Erwerbstrajektorien von Varietätenkompetenz in der Zweitsprache: Eine temporal-relationale Perspektive auf das Aneignungsverhältnis standardsprachlicher und bairisch-dialektaler Merkmale. *Zeitschrift für Angewandte Linguistik*, 80(1), 181–209. [DOI](https://doi.org/10.1515/zfal-2024-2006) [(Open data)](https://osf.io/s9nf2/)
 
 * <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (2024). Signature Dynamics of Development in L2 Sociolinguistic Competence: Evidence from an Intensive Micro-Longitudinal Study. *Language Learning*, 74(3), 707-743. [DOI](https://doi.org/10.1111/lang.12634) [(Open data)](https://osf.io/w4n62/)
 
