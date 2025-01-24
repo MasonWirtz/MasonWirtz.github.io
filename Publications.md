@@ -28,8 +28,6 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u>, Pfenninger, S. E., Rossmanith, A., & Zbinden, L. (under review). Continuity vs. cut-off points in SLA across the lifespan: From significant life events to biologically regulated thresholds. In C. Wright, T. Piske, A. Steinlein, P. Peltonen (eds.), *Context Matters*. Multilingual Matters. 
 
-* <u>Wirtz, M. A.</u> (under review). Language attitudes across adolescence and adulthood: Evaluative judgement trajectories and significant life events as critical inflection points. *Zeitschrift für Angewandte Linguistik.*
-
 * <u>Wirtz, M. A.</u>, Elspaß, S., Pickl, S., & Niehaus, K. (under review). Geospatial and social influences on pragmatic variation. *Journal of Language Variation and Sociolinguistics* (special issue, edited by Philip C. Vergeiner).
 
 * <u>Wirtz, M. A.</u> (under review). Datenvisualisierung als mehrsprachiges Vermittlungsinstrument. In F. Gmainer-Pranzl & A. Ender (Eds.), *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens*.
@@ -40,6 +38,8 @@ This page houses my list of publications and is always up to date. Published wor
 <br>
 
 > ## 2025 / Accepted
+
+* <u>Wirtz, M. A.</u> (accepted pending minor revisions). Language attitudes across adolescence and adulthood: Evaluative judgement trajectories and significant life events as critical inflection points. *Zeitschrift für Angewandte Linguistik.*
 
 * <u>Wirtz, M. A.</u> (in press). *Dynamics of L2 sociolinguistic development in adulthood*. Multilingual Matters. [(Open data)](https://osf.io/jzwd4/)
 
