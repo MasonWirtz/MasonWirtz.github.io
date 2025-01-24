@@ -55,7 +55,7 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u>, & Pickl, S. (in press). Major life events as drivers for perceived linguistic change across adulthood. *Language Variation and Change.* [(Open data)](https://osf.io/mf3jh/)
 
-* <u>Wirtz, M. A.</u>, & Vergeiner, P. C. (in press). Lebensereignisse im Bildungsbereich als Erklärung für individuellen Sprachwandel. *Zeitschrift für Angewandte Linguistik.*
+* <u>Wirtz, M. A.</u>, & Vergeiner, P. C. (in press). Lebensereignisse im Bildungsbereich als Erklärung für individuellen Sprachwandel. *Zeitschrift für Angewandte Linguistik.* [(Open data)](https://osf.io/qvk9t/)
 
 * <u>Wirtz, M. A.</u>, & Ender, A. (in press). Functional prestige in sociolinguistic evaluative judgements by adult L2 speakers in Austria: Evidence from perception. *Languages* (special issue, edited by Vera Regan and Kristen Kennedy Terry).
 
