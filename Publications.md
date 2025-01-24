@@ -39,7 +39,7 @@ This page houses my list of publications and is always up to date. Published wor
 
 > ## 2025 / Accepted
 
-* <u>Wirtz, M. A.</u> (accepted pending minor revisions). Language attitudes across adolescence and adulthood: Evaluative judgement trajectories and significant life events as critical inflection points. *Zeitschrift für Angewandte Linguistik.*
+* <u>Wirtz, M. A.</u> (accepted pending minor revisions). Language attitudes across adolescence and adulthood: Evaluative judgement trajectories and significant life events as critical inflection points. *Zeitschrift für Angewandte Linguistik.* [(Open data)](https://osf.io/uynwf/)
 
 * <u>Wirtz, M. A.</u> (in press). *Dynamics of L2 sociolinguistic development in adulthood*. Multilingual Matters. [(Open data)](https://osf.io/jzwd4/)
 
