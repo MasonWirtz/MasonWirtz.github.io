@@ -45,8 +45,6 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (accepted). Reconciling the social and spatial: An apparent-time analysis of variation intensity in colloquial German. *Journal of Linguistic Geography.*
 
-* <u>Wirtz, M. A.</u>, Pickl, S., & Pfenninger, S. E. (accepted). Individual differences in event experiences and psychosocial factors as drivers for perceived linguistic change following occupational major life events. *Open Linguistics.* [(Open data)](https://osf.io/46fkh/)
-
 * Ender, A., & <u>Wirtz, M. A.</u> (accepted). In(ter)dependent dialect and standard L2 systems? On the development of receptive varietal proficiency. In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation: The interaction between world and mind*.
 
 * <u>Wirtz, M. A.</u> (accepted). Individual differences in perceived linguistic change following life-course transitions in the personal domain. *Journal of Germanic Linguistics.* [(Open data)](https://osf.io/er7zw/)
@@ -64,6 +62,8 @@ This page houses my list of publications and is always up to date. Published wor
 * <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (in press). Gebrauchsstandard in der deutschen Alltagssprache: Eine integrative Modellierung räumlicher und sozialer Variation. *Zeitschrift für germanistische Linguistik.*
 
 * <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (in press). Theoretical, methodological, and computational perspectives on immersive virtual reality in variationist SLA: Insights from user experience. In M. Solon, M. Kanwit & A. Gudmestad (Eds.), *Research at the intersection of second language acquisition and sociolinguistics: Studies in honor of Kimberly L. Geeslin*. [(Open data)](https://osf.io/sbtae/)
+
+* <u>Wirtz, M. A.</u>, Pickl, S., & Pfenninger, S. E. (2025). Individual differences in event experiences and psychosocial factors as drivers for perceived linguistic change following occupational major life events. *Open Linguistics.* [DOI](https://www.degruyter.com/document/doi/10.1515/opli-2024-0037/html) [(Open data)](https://osf.io/46fkh/)
 
 * <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (2025). Spatial, occupational, and age-related effects on reported variation in colloquial German. *Language Variation and Change,* Advanced Online Publication. [DOI](https://www.cambridge.org/core/journals/language-variation-and-change/article/spatial-occupational-and-agerelated-effects-on-reported-variation-in-colloquial-german/8A859ED99BFEE0A88D8A74BD03D6E809)
 
