@@ -61,6 +61,8 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (in press). Theoretical, methodological, and computational perspectives on immersive virtual reality in variationist SLA: Insights from user experience. In M. Solon, M. Kanwit & A. Gudmestad (Eds.), *Research at the intersection of second language acquisition and sociolinguistics: Studies in honor of Kimberly L. Geeslin*. [(Open data)](https://osf.io/sbtae/)
 
+* Pfenninger, S. E., & <u>Wirtz, M. A.</u> (2025). Age and additional language acquisition. *International Encyclopedia of Language and Linguistics*. [DOI](https://www.sciencedirect.com/science/article/abs/pii/B9780323955041003689?via%3Dihub)
+
 * <u>Wirtz, M. A.</u>, Pickl, S., & Pfenninger, S. E. (2025). Individual differences in event experiences and psychosocial factors as drivers for perceived linguistic change following occupational major life events. *Open Linguistics.* [DOI](https://www.degruyter.com/document/doi/10.1515/opli-2024-0037/html) [(Open data)](https://osf.io/46fkh/)
 
 * <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (2025). Spatial, occupational, and age-related effects on reported variation in colloquial German. *Language Variation and Change,* Advanced Online Publication. [DOI](https://www.cambridge.org/core/journals/language-variation-and-change/article/spatial-occupational-and-agerelated-effects-on-reported-variation-in-colloquial-german/8A859ED99BFEE0A88D8A74BD03D6E809)
@@ -69,8 +71,6 @@ This page houses my list of publications and is always up to date. Published wor
 <br>
 
 > ## 2024
-
-* Pfenninger, S. E., & <u>Wirtz, M. A.</u> (2024). Age and additional language acquisition. *International Encyclopedia of Language and Linguistics*. [DOI](https://www.sciencedirect.com/science/article/abs/pii/B9780323955041003689?via%3Dihub)
 
 * <u>Wirtz, M. A.</u> (2024). On the relationship between complexity of primary occupation and L2 varietal behavior in adult migrants in Austria. *Linguistics Vanguard*, 1-15. [DOI](https://doi.org/10.1515/lingvan-2023-0069)
 
