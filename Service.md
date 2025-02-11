@@ -6,7 +6,7 @@ title: "Service and Management"
 
 <br>
 
-> # Service for the Profession (Reviewing)
+> # Service to the Profession (Reviewing)
 
 ## Journals
 
@@ -35,7 +35,7 @@ title: "Service and Management"
 
 <br>
 
-> # Departmental administration (University of Salzburg)
+> # Departmental Administration (University of Salzburg)
 
 ## Institutional Volunteer Work
 
