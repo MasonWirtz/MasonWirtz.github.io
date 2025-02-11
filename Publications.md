@@ -24,7 +24,7 @@ This page houses my list of publications and is always up to date. Published wor
 
 > ## Under Review / Invited Resubmission
 
-* <u>Wirtz, M. A.</u> (under review). The love factor in variationist SLA: Effects of multilingual coupledom on sociolinguistic development in additional-language German. *Studies in Second Language Acquisition*.
+* <u>Wirtz, M. A.</u> (under review). The love factor in variationist SLA: Effects of multilingual coupledom on sociolinguistic development in second language German. *Studies in Second Language Acquisition*.
 
 * <u>Wirtz, M. A.</u>, Pfenninger, S. E., Rossmanith, A., & Zbinden, L. (under review). Continuity vs. cut-off points in SLA across the lifespan: From significant life events to biologically regulated thresholds. In C. Wright, T. Piske, A. Steinlein, P. Peltonen (eds.), *Context Matters*. Multilingual Matters. 
 
@@ -39,7 +39,7 @@ This page houses my list of publications and is always up to date. Published wor
 
 > ## 2025 / Accepted
 
-* <u>Wirtz, M. A.</u> (accepted pending minor revisions). Language attitudes across adolescence and adulthood: Evaluative judgement trajectories and significant life events as critical inflection points. *Zeitschrift für Angewandte Linguistik.* [(Open data)](https://osf.io/uynwf/)
+* <u>Wirtz, M. A.</u> (accepted). Language attitudes across adolescence and adulthood: Evaluative judgement trajectories and significant life events as critical inflection points. *Zeitschrift für Angewandte Linguistik.* [(Open data)](https://osf.io/uynwf/)
 
 * <u>Wirtz, M. A.</u> (in press). *Dynamics of L2 sociolinguistic development in adulthood*. Multilingual Matters. [(Open data)](https://osf.io/jzwd4/)
 
