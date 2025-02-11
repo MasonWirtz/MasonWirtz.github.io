@@ -33,6 +33,8 @@ title: "Service and Management"
 - Variation in Language Acquisition 6 (ViLA6) (2024)
 
 
+<br>
+
 > # Departmental administration (University of Salzburg)
 
 ## Institutional Volunteer Work
@@ -43,9 +45,6 @@ title: "Service and Management"
 - 07/2021 – 06/2023: Head of the Doctorate Student Union (StV) (Vorsitzender der Studierendenvertretung Doktorat an der Kultur- und Gesellschaftswissenschaftlichen Fakultät)
 - 02/2018–06/2020: Member of the Student Union, University of Salzburg: Department of English and American Studies; Department of German (Sachbearbeiter, Universität Salzburg: Fachbereich Anglistik und Amerikanistik; Fachbereich Germanistik)
 
-
-<br>
-
 ## Curricularkommissionen / Curricular Committees
 
 - 10/2022 – 06/2023: Interfakultäres Doktoratsstudium PädagogInnenbildung an der School of Education (Ersatzmitglied / Alternate Member)
@@ -54,9 +53,6 @@ title: "Service and Management"
 - 11/2021 – 06/2023: Curricularkommission Doktoratsstudium an der KGW-Fakultät (Hauptmitglied / Main Member)
 - 11/2021 – 06/2023: Interuniversitäres Doktoratsstudium Wissenschaft und Kunst (MOZ + PLUS) (Hauptmitglied / Main Member)
 - 09/2019–06/2020: Curricularkommission Bachelorstudium Anglistik und Amerikanistik (Hauptmitglied / Main Member)
-
-
-<br>
 
 ## Promotionskommissionen / Doctorate Committees
 
