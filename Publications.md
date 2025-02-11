@@ -49,8 +49,6 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u> (accepted). Individual differences in perceived linguistic change following life-course transitions in the personal domain. *Journal of Germanic Linguistics.* [(Open data)](https://osf.io/er7zw/)
 
-* Pfenninger, S. E., & <u>Wirtz, M. A.</u> (in press). Age and additional language acquisition. *International Encyclopedia of Language and Linguistics*.
-
 * <u>Wirtz, M. A.</u>, & Pickl, S. (in press). Major life events as drivers for perceived linguistic change across adulthood. *Language Variation and Change.* [(Open data)](https://osf.io/mf3jh/)
 
 * <u>Wirtz, M. A.</u>, & Vergeiner, P. C. (in press). Lebensereignisse im Bildungsbereich als Erklärung für individuellen Sprachwandel. *Zeitschrift für Angewandte Linguistik.* [(Open data)](https://osf.io/qvk9t/)
@@ -71,6 +69,8 @@ This page houses my list of publications and is always up to date. Published wor
 <br>
 
 > ## 2024
+
+* Pfenninger, S. E., & <u>Wirtz, M. A.</u> (2024). Age and additional language acquisition. *International Encyclopedia of Language and Linguistics*. [DOI](https://www.sciencedirect.com/science/article/abs/pii/B9780323955041003689?via%3Dihub)
 
 * <u>Wirtz, M. A.</u> (2024). On the relationship between complexity of primary occupation and L2 varietal behavior in adult migrants in Austria. *Linguistics Vanguard*, 1-15. [DOI](https://doi.org/10.1515/lingvan-2023-0069)
 
