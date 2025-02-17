@@ -28,9 +28,9 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u>, Pfenninger, S. E., Rossmanith, A., & Zbinden, L. (under review). Continuity vs. cut-off points in SLA across the lifespan: From significant life events to biologically regulated thresholds. In C. Wright, T. Piske, A. Steinlein, P. Peltonen (eds.), *Context Matters*. Multilingual Matters. 
 
-* <u>Wirtz, M. A.</u>, Elspaß, S., Pickl, S., & Niehaus, K. (under review). Geospatial and social influences on pragmatic variation. *Journal of Language Variation and Sociolinguistics* (special issue, edited by Philip C. Vergeiner).
-
 * <u>Wirtz, M. A.</u> (under review). Datenvisualisierung als mehrsprachiges Vermittlungsinstrument. In F. Gmainer-Pranzl & A. Ender (Eds.), *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens*.
+
+* <u>Wirtz, M. A.</u>, Elspaß, S., Pickl, S., & Niehaus, K. (invited resubmission under review). Regional and social influences on pragmatic variation. *Journal of Language Variation and Sociolinguistics* (special issue, edited by Philip C. Vergeiner).
 
 * <u>Wirtz, M. A.</u>, Kaiser, I., & Ender, A. (invited resubmission under review). Perceived varietal contact and use in the lives of adult migrant L2 learners in Austria: A look at the dialect-standard-continuum. In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation: The interaction between world and mind*.
 
