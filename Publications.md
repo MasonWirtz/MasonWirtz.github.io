@@ -63,7 +63,7 @@ This page houses my list of publications and is always up to date. Published wor
 
 * Pfenninger, S. E., & <u>Wirtz, M. A.</u> (2025). Age and additional language acquisition. *International Encyclopedia of Language and Linguistics*. [DOI](https://www.sciencedirect.com/science/article/abs/pii/B9780323955041003689?via%3Dihub)
 
-* <u>Wirtz, M. A.</u>, Pickl, S., & Pfenninger, S. E. (2025). Individual differences in event experiences and psychosocial factors as drivers for perceived linguistic change following occupational major life events. *Open Linguistics.* [DOI](https://www.degruyter.com/document/doi/10.1515/opli-2024-0037/html) [(Open data)](https://osf.io/46fkh/)
+* <u>Wirtz, M. A.</u>, Pickl, S., & Pfenninger, S. E. (2025). Individual differences in event experiences and psychosocial factors as drivers for perceived linguistic change following occupational major life events. *Open Linguistics*, 11(1), 1-24. [DOI](https://www.degruyter.com/document/doi/10.1515/opli-2024-0037/html) [(Open data)](https://osf.io/46fkh/)
 
 * <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (2025). Spatial, occupational, and age-related effects on reported variation in colloquial German. *Language Variation and Change*, Advanced Online Publication. [DOI](https://www.cambridge.org/core/journals/language-variation-and-change/article/spatial-occupational-and-agerelated-effects-on-reported-variation-in-colloquial-german/8A859ED99BFEE0A88D8A74BD03D6E809)
 
