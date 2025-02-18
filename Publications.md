@@ -49,8 +49,6 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u> (accepted). Individual differences in perceived linguistic change following life-course transitions in the personal domain. *Journal of Germanic Linguistics.* [(Open data)](https://osf.io/er7zw/)
 
-* <u>Wirtz, M. A.</u>, & Pickl, S. (in press). Major life events as drivers for perceived linguistic change across adulthood. *Language Variation and Change.* [(Open data)](https://osf.io/mf3jh/)
-
 * <u>Wirtz, M. A.</u>, & Vergeiner, P. C. (in press). Lebensereignisse im Bildungsbereich als Erklärung für individuellen Sprachwandel. *Zeitschrift für Angewandte Linguistik.* [(Open data)](https://osf.io/qvk9t/)
 
 * <u>Wirtz, M. A.</u>, & Ender, A. (in press). Functional prestige in sociolinguistic evaluative judgements by adult L2 speakers in Austria: Evidence from perception. *Languages* (special issue, edited by Vera Regan and Kristen Kennedy Terry).
@@ -60,6 +58,8 @@ This page houses my list of publications and is always up to date. Published wor
 * <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (in press). Gebrauchsstandard in der deutschen Alltagssprache: Eine integrative Modellierung räumlicher und sozialer Variation. *Zeitschrift für germanistische Linguistik.*
 
 * <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (in press). Theoretical, methodological, and computational perspectives on immersive virtual reality in variationist SLA: Insights from user experience. In M. Solon, M. Kanwit & A. Gudmestad (Eds.), *Research at the intersection of second language acquisition and sociolinguistics: Studies in honor of Kimberly L. Geeslin*. [(Open data)](https://osf.io/sbtae/)
+
+* <u>Wirtz, M. A.</u>, & Pickl, S. (2025). Major life events as drivers for perceived linguistic change across adulthood. *Language Variation and Change.* [DOI](https://www.cambridge.org/core/journals/language-variation-and-change/article/major-life-events-as-drivers-of-perceived-linguistic-change-across-adulthood/D3AB1C05EBB3C09E2AE9DE164D1475A8) [(Open data)](https://osf.io/mf3jh/)
 
 * Pfenninger, S. E., & <u>Wirtz, M. A.</u> (2025). Age and additional language acquisition. *International Encyclopedia of Language and Linguistics*. [DOI](https://www.sciencedirect.com/science/article/abs/pii/B9780323955041003689?via%3Dihub)
 
