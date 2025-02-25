@@ -35,6 +35,15 @@ title: "Service and Management"
 
 <br>
 
+> # Organization of Academic Activities
+
+- <u>Wirtz, M. A.</u>, Pfenninger, S. E., Freeborn, L., & Arndt, H. (08 – 09.08.2025). *Nightmare on ILM Street: Intensive Longitudinal Methods from a Quantitative and Qualitative Perspective*. University of Zurich, Switzerland.
+- <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., & Elspaß, S. (10.07.2024). *Modeling Context and the Individual*. International Conference on Language Variation in Europe 12 (ICLaVE 12). Vienna, Austria.
+- <u>Wirtz, M. A.</u>, Schmidt-Riese, A. (09.07.2024). Dynamics of Sociolinguistic Development in the First and Second Language. International Conference on Language Variation in Europe 12 (ICLaVE 12). Vienna, Austria.
+
+
+<br>
+
 > # Departmental Administration (University of Salzburg)
 
 ## Institutional Volunteer Work
