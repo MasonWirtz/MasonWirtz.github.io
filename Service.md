@@ -6,7 +6,7 @@ title: "Service and Management"
 
 <br>
 
-> # Service to the Profession (Reviewing)
+> # Reviewing (ad hoc)
 
 ## Journals
 
@@ -76,6 +76,7 @@ title: "Service and Management"
 
 - Österreichischer Verband für Deutsch als Fremdsprache/Zweitsprache (ÖDaF)
 - European Second Language Association (EuroSLA)
+- Austrian Association of University Teachers of English (AAUTE)
 
 
 
