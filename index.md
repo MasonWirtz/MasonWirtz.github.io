@@ -8,7 +8,7 @@ title: "Dr. Mason A. Wirtz"
 </p>
 
 
-I am a postdoctoral researcher at the University of Zurich, Switzerland (2025-present). Prior to my current position, I was a postdoctoral research associate and senior scientist (2023-2024) and a research associate (2022-2023) at the University of Salzburg, Austria, I worked as a lecturer in German as a foreign/second language and as Academic Programs Manager at Salzburg College in Salzburg, Austria (2020), and I held graduate teaching and research scholarships at Bowling Green State University (2019-2020). Additionally, I have taught German as a second language courses at various adult education institutes in Austria (2021-2022). I received my BA (2015–2019) and MA (2019–2020) in German studies from Bowling Green State University (Ohio, USA) and my PhD (2020–2023) in German linguistics with a focus on second language acquisition and variationist sociolinguistics from the University of Salzburg, Austria (supervised by Prof. Andrea Ender, University of Salzburg, PD Irmtraud Kaiser, University of Salzburg, and Prof. Simone E. Pfenninger, University of Zurich). 
+I am a postdoctoral researcher at the University of Zurich, Switzerland. Prior to my current position, I was a research associate (predoc and postdoc) and senior scientist at the University of Salzburg, Austria, and I held graduate teaching and research scholarships at Bowling Green State University. I received my PhD (2020–2023) in German linguistics with a focus on second language acquisition and variationist sociolinguistics from the University of Salzburg, Austria (supervised by Prof. Andrea Ender, University of Salzburg, PD Irmtraud Kaiser, University of Salzburg, and Prof. Simone E. Pfenninger, University of Zurich). 
  
 My primary research interests include psycholinguistics, variationist sociolinguistics, and second language acquisition (SLA) in adulthood, especially as concerns quantitative approaches and statistical methods. In my work on SLA, I am interested in the role of psychosocial, linguistic, and cognitive factors on the acquisition of sociolinguistic variation in L2 learning during (young) adulthood, and how socioaffective, experiential, and contextual variables impact additional language learning among mature adults. My habilitation project merges psycho- and sociolinguistic approaches in order to investigate how major life events (e.g., entry into the workforce, parenthood, retirement) affect language variation and change across the lifespan. 
 
@@ -30,20 +30,25 @@ My primary research interests include psycholinguistics, variationist sociolingu
 
 > # Education
 
-- 09.2020 – 05.2023 <br> Paris Lodron University of Salzburg, Austria <br> Doctoral Program in (German) Linguistics and SLA
-
-- 10.2021 – 09.2022 <br> Paris Lodron University of Salzburg, Austria <br> Certificate Program: Applied Statistics
-
-- 09.2019 – 05.2020 <br> Bowling Green State University, USA <br> Master of Arts in German Studies
-
-- 03.2019 – 11.2020 <br> Paris Lodron University of Salzburg, Austria <br> Certificate Program: German as a Second/Foreign Language
-
-- 06.2018 – 10.2018 <br> Freie Universität Berlin, Germany <br> Exchange semester 
-
-- 09.2017 – 07.2019 <br> Bowling Green State University, USA <br> Bachelor of Arts in German Studies
+- 09.2020 – 05.2023 Doctorate in German linguistics, Paris-Lodron University of Salzburg (Austria)
+- 10.2021 – 09.2022 Certificate Program in Applied Statistics, Paris-Lodron University of Salzburg (Austria)
+- 09.2019 – 05.2020 Master of Arts in German Studies, Bowling Green State University (USA) 
+- 03.2019 – 11.2020 Certificate Program in German as a Second/Foreign Language, Paris-Lodron University of Salzburg (Austria)
+- 06.2018 – 10.2018 Exchange semester, Freie Universität Berlin (Germany)
+- 09.2017 – 07.2019 Bachelor of Arts in German Studies, Bowling Green State University (USA) 
 
 
 <br>
+
+> # Professional Positions
+
+- 01.2025 - present Research associate (postdoc), University of Zurich (Switzerland), English Department
+- 03.2024 - 07.2024 External lecturer, University of Innsbruck (Austria), German Department
+- 04.2024 - 12.2024 Senior scientist, University of Salzburg (Austria), Department of German Language and Literatures
+- 05.2023 - 12.2024 Research associate (postdoc), University of Salzburg (Austria), Department of German Language and Literatures
+- 10.2022 - 05.2023 Research associate (predoc), University of Salzburg (Austria), Department of German Language and Literatures
+- 01.2020 - 12.2020 Academic programs manager and lecturer, Salzburg College (Austria)
+- 10.2019 - 05.2020 Graduate teaching and research assistant, Bowling Green State University (USA), German Department
 
 > # Research Interests
 
