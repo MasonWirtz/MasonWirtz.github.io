@@ -19,11 +19,11 @@ My primary research interests include psycholinguistics, variationist sociolingu
 
 > # Awards & Grants
 
-- 2024 ["Early Career Research Grant"](https://www.plus.ac.at/germanistik/forschung/midlife-zusaetzliches-sprachenlernen-im-mittleren-lebensalter/) from FWF, ÖAW, and University of Salzburg (€ 94.415,00) 
+- 2024 ["Early Career Research Grant"](https://www.plus.ac.at/germanistik/forschung/midlife-zusaetzliches-sprachenlernen-im-mittleren-lebensalter/) from FWF, ÖAW, and University of Salzburg (EUR 94.415,00) 
 - 2022 ["Young Investigators Award"](https://www.plus.ac.at/doctorate-school-plus/yia-young-investigators-award-en-de/award-winners-2022/) from the University of Salzburg
-- 2020 Team Lead for the winning team for the "World Summit Awards Youth for Innovation (WSA YFI)"
-- 2022 "Griasdi Oberösterreich" from Stadt Linz (Co-PIs: Gudrun Kasberger, Andrea Ender) (€ 4.000,00)
-- 2022 "Erwerb soziolinguistischer Variation in der Zweitsprache" from Salzburg Stadt: Kultur, Bildung und Wissen (€ 1.500,00)
+- 2020 Team Lead for the winning team for the "World Summit Awards Youth for Innovation"
+- 2022 "Griasdi Oberösterreich" from Stadt Linz (Co-PIs: Gudrun Kasberger, Andrea Ender) (EUR 4.000,00)
+- 2022 "Erwerb soziolinguistischer Variation in der Zweitsprache" from Salzburg Stadt: Kultur, Bildung und Wissen (EUR 1.500,00)
 
 
 <br>
