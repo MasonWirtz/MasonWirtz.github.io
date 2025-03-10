@@ -44,11 +44,14 @@ My primary research interests include psycholinguistics, variationist sociolingu
 
 - 01.2025 – present Postdoc, University of Zurich (Switzerland), English Department
 - 03.2024 – 07.2024 External lecturer, University of Innsbruck (Austria), German Department
-- 04.2024 – 12.2024 Senior scientist, University of Salzburg (Austria), Department of German Language and Literatures
-- 05.2023 – 12.2024 Postdoc, University of Salzburg (Austria), Department of German Language and Literatures
-- 10.2022 – 05.2023 Research associate, University of Salzburg (Austria), Department of German Language and Literatures
+- 04.2024 – 12.2024 Senior scientist, University of Salzburg (Austria), German Department
+- 05.2023 – 12.2024 Postdoc, University of Salzburg (Austria), German Department
+- 10.2022 – 05.2023 Research associate, University of Salzburg (Austria), German Department
 - 01.2020 – 12.2020 Academic programs manager and lecturer, Salzburg College (Austria)
 - 10.2019 – 05.2020 Graduate teaching and research assistant, Bowling Green State University (USA), German Department
+
+
+<br>
 
 > # Research Interests
 
