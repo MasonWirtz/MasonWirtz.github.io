@@ -30,10 +30,10 @@ My primary research interests include psycholinguistics, variationist sociolingu
 
 > # Education
 
-- 09.2020 – 05.2023 Doctorate in German linguistics, University of Salzburg (Austria)
+- 09.2020 – 05.2023 Doctorate in German Linguistics, University of Salzburg (Austria)
 - 10.2021 – 09.2022 Certificate Program in Applied Statistics, University of Salzburg (Austria)
 - 09.2019 – 05.2020 Master of Arts in German Studies, Bowling Green State University (USA) 
-- 03.2019 – 11.2020 Certificate Program in German as a Second/Foreign Language, Paris-Lodron University of Salzburg (Austria)
+- 03.2019 – 11.2020 Certificate Program in German as a Second/Foreign Language Teaching, University of Salzburg (Austria)
 - 06.2018 – 10.2018 Exchange semester, Freie Universität Berlin (Germany)
 - 09.2017 – 07.2019 Bachelor of Arts in German Studies, Bowling Green State University (USA) 
 
