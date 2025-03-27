@@ -24,7 +24,9 @@ This page houses my list of publications and is always up to date. Published wor
 
 > ## Under Review / Invited Resubmission
 
-* <u>Wirtz, M. A.</u> (under review). The love factor in variationist SLA: Effects of multilingual coupledom on sociolinguistic development in second language German. *Studies in Second Language Acquisition*.
+* <u>Wirtz, M. A.</u> (under review). Reconciling inter- and intra-individual variation in L2 sociopragmatic development: Intensifier variation in spoken German. *Languages* (special issue, edited by Alexandra N. Lenz).
+
+* <u>Wirtz, M. A.</u> (revisions under review). The love factor in variationist SLA: Effects of multilingual coupledom on sociolinguistic development in second language German. *Studies in Second Language Acquisition*.
 
 * <u>Wirtz, M. A.</u>, Pfenninger, S. E., Rossmanith, A., & Zbinden, L. (under review). Continuity vs. cut-off points in SLA across the lifespan: From significant life events to biologically regulated thresholds. In C. Wright, T. Piske, A. Steinlein, P. Peltonen (eds.), *Context Matters*. Multilingual Matters. 
 
