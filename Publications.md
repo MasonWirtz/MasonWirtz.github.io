@@ -54,7 +54,7 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (in press). Theoretical, methodological, and computational perspectives on immersive virtual reality in variationist SLA: Insights from user experience. In M. Solon, M. Kanwit & A. Gudmestad (Eds.), *Research at the intersection of second language acquisition and sociolinguistics: Studies in honor of Kimberly L. Geeslin*. [(Open data)](https://osf.io/sbtae/)
 
-* <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (2025). Gebrauchsstandard in der deutschen Alltagssprache: Eine integrative Modellierung räumlicher und sozialer Variation. *Zeitschrift für germanistische Linguistik*, 5(1), 97–125. [DOI](https://www.degruyterbrill.com/document/doi/10.1515/zgl-2025-2003/html)
+* <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (2025). Gebrauchsstandard in der deutschen Alltagssprache: Eine integrative Modellierung räumlicher und sozialer Variation. *Zeitschrift für germanistische Linguistik*, 53(1), 97–125. [DOI](https://www.degruyterbrill.com/document/doi/10.1515/zgl-2025-2003/html)
 
 * <u>Wirtz, M. A.</u>, & Ender, A. (2025). Functional Prestige in Sociolinguistic Evaluative Judgements Among Adult Second Language Speakers in Austria: Evidence from Perception. *Languages* (special issue, edited by Vera Regan and Kristen Kennedy Terry). [DOI](https://www.mdpi.com/2226-471X/10/4/67)
 
