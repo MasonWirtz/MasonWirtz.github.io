@@ -13,8 +13,6 @@ This page houses my list of publications and is always up to date. Published wor
 
 > ## In Preparation / Under Contract
 
-* <u>Wirtz, M. A.</u>, & Schleef, E. (under contract). Investigating variation and change using experimental approaches. In Y. Asahi, A. D’Arcy, & P. Kerswill (eds.), *Routledge Handbook of Variationist Sociolinguistics*. Routledge.
-
 * Fischlhammer, L., & <u>Wirtz, M. A.</u> (in prep.). Real-time change in writing patterns and the effects of writing device on linguistic (in-)stability.
 
 * Schleef, E., & <u>Wirtz, M. A.</u> (under contract). Sociolinguistics for L2 learning. In J. Clenton, & D. Coulson (eds.), *An Introduction to Applied Linguistics* (4th ed.). Routledge.
@@ -23,6 +21,8 @@ This page houses my list of publications and is always up to date. Published wor
 <br>
 
 > ## Under Review / Invited Resubmission
+
+* <u>Wirtz, M. A.</u>, & Schleef, E. (under review). Investigating variation and change using experimental approaches. In Y. Asahi, A. D’Arcy, & P. Kerswill (eds.), *Routledge Handbook of Variationist Sociolinguistics*. Routledge.
 
 * <u>Wirtz, M. A.</u> (under review). Reconciling inter- and intra-individual variation in L2 sociopragmatic development: Intensifier variation in spoken German. *Languages* (special issue, edited by Alexandra N. Lenz).
 
