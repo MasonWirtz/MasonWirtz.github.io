@@ -58,7 +58,7 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (2025). Gebrauchsstandard in der deutschen Alltagssprache: Eine integrative Modellierung räumlicher und sozialer Variation. *Zeitschrift für germanistische Linguistik*, 53(1), 97–125. [DOI](https://www.degruyterbrill.com/document/doi/10.1515/zgl-2025-2003/html)
 
-* <u>Wirtz, M. A.</u>, & Ender, A. (2025). Functional Prestige in Sociolinguistic Evaluative Judgements Among Adult Second Language Speakers in Austria: Evidence from Perception. *Languages* (special issue, edited by Vera Regan and Kristen Kennedy Terry). [DOI](https://www.mdpi.com/2226-471X/10/4/67)
+* <u>Wirtz, M. A.</u>, & Ender, A. (2025). Functional prestige in sociolinguistic evaluative judgements among adult second language speakers in Austria: Evidence from perception. *Languages* (special issue, edited by Vera Regan and Kristen Kennedy Terry). [DOI](https://www.mdpi.com/2226-471X/10/4/67)
 
 * <u>Wirtz, M. A.</u>, & Vergeiner, P. C. (2025). Lebensereignisse im Bildungsbereich als Erklärung für individuellen Sprachwandel. *Zeitschrift für Angewandte Linguistik*, Advanced Online Publication, 1-35. [DOI](https://www.degruyter.com/document/doi/10.1515/zfal-2025-2006/html) [(Open data)](https://osf.io/qvk9t/)
 
