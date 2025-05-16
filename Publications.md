@@ -40,8 +40,6 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u>, Kaiser, I., & Ender, A. (accepted). Perceived varietal contact and use in the lives of adult migrant L2 learners in Austria: A look at the dialect-standard-continuum. In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation: The interaction between world and mind*.
 
-* <u>Wirtz, M. A.</u>, Elspaß, S., Pickl, S., & Niehaus, K. (accepted). Regional and social influences on pragmatic variation. *Journal of Language Variation and Sociolinguistics* (special issue, edited by Philip C. Vergeiner).
-
 * <u>Wirtz, M. A.</u> (accepted). Language attitudes across adolescence and adulthood: Evaluative judgement trajectories and significant life events as critical inflection points. *Zeitschrift für Angewandte Linguistik.* [(Open data)](https://osf.io/uynwf/)
 
 * <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (accepted). Reconciling the social and spatial: An apparent-time analysis of variation intensity in colloquial German. *Journal of Linguistic Geography.*
@@ -53,6 +51,8 @@ This page houses my list of publications and is always up to date. Published wor
 * <u>Wirtz, M. A.</u>, & Vergeiner, P. C. (in press). Typen des individuellen Sprachwandels nach wesentlichen Lebensereignissen. *Zeitschrift für germanistische Linguistik*.
 
 * <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (in press). Theoretical, methodological, and computational perspectives on immersive virtual reality in variationist SLA: Insights from user experience. In M. Solon, M. Kanwit & A. Gudmestad (Eds.), *Research at the intersection of second language acquisition and sociolinguistics: Studies in honor of Kimberly L. Geeslin*. [(Open data)](https://osf.io/sbtae/)
+
+* <u>Wirtz, M. A.</u>, Elspaß, S., Pickl, S., & Niehaus, K. (2025). Regional and social influences on pragmatic variation. *Journal of Language Variation and Sociolinguistics* (special issue, edited by Philip C. Vergeiner). [DOI](https://j-lvs.ub.uni-muenchen.de/jlvs/article/view/9)
 
 * <u>Wirtz, M. A.</u> (2025). *Dynamics of L2 sociolinguistic development in adulthood*. Multilingual Matters. [DOI](https://www.degruyterbrill.com/document/doi/10.21832/9781836680079/html) [(Open data)](https://osf.io/jzwd4/)
 
