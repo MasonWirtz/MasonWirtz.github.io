@@ -7,12 +7,6 @@ title: "Teaching"
   <img width="200" height="200" src="/images/TeachingPhoto.png">
 </p>
 
-While teaching is often difficult, I could hardly imagine any other profession.
- 
-Since I was in school, I have always had a passion for teaching, first about music, then math and now in the field of languages (English and German).
-
-To date, I have taught in a wide variety of areas, both in the Anglo-American and Austrian context. In Austria, I have led integration courses and taught in the university context. In addition to pure English and German language acquisition coursework, I have also had the opportunity to lead proseminars with a thematic focus on second language acquisition and individual differences, (variationist) sociolinguistics, and academic writing (English and German), both in face-to-face and online formats. I have also led workshops on using digital methods such as PsychoPy to design psycholinguistic experiments, and on using the open-source statistical coding language R in the software environment RStudio, with a focus on statistical methods, data visualization, and reproducibility in the spirit of Open Science. 
-
 This page houses a list of courses/workshops I have taught. 
 
 <br> 
@@ -25,6 +19,8 @@ This page houses a list of courses/workshops I have taught.
 <br>
 
 > ### Statistics and Methodology
+
+* **Introduction to RStudio: Data cleaning, statistics, and visualization** <br> 04.06.2025 <br> PhD / Postdoc Workshop, University of Zurich, Switzerland
 
 * **Statistics: Factor analyses and regression modeling** <br> 27.11.2024 <br> PhD / Postdoc Workshop, University of Salzburg, Austria
 
@@ -41,6 +37,10 @@ This page houses a list of courses/workshops I have taught.
 
 > ### Sociolinguistics and SLA
 
+* **SLA and Sociopragmatics** <br> Summer Semester 2025 <br> MA Seminar, University of Zurich, Switzerland
+
+* **Methods and Theories** <br> Summer Semester 2025 <br> MA Seminar, University of Zurich, Switzerland
+
 * **Soziolinguistische Variation über die Lebensspanne (Sociolinguistic Variation Across the Lifespan)** <br> Summer Semester 2024 <br> BA Seminar, University of Innsbruck, Austria
 
 * **Soziolinguistische Kompetenz in DaM, DaZ, DaF (Sociolinguistic Competence in German as a First, Second, and Foreign Language)** (co-taught with Prof. Andrea Ender) <br> Summer Semester 2023 <br> BA/MA Seminar, University of Salzburg, Austria
@@ -54,7 +54,9 @@ This page houses a list of courses/workshops I have taught.
 
 <br>
 
-> ### Academic Writing
+> ### Core Linguistics and Academic Writing
+
+* **Introduction to Linguistics I** <br> Summer Semester 2025 <br> BA Seminar, University of Zurich, Switzerland
 
 * **Rhetoric and Composition I** <br> Fall Semester 2020 <br> BA Proseminar, Salzburg College, Austria
 
