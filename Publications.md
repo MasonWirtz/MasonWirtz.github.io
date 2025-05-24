@@ -30,7 +30,7 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u> (under review). Datenvisualisierung als mehrsprachiges Vermittlungsinstrument. In F. Gmainer-Pranzl & A. Ender (Eds.), *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens*.
 
-* <u>Wirtz, M. A.</u> (minor revisions). Reconciling inter- and intra-individual variation in L2 sociopragmatic development: Intensifier variation in spoken German. *Languages* (special issue, edited by Alexandra N. Lenz).
+* <u>Wirtz, M. A.</u> (revisions under review). Reconciling inter- and intra-individual variation in L2 sociopragmatic development: Intensifier variation in spoken German. *Languages* (special issue, edited by Alexandra N. Lenz).
 
 <br>
 
