@@ -24,8 +24,6 @@ This page houses my list of publications and is always up to date. Published wor
 
 > ## Under Review / Invited Resubmission
 
-* <u>Wirtz, M. A.</u>, & Schleef, E. (under review). Investigating variation and change using experimental approaches. In Y. Asahi, A. D’Arcy, & P. Kerswill (eds.), *Routledge Handbook of Variationist Sociolinguistics*. Routledge.
-
 * <u>Wirtz, M. A.</u> (revisions under review). The love factor in variationist SLA: Effects of multilingual coupledom on sociolinguistic development in second language German. *Studies in Second Language Acquisition*.
 
 * <u>Wirtz, M. A.</u> (under review). Datenvisualisierung als mehrsprachiges Vermittlungsinstrument. In F. Gmainer-Pranzl & A. Ender (Eds.), *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens*.
@@ -35,6 +33,8 @@ This page houses my list of publications and is always up to date. Published wor
 <br>
 
 > ## 2025 / Accepted
+
+* <u>Wirtz, M. A.</u>, & Schleef, E. (accepted). Investigating variation and change using experimental approaches. In Y. Asahi, A. D’Arcy, & P. Kerswill (eds.), *Routledge Handbook of Variationist Sociolinguistics*. Routledge.
 
 * <u>Wirtz, M. A.</u>, Pfenninger, S. E., Rossmanith, A., & Zbinden, L. (accepted). Continuity vs. cut-off points in SLA across the lifespan: From significant life events to biologically regulated thresholds. In C. Wright, T. Piske, A. Steinlein, P. Peltonen (eds.), *Context Matters*. Multilingual Matters.
 
