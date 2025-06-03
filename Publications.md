@@ -60,9 +60,9 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u>, & Ender, A. (2025). Functional prestige in sociolinguistic evaluative judgements among adult second language speakers in Austria: Evidence from perception. *Languages* (special issue, edited by Vera Regan and Kristen Kennedy Terry). [DOI](https://www.mdpi.com/2226-471X/10/4/67)
 
-* <u>Wirtz, M. A.</u>, & Vergeiner, P. C. (2025). Lebensereignisse im Bildungsbereich als Erklärung für individuellen Sprachwandel. *Zeitschrift für Angewandte Linguistik*, Advanced Online Publication, 1-35. [DOI](https://www.degruyter.com/document/doi/10.1515/zfal-2025-2006/html) [(Open data)](https://osf.io/qvk9t/)
+* <u>Wirtz, M. A.</u>, & Vergeiner, P. C. (2025). Lebensereignisse im Bildungsbereich als Erklärung für individuellen Sprachwandel. *Zeitschrift für Angewandte Linguistik*, 82(1), 172-206. [DOI](https://www.degruyter.com/document/doi/10.1515/zfal-2025-2006/html) [(Open data)](https://osf.io/qvk9t/)
 
-* <u>Wirtz, M. A.</u>, & Pickl, S. (2025). Major life events as drivers for perceived linguistic change across adulthood. *Language Variation and Change*, Advanced Online Publication, 1-24. [DOI](https://www.cambridge.org/core/journals/language-variation-and-change/article/major-life-events-as-drivers-of-perceived-linguistic-change-across-adulthood/D3AB1C05EBB3C09E2AE9DE164D1475A8) [(Open data)](https://osf.io/mf3jh/)
+* <u>Wirtz, M. A.</u>, & Pickl, S. (2025). Major life events as drivers of perceived linguistic change across adulthood. *Language Variation and Change*, Advanced Online Publication, 1-24. [DOI](https://www.cambridge.org/core/journals/language-variation-and-change/article/major-life-events-as-drivers-of-perceived-linguistic-change-across-adulthood/D3AB1C05EBB3C09E2AE9DE164D1475A8) [(Open data)](https://osf.io/mf3jh/)
 
 * Pfenninger, S. E., & <u>Wirtz, M. A.</u> (2025). Age and additional language acquisition. *International Encyclopedia of Language and Linguistics*, Advanced Online Publication, 1-5. [DOI](https://www.sciencedirect.com/science/article/abs/pii/B9780323955041003689?via%3Dihub)
 
