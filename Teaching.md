@@ -37,9 +37,9 @@ This page houses a list of courses/workshops I have taught.
 
 > ### Sociolinguistics and SLA
 
-* **SLA and Sociopragmatics** <br> Summer Semester 2025 <br> MA Seminar, University of Zurich, Switzerland
+* **SLA and Sociopragmatics** <br> Fall Semester 2025 <br> MA Seminar, University of Zurich, Switzerland
 
-* **Methods and Theories** <br> Summer Semester 2025 <br> MA Seminar, University of Zurich, Switzerland
+* **Methods and Theories in Linguistics** <br> Fall Semester 2025 <br> MA Seminar, University of Zurich, Switzerland
 
 * **Soziolinguistische Variation über die Lebensspanne (Sociolinguistic Variation Across the Lifespan)** <br> Summer Semester 2024 <br> BA Seminar, University of Innsbruck, Austria
 
@@ -56,7 +56,7 @@ This page houses a list of courses/workshops I have taught.
 
 > ### Core Linguistics and Academic Writing
 
-* **Introduction to Linguistics I** <br> Summer Semester 2025 <br> BA Seminar, University of Zurich, Switzerland
+* **Introduction to Linguistics I** <br> Fall Semester 2025 <br> BA Seminar, University of Zurich, Switzerland
 
 * **Rhetoric and Composition I** <br> Fall Semester 2020 <br> BA Proseminar, Salzburg College, Austria
 
