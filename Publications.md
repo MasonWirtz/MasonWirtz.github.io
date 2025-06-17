@@ -13,16 +13,15 @@ This page houses my list of publications and is always up to date. Published wor
 
 > ## In Preparation / Under Contract
 
-* <u>Wirtz, M. A.</u>, Elspaß, S., & Möller, R., Pickl, S., Niehaus, K. (in prep.). Mapping real-time language change in colloquial German: A 20-year trend study.
-
 * Fischlhammer, L., & <u>Wirtz, M. A.</u> (in prep.). Real-time change in writing patterns and the effects of writing device on linguistic (in-)stability.
 
 * Schleef, E., & <u>Wirtz, M. A.</u> (under contract). Sociolinguistics for L2 learning. In J. Clenton, & D. Coulson (eds.), *An Introduction to Applied Linguistics* (4th ed.). Routledge.
 
-
 <br>
 
 > ## Under Review / Invited Resubmission
+
+* <u>Wirtz, M. A.</u>, Elspaß, S., & Möller, R., Pickl, S., Niehaus, K. (under review). Mapping real-time language stability and change in colloquial German: A 20-year trend study.
 
 * <u>Wirtz, M. A.</u> (revisions under review). The love factor in variationist SLA: Effects of multilingual coupledom on sociolinguistic development in second language German. *Studies in Second Language Acquisition*.
 
