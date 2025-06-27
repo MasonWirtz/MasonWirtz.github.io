@@ -49,7 +49,7 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u>, & Vergeiner, P. C. (in press). Typen des individuellen Sprachwandels nach wesentlichen Lebensereignissen. *Zeitschrift für germanistische Linguistik*.
 
-* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (in press). Theoretical, methodological, and computational perspectives on immersive virtual reality in variationist SLA: Insights from user experience. In M. Solon, M. Kanwit & A. Gudmestad (Eds.), *Research at the intersection of second language acquisition and sociolinguistics: Studies in honor of Kimberly L. Geeslin*. [(Open data)](https://osf.io/sbtae/)
+* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (2025). Theoretical, methodological, and computational perspectives on immersive virtual reality in variationist SLA: Insights from user experience. In M. Solon, M. Kanwit & A. Gudmestad (Eds.), *Research at the intersection of second language acquisition and sociolinguistics: Studies in honor of Kimberly L. Geeslin*. [DOI](https://benjamins.com/catalog/ihll.43.12wir) [(Open data)](https://osf.io/sbtae/)
 
 * <u>Wirtz, M. A.</u> (2025). Reconciling inter- and intra-individual variation in L2 sociopragmatic development: Intensifier variation in spoken German. *Languages* (special issue, edited by Alexandra N. Lenz). [DOI](https://www.mdpi.com/2226-471X/10/6/139) [(Open data)](https://osf.io/tk2mu/)
 
