@@ -21,6 +21,8 @@ This page houses my list of publications and is always up to date. Published wor
 
 > ## Under Review / Invited Resubmission
 
+* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (under review). Identifying and explaining L2 growth spurts: A tutorial on generalized additive models for time-intensive longitudinal data in applied linguistics research.
+
 * <u>Wirtz, M. A.</u>, Roth, E., & Schleef, E. (under review). The effects of bidialectalism on cognitive functioning among young and midlife adults in Austria.
 
 * <u>Wirtz, M. A.</u>, Elspaß, S., & Möller, R., Pickl, S., Niehaus, K. (under review). Mapping real-time language stability and change in colloquial German: A 20-year trend study.
