@@ -40,7 +40,7 @@ This page houses my list of speeches at (inter-)national academic conferences, i
 
 > # (Upcoming) Conference Presentations
 
-* <u>Wirtz, M. A.</u>, Elspaß, S., Möller, R., Pickl, S., & Niehaus, K. (18.09.2025). Wandel in der deutschen Alltagssprache in real und apparent time. Eine Trendstudie über 20 Jahre. *8. Kongress der Internationalen Gesellschaft für Dialektologie des Deutschen (IGDD).* Berlin, Germany. NOTE: This presentation was accepted as a 'Halbplenarvortrag' (semi-plenary paper), which are reserved for a few select conference submissions that receive exceptionally positive reviewer evaluations.
+* <u>Wirtz, M. A.</u>, Elspaß, S., Möller, R., Pickl, S., & Niehaus, K. (18.09.2025). Wandel in der deutschen Alltagssprache in real und apparent time. Eine Trendstudie über 20 Jahre. *8. Kongress der Internationalen Gesellschaft für Dialektologie des Deutschen (IGDD).* Berlin, Germany. **NOTE: This presentation was accepted as a 'Halbplenarvortrag' (semi-plenary paper), which are reserved for a few select conference submissions that receive exceptionally positive reviewer evaluations**.
 
 * <u>Wirtz, M. A.</u>, & Pickl, S. (18.09.2025). Wesentliche Lebensereignisse und psychosoziale Faktoren als treibende Kräfte für den individuellen Sprachwandel über die Lebensspanne. *8. Kongress der Internationalen Gesellschaft für Dialektologie des Deutschen (IGDD).* Berlin, Germany.
 
