@@ -40,6 +40,8 @@ This page houses my list of speeches at (inter-)national academic conferences, i
 
 > # (Upcoming) Conference Presentations
 
+* <u>Wirtz, M. A.</u> (26.06.2025, poster). The love factor in variationist SLA: Effects of multilingual coupledom on sociolinguistic development in additional-language German. *EuroSLA 34.* Tromsø, Norway.
+
 * <u>Wirtz, M. A.</u> (21.05.2025). Language attitudes across the lifespan and the impact of significant life events on discontinuity in sociolinguistic perception. *Variation and Cognition in Language.* Munich, Germany.
 
 * <u>Wirtz, M. A.</u>, Elspaß, S., Möller, R., Pickl, S., & Niehaus, K. (04.2025). Real- and apparent-time change in colloquial German: A 20-year trend study. *Sprachvariation und Sprachwandel im deutschsprachigen Raum – Research on Language Variation and Change in the German-speaking Area.* Munich, Germany.
