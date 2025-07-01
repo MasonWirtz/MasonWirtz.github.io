@@ -19,7 +19,7 @@ This page houses my list of publications and is always up to date. Published wor
 
 <br>
 
-> ## Under Review / Invited Resubmission
+> ## (Revisions) Under Review
 
 * <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (under review). Identifying and explaining L2 growth spurts: A tutorial on generalized additive models for time-intensive longitudinal data in applied linguistics research.
 
