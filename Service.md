@@ -10,6 +10,7 @@ title: "Service and Management"
 
 ## Journals
 
+- International Journal of Bilingualism (2025)
 - The Modern Language Journal (2025)
 - Language Variation and Change (2025)
 - Journal of Language Variation and Sociolinguistics (2024)
