@@ -41,8 +41,6 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u>, Kaiser, I., & Ender, A. (accepted). Perceived varietal contact and use in the lives of adult migrant L2 learners in Austria: A look at the dialect-standard-continuum. In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation: The interaction between world and mind*.
 
-* <u>Wirtz, M. A.</u> (accepted). Language attitudes across adolescence and adulthood: Evaluative judgement trajectories and significant life events as critical inflection points. *Zeitschrift für Angewandte Linguistik.* [(Open data)](https://osf.io/uynwf/)
-
 * <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (accepted). Reconciling the social and spatial: An apparent-time analysis of variation intensity in colloquial German. *Journal of Linguistic Geography.*
 
 * Ender, A., & <u>Wirtz, M. A.</u> (accepted). In(ter)dependent dialect and standard L2 systems? On the development of receptive varietal proficiency. In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation: The interaction between world and mind*. [(Open data)](https://osf.io/n5jqh/)
@@ -50,6 +48,8 @@ This page houses my list of publications and is always up to date. Published wor
 * <u>Wirtz, M. A.</u> (accepted). Individual differences in perceived linguistic change following life-course transitions in the personal domain. *Journal of Germanic Linguistics.* [(Open data)](https://osf.io/er7zw/)
 
 * <u>Wirtz, M. A.</u>, & Vergeiner, P. C. (in press). Typen des individuellen Sprachwandels nach wesentlichen Lebensereignissen. *Zeitschrift für germanistische Linguistik*.
+
+* <u>Wirtz, M. A.</u> (2025). Language attitudes across adolescence and adulthood: Evaluative judgement trajectories and significant life events as critical inflection points. *Zeitschrift für Angewandte Linguistik.* [DOI](https://www.degruyterbrill.com/document/doi/10.1515/zfal-2025-2017/html) [(Open data)](https://osf.io/uynwf/)
 
 * <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (2025). Theoretical, methodological, and computational perspectives on immersive virtual reality in variationist SLA: Insights from user experience. In M. Solon, M. Kanwit & A. Gudmestad (Eds.), *Research at the intersection of second language acquisition and sociolinguistics: Studies in honor of Kimberly L. Geeslin*. [DOI](https://benjamins.com/catalog/ihll.43.12wir) [(Open data)](https://osf.io/sbtae/)
 
@@ -65,13 +65,13 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u>, & Vergeiner, P. C. (2025). Lebensereignisse im Bildungsbereich als Erklärung für individuellen Sprachwandel. *Zeitschrift für Angewandte Linguistik*, 82(1), 172-206. [DOI](https://www.degruyter.com/document/doi/10.1515/zfal-2025-2006/html) [(Open data)](https://osf.io/qvk9t/)
 
-* <u>Wirtz, M. A.</u>, & Pickl, S. (2025). Major life events as drivers of perceived linguistic change across adulthood. *Language Variation and Change*, Advanced Online Publication, 1-24. [DOI](https://www.cambridge.org/core/journals/language-variation-and-change/article/major-life-events-as-drivers-of-perceived-linguistic-change-across-adulthood/D3AB1C05EBB3C09E2AE9DE164D1475A8) [(Open data)](https://osf.io/mf3jh/)
+* <u>Wirtz, M. A.</u>, & Pickl, S. (2025). Major life events as drivers of perceived linguistic change across adulthood. *Language Variation and Change*, 37(1), 87–110. [DOI](https://www.cambridge.org/core/journals/language-variation-and-change/article/major-life-events-as-drivers-of-perceived-linguistic-change-across-adulthood/D3AB1C05EBB3C09E2AE9DE164D1475A8) [(Open data)](https://osf.io/mf3jh/)
 
 * Pfenninger, S. E., & <u>Wirtz, M. A.</u> (2025). Age and additional language acquisition. *International Encyclopedia of Language and Linguistics*, Advanced Online Publication, 1-5. [DOI](https://www.sciencedirect.com/science/article/abs/pii/B9780323955041003689?via%3Dihub)
 
 * <u>Wirtz, M. A.</u>, Pickl, S., & Pfenninger, S. E. (2025). Individual differences in event experiences and psychosocial factors as drivers for perceived linguistic change following occupational major life events. *Open Linguistics*, 11(1), 1-24. [DOI](https://www.degruyter.com/document/doi/10.1515/opli-2024-0037/html) [(Open data)](https://osf.io/46fkh/)
 
-* <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (2025). Spatial, occupational, and age-related effects on reported variation in colloquial German. *Language Variation and Change*, Advanced Online Publication, 1-25. [DOI](https://www.cambridge.org/core/journals/language-variation-and-change/article/spatial-occupational-and-agerelated-effects-on-reported-variation-in-colloquial-german/8A859ED99BFEE0A88D8A74BD03D6E809)
+* <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (2025). Spatial, occupational, and age-related effects on reported variation in colloquial German. *Language Variation and Change*, 36(1), 307–331. [DOI](https://www.cambridge.org/core/journals/language-variation-and-change/article/spatial-occupational-and-agerelated-effects-on-reported-variation-in-colloquial-german/8A859ED99BFEE0A88D8A74BD03D6E809)
 
 
 <br>
