@@ -44,6 +44,8 @@ This page houses my list of speeches at (inter-)national academic conferences, i
 
 * <u>Wirtz, M. A.</u>, & Pickl, S. (18.09.2025). Wesentliche Lebensereignisse und psychosoziale Faktoren als treibende Kräfte für den individuellen Sprachwandel über die Lebensspanne. *8. Kongress der Internationalen Gesellschaft für Dialektologie des Deutschen (IGDD).* Berlin, Germany.
 
+* <u>Wirtz, M. A.</u>, & Pfenninger, S., Zbinden, L., Rossmanith, A. (09.07.2025). Where's the threshold? Identifying continuity vs. cut-off points in SLA across retirement age. *Nightmare on ILM Street. Intensive Longitudinal Methods from a Quantitative and Qualitative Perspective.* Zurich, Switzerland.
+
 * <u>Wirtz, M. A.</u> (26.06.2025, poster). The love factor in variationist SLA: Effects of multilingual coupledom on sociolinguistic development in additional-language German. *EuroSLA 34.* Tromsø, Norway.
 
 * <u>Wirtz, M. A.</u> (21.05.2025). Language attitudes across the lifespan and the impact of significant life events on discontinuity in sociolinguistic perception. *Variation and Cognition in Language.* Munich, Germany.
