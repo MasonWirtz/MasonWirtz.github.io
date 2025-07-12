@@ -11,7 +11,7 @@ This page houses a list of courses/workshops I have taught.
 
 <br> 
 
-> ### Video Series on Methods in (Applied) Linguistics (in German; for STUDENTS at BA and MA level)
+> ### Video Series on Methods in (Applied) Linguistics (in German; for students at BA and MA level)
 
 * **Methoden in der Sprachwissenschaft: Eine Einführung** <br> [Einheit 1: Quantitative vs. qualitative Forschung](https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=897bbd85-ee1c-493c-98cb-afef00f942c1) <br> [Einheit 2: Deskriptive Statistik](https://pro.panopto.com/Panopto/Pages/Viewer.aspx?tid=0dc27fe0-5596-4db5-a651-afef00f95f5b) 
 
