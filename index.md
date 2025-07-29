@@ -42,6 +42,7 @@ My primary research interests include psycholinguistics, variationist sociolingu
 
 > # Professional Positions
 
+- 08.2025 – 03.2026 Substitute Professorship for SLA, University of Zurich (Switzerland), English Department
 - 01.2025 – present Postdoc, University of Zurich (Switzerland), English Department
 - 03.2024 – 07.2024 External lecturer, University of Innsbruck (Austria), German Department
 - 04.2024 – 12.2024 Senior scientist, University of Salzburg (Austria), German Department
