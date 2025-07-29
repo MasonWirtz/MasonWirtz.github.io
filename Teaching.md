@@ -7,7 +7,7 @@ title: "Teaching & Supervision"
   <img width="200" height="200" src="/images/TeachingPhoto.png">
 </p>
 
-This page houses a list of courses/workshops I have taught. 
+This page houses a list of courses and workshops I have taught including teaching activities in both university and non-university settings, as well as a running list of student theses I have supervised. 
 
 <br> 
 
