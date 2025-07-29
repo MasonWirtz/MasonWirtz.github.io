@@ -20,7 +20,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 #  - {file: "AboutMe.md", title: "About Me", icon: address-card}
   - {file: "Publications.md", title: "Publications", icon: pen}
   - {file: "Lectures.md", title: "Talks & Lectures", icon: comments}
-  - {file: "Teaching.md", title: "Teaching", icon: chalkboard}
+  - {file: "Teaching.md", title: "Teaching & Supervision", icon: chalkboard}
   - {file: "Service.md", title: "Service", icon: building}
   - {file: "Projects.md", title: "Projects", icon: folder}
 # - {title: "PhD Project", url: "https://masonawirtz.wixsite.com/dynsc"}
