@@ -23,6 +23,8 @@ This page houses my list of speeches at (inter-)national academic conferences, i
 
 > # Invited Talks / Guest Lectures
 
+* <u>Wirtz, M. A.</u> (29.10.2025). At the intersection of sociolinguistics and SLA: Exploring intra- and inter-individual variation in L2 sociolinguistic development. Guest lecture in the lecture series: *Variation within (and across) individuals.* Ludwig-Maximilians University of Munich, Germany.
+
 * <u>Wirtz, M. A.</u> (13.11.2024). Soziolinguistische Variation über die Lebensspanne. Zum Einfluss von wesentlichen Lebensereignissen und psychosozialen Faktoren. Guest lecture in: *Soziolinguistik des Deutschen (Lecture taught by Univ.-Prof. Dr. Stephan Elspaß and Univ.-Prof. Dr. Andrea Ender).* University of Salzburg, Austria.
 
 * <u>Wirtz, M. A.</u> (05.11.2024). Sociolinguistic development in immersion contexts and longitudinal micro-development designs. Guest lecture in: *Acquisition of Variation (Graduate seminar taught by Prof. Dr. Matthew Kanwit).* University of Pittsburgh, USA.
