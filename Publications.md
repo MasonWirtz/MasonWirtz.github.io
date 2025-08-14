@@ -21,19 +21,19 @@ This page houses my list of publications and is always up to date. Published wor
 
 > ## (Revisions) Under Review
 
-* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (under review). Identifying and explaining L2 growth spurts: A tutorial on generalized additive models for time-intensive longitudinal data in applied linguistics research.
+* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (revisions under review). Identifying and explaining L2 growth spurts: A tutorial on generalized additive models for time-intensive longitudinal data in applied linguistics research.
 
 * <u>Wirtz, M. A.</u>, Roth, E., & Schleef, E. (under review). The effects of bidialectalism on cognitive functioning among young and midlife adults in Austria.
 
 * <u>Wirtz, M. A.</u>, Elspaß, S., & Möller, R., Pickl, S., Niehaus, K. (under review). Mapping real-time language stability and change in colloquial German: A 20-year trend study.
-
-* <u>Wirtz, M. A.</u> (revisions under review). The love factor in variationist SLA: Effects of multilingual coupledom on sociolinguistic development in second language German. *Studies in Second Language Acquisition*.
 
 * <u>Wirtz, M. A.</u> (under review). Datenvisualisierung als mehrsprachiges Vermittlungsinstrument. In F. Gmainer-Pranzl & A. Ender (Eds.), *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens*.
 
 <br>
 
 > ## 2025 / Accepted
+
+* <u>Wirtz, M. A.</u> (accepted). The love factor in variationist SLA: Effects of multilingual coupledom on sociolinguistic development in second language German. *Studies in Second Language Acquisition*.
 
 * <u>Wirtz, M. A.</u>, & Schleef, E. (accepted). Investigating variation and change using experimental approaches. In Y. Asahi, A. D’Arcy, & P. Kerswill (eds.), *Routledge Handbook of Variationist Sociolinguistics*. Routledge.
 
