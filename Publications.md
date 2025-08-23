@@ -15,11 +15,11 @@ This page houses my list of publications and is always up to date. Published wor
 
 * Fischlhammer, L., & <u>Wirtz, M. A.</u> (in prep.). Real-time change in writing patterns and the effects of writing device on linguistic (in-)stability.
 
-* Schleef, E., & <u>Wirtz, M. A.</u> (under contract). Sociolinguistics for L2 learning. In J. Clenton, & D. Coulson (eds.), *An Introduction to Applied Linguistics* (4th ed.). Routledge.
-
 <br>
 
 > ## (Revisions) Under Review
+
+* Schleef, E., & <u>Wirtz, M. A.</u> (under review). Sociolinguistics for L2 learning and teaching. In J. Clenton, & D. Coulson (eds.), *An Introduction to Applied Linguistics* (4th ed.). Routledge.
 
 * <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (revisions under review). Identifying and explaining L2 growth spurts: A tutorial on generalized additive models for time-intensive longitudinal data in applied linguistics research.
 
