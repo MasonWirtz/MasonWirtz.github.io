@@ -25,13 +25,13 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u>, Roth, E., & Schleef, E. (under review). The effects of bidialectalism on cognitive functioning among young and midlife adults in Austria.
 
-* <u>Wirtz, M. A.</u>, Elspaß, S., & Möller, R., Pickl, S., Niehaus, K. (under review). Mapping real-time language stability and change in colloquial German: A 20-year trend study.
-
 * <u>Wirtz, M. A.</u> (under review). Datenvisualisierung als mehrsprachiges Vermittlungsinstrument. In F. Gmainer-Pranzl & A. Ender (Eds.), *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens*.
 
 <br>
 
 > ## 2025 / Accepted
+
+* <u>Wirtz, M. A.</u>, Elspaß, S., & Möller, R., Pickl, S., Niehaus, K. (accepted). Mapping real-time language stability and change in colloquial German: A 20-year trend study.
 
 * <u>Wirtz, M. A.</u> (accepted). The love factor in variationist SLA: Effects of multilingual coupledom on sociolinguistic development in second language German. *Studies in Second Language Acquisition*.
 
