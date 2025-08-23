@@ -31,7 +31,7 @@ This page houses my list of publications and is always up to date. Published wor
 
 > ## 2025 / Accepted
 
-* <u>Wirtz, M. A.</u>, Elspaß, S., & Möller, R., Pickl, S., Niehaus, K. (accepted). Mapping real-time language stability and change in colloquial German: A 20-year trend study.
+* <u>Wirtz, M. A.</u>, Elspaß, S., & Möller, R., Pickl, S., Niehaus, K. (accepted). Mapping real-time language stability and change in colloquial German: A 20-year trend study. *Zeitschrift für Dialektologie und Linguistik*.
 
 * <u>Wirtz, M. A.</u> (accepted). The love factor in variationist SLA: Effects of multilingual coupledom on sociolinguistic development in second language German. *Studies in Second Language Acquisition*.
 
