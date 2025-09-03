@@ -21,8 +21,6 @@ This page houses my list of publications and is always up to date. Published wor
 
 * Schleef, E., & <u>Wirtz, M. A.</u> (under review). Sociolinguistics for L2 learning and teaching. In J. Clenton, & D. Coulson (eds.), *An Introduction to Applied Linguistics* (4th ed.). Routledge.
 
-* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (revisions under review). Identifying and explaining L2 growth spurts: A tutorial on generalized additive models for time-intensive longitudinal data in applied linguistics research.
-
 * <u>Wirtz, M. A.</u>, Roth, E., & Schleef, E. (under review). The effects of bidialectalism on cognitive functioning among young and midlife adults in Austria.
 
 * <u>Wirtz, M. A.</u> (under review). Datenvisualisierung als mehrsprachiges Vermittlungsinstrument. In F. Gmainer-Pranzl & A. Ender (Eds.), *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens*.
@@ -30,6 +28,8 @@ This page houses my list of publications and is always up to date. Published wor
 <br>
 
 > ## 2025 / Accepted
+
+* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (accepted). Identifying and explaining L2 growth spurts: A tutorial on generalized additive models for time-intensive longitudinal data in applied linguistics research.
 
 * <u>Wirtz, M. A.</u>, Elspaß, S., & Möller, R., Pickl, S., Niehaus, K. (accepted). Mapping real-time language stability and change in colloquial German: A 20-year trend study. *Zeitschrift für Dialektologie und Linguistik*.
 
