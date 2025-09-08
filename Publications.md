@@ -29,7 +29,7 @@ This page houses my list of publications and is always up to date. Published wor
 
 > ## 2025 / Accepted
 
-* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (accepted). Identifying and explaining L2 growth spurts: A tutorial on generalized additive models for time-intensive longitudinal data in applied linguistics research.
+* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (accepted). Identifying and explaining L2 growth spurts: A tutorial on generalized additive models for time-intensive longitudinal data in applied linguistics research. *Research Methods in Applied Linguistics*.
 
 * <u>Wirtz, M. A.</u>, Elspaß, S., & Möller, R., Pickl, S., Niehaus, K. (accepted). Mapping real-time language stability and change in colloquial German: A 20-year trend study. *Zeitschrift für Dialektologie und Linguistik*.
 
