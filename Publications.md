@@ -29,8 +29,6 @@ This page houses my list of publications and is always up to date. Published wor
 
 > ## 2025 / Accepted
 
-* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (accepted). Identifying and explaining L2 growth spurts: A tutorial on generalized additive models for time-intensive longitudinal data in applied linguistics research. *Research Methods in Applied Linguistics*.
-
 * <u>Wirtz, M. A.</u>, Elspaß, S., & Möller, R., Pickl, S., Niehaus, K. (accepted). Mapping real-time language stability and change in colloquial German: A 20-year trend study. *Zeitschrift für Dialektologie und Linguistik*.
 
 * <u>Wirtz, M. A.</u> (accepted). The love factor in variationist SLA: Effects of multilingual coupledom on sociolinguistic development in second language German. *Studies in Second Language Acquisition*. [(Open data)](https://osf.io/ekz8y/)
@@ -48,6 +46,8 @@ This page houses my list of publications and is always up to date. Published wor
 * <u>Wirtz, M. A.</u> (accepted). Individual differences in perceived linguistic change following life-course transitions in the personal domain. *Journal of Germanic Linguistics.* [(Open data)](https://osf.io/er7zw/)
 
 * <u>Wirtz, M. A.</u>, & Vergeiner, P. C. (in press). Typen des individuellen Sprachwandels nach wesentlichen Lebensereignissen. *Zeitschrift für germanistische Linguistik*.
+
+* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (2025). Identifying and explaining L2 growth spurts: A tutorial on generalized additive models for time-intensive longitudinal data in applied linguistics research. *Research Methods in Applied Linguistics*, 4(3), 100259. [DOI](https://www.sciencedirect.com/science/article/pii/S2772766125000801?via%3Dihub) [(Open data)](https://osf.io/mkc6w/).
 
 * <u>Wirtz, M. A.</u> (2025). Language attitudes across adolescence and adulthood: Evaluative judgement trajectories and significant life events as critical inflection points. *Zeitschrift für Angewandte Linguistik.* [DOI](https://www.degruyterbrill.com/document/doi/10.1515/zfal-2025-2017/html) [(Open data)](https://osf.io/uynwf/)
 
