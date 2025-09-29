@@ -21,9 +21,9 @@ This page houses my list of publications and is always up to date. Published wor
 
 * Schleef, E., & <u>Wirtz, M. A.</u> (under review). Sociolinguistics for L2 learning and teaching. In J. Clenton, & D. Coulson (eds.), *An Introduction to Applied Linguistics* (4th ed.). Routledge.
 
-* <u>Wirtz, M. A.</u>, Roth, E., & Schleef, E. (under review). The effects of bidialectalism on cognitive functioning among young and midlife adults in Austria.
-
 * <u>Wirtz, M. A.</u> (under review). Datenvisualisierung als mehrsprachiges Vermittlungsinstrument. In F. Gmainer-Pranzl & A. Ender (Eds.), *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens*.
+
+* <u>Wirtz, M. A.</u>, Roth, E., & Schleef, E. (revisions under review). The effects of bidialectalism on cognitive functioning among young and midlife adults in Austria.
 
 <br>
 
