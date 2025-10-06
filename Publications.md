@@ -31,8 +31,6 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u>, Elspaß, S., & Möller, R., Pickl, S., Niehaus, K. (accepted). Mapping real-time language stability and change in colloquial German: A 20-year trend study. *Zeitschrift für Dialektologie und Linguistik*.
 
-* <u>Wirtz, M. A.</u> (accepted). The love factor in variationist SLA: Effects of multilingual coupledom on sociolinguistic development in second language German. *Studies in Second Language Acquisition*. [(Open data)](https://osf.io/ekz8y/)
-
 * <u>Wirtz, M. A.</u>, & Schleef, E. (accepted). Investigating variation and change using experimental approaches. In Y. Asahi, A. D’Arcy, & P. Kerswill (eds.), *Routledge Handbook of Variationist Sociolinguistics*. Routledge.
 
 * <u>Wirtz, M. A.</u>, Pfenninger, S. E., Rossmanith, A., & Zbinden, L. (accepted). Continuity vs. cut-off points in SLA across the lifespan: From significant life events to biologically regulated thresholds. In C. Wright, T. Piske, A. Steinlein, P. Peltonen (eds.), *Context Matters*. Multilingual Matters.
@@ -47,15 +45,17 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u>, & Vergeiner, P. C. (in press). Typen des individuellen Sprachwandels nach wesentlichen Lebensereignissen. *Zeitschrift für germanistische Linguistik*.
 
+* <u>Wirtz, M. A.</u> (2025). The love factor in variationist SLA: Effects of multilingual coupledom on sociolinguistic development in second language German. *Studies in Second Language Acquisition*, Advanced online publication, 1–24. [DOI](https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/love-factor-in-variationist-sla/E148F38FC9E66DD168356A29545FA16A) [(Open data)](https://osf.io/ekz8y/)
+
 * <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (2025). Identifying and explaining L2 growth spurts: A tutorial on generalized additive models for time-intensive longitudinal data in applied linguistics research. *Research Methods in Applied Linguistics*, 4(3), 100259. [DOI](https://www.sciencedirect.com/science/article/pii/S2772766125000801?via%3Dihub) [(Open data)](https://osf.io/mkc6w/).
 
-* <u>Wirtz, M. A.</u> (2025). Language attitudes across adolescence and adulthood: Evaluative judgement trajectories and significant life events as critical inflection points. *Zeitschrift für Angewandte Linguistik.* [DOI](https://www.degruyterbrill.com/document/doi/10.1515/zfal-2025-2017/html) [(Open data)](https://osf.io/uynwf/)
+* <u>Wirtz, M. A.</u> (2025). Language attitudes across adolescence and adulthood: Evaluative judgement trajectories and significant life events as critical inflection points. *Zeitschrift für Angewandte Linguistik*, 83(1), 356–386. [DOI](https://www.degruyterbrill.com/document/doi/10.1515/zfal-2025-2017/html) [(Open data)](https://osf.io/uynwf/)
 
-* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (2025). Theoretical, methodological, and computational perspectives on immersive virtual reality in variationist SLA: Insights from user experience. In M. Solon, M. Kanwit & A. Gudmestad (Eds.), *Research at the intersection of second language acquisition and sociolinguistics: Studies in honor of Kimberly L. Geeslin*. [DOI](https://benjamins.com/catalog/ihll.43.12wir) [(Open data)](https://osf.io/sbtae/)
+* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (2025). Theoretical, methodological, and computational perspectives on immersive virtual reality in variationist SLA: Insights from user experience. In M. Solon, M. Kanwit & A. Gudmestad (Eds.), *Research at the intersection of second language acquisition and sociolinguistics: Studies in honor of Kimberly L. Geeslin*, 317–343. [DOI](https://benjamins.com/catalog/ihll.43.12wir) [(Open data)](https://osf.io/sbtae/)
 
 * <u>Wirtz, M. A.</u> (2025). Reconciling inter- and intra-individual variation in L2 sociopragmatic development: Intensifier variation in spoken German. *Languages* (special issue, edited by Alexandra N. Lenz). [DOI](https://www.mdpi.com/2226-471X/10/6/139) [(Open data)](https://osf.io/tk2mu/)
 
-* <u>Wirtz, M. A.</u>, Elspaß, S., Pickl, S., & Niehaus, K. (2025). Regional and social influences on pragmatic variation. *Journal of Language Variation and Sociolinguistics* (special issue, edited by Philip C. Vergeiner). [DOI](https://j-lvs.ub.uni-muenchen.de/jlvs/article/view/9)
+* <u>Wirtz, M. A.</u>, Elspaß, S., Pickl, S., & Niehaus, K. (2025). Regional and social influences on pragmatic variation. *Journal of Language Variation and Sociolinguistics* (special issue, edited by Philip C. Vergeiner), 1(1), 73–94. [DOI](https://j-lvs.ub.uni-muenchen.de/jlvs/article/view/9)
 
 * <u>Wirtz, M. A.</u> (2025). *Dynamics of L2 sociolinguistic development in adulthood*. Multilingual Matters. [DOI](https://www.degruyterbrill.com/document/doi/10.21832/9781836680079/html) [(Open data)](https://osf.io/jzwd4/)
 
