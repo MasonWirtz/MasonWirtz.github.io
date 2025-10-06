@@ -47,7 +47,7 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u> (2025). The love factor in variationist SLA: Effects of multilingual coupledom on sociolinguistic development in second language German. *Studies in Second Language Acquisition*, Advanced online publication, 1–24. [DOI](https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/love-factor-in-variationist-sla/E148F38FC9E66DD168356A29545FA16A) [(Open data)](https://osf.io/ekz8y/)
 
-* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (2025). Identifying and explaining L2 growth spurts: A tutorial on generalized additive models for time-intensive longitudinal data in applied linguistics research. *Research Methods in Applied Linguistics*, 4(3), 100259. [DOI](https://www.sciencedirect.com/science/article/pii/S2772766125000801?via%3Dihub) [(Open data)](https://osf.io/mkc6w/).
+* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (2025). Identifying and explaining L2 growth spurts: A tutorial on generalized additive models for time-intensive longitudinal data in applied linguistics research. *Research Methods in Applied Linguistics*, 4(3), 100259. [DOI](https://www.sciencedirect.com/science/article/pii/S2772766125000801?via%3Dihub) [(Open data)](https://osf.io/mkc6w/)
 
 * <u>Wirtz, M. A.</u> (2025). Language attitudes across adolescence and adulthood: Evaluative judgement trajectories and significant life events as critical inflection points. *Zeitschrift für Angewandte Linguistik*, 83(1), 356–386. [DOI](https://www.degruyterbrill.com/document/doi/10.1515/zfal-2025-2017/html) [(Open data)](https://osf.io/uynwf/)
 
