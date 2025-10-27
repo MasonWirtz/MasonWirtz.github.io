@@ -20,6 +20,8 @@ This page houses a list of courses and workshops I have taught including teachin
 
 > ### Statistics and Methodology
 
+* **An introduction to generalized additive (mixed-effects) models in applied linguistics research** (PhD & postdoc workshop, University of Salzburg, 15.01.2026)
+
 * **Introduction to RStudio: Data cleaning, statistics, and visualization** (PhD & postdoc workshop, University of Zurich, 04.06.2025)
 
 * **Statistics: Factor analyses and regression modeling** (27.11.2024, PhD / Postdoc Workshop, University of Salzburg, Austria)
@@ -55,6 +57,8 @@ This page houses a list of courses and workshops I have taught including teachin
 <br>
 
 > ### Core Linguistics and Academic Writing
+
+* **Introduction to Linguistics II** (BA seminar, spring semester 2026, University of Zurich)
 
 * **Introduction to Linguistics I** (BA seminar, fall semester 2025, University of Zurich)
 
