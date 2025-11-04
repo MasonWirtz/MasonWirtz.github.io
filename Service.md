@@ -13,9 +13,9 @@ title: "Service and Management"
 - International Journal of Bilingualism (2025)
 - The Modern Language Journal (2025)
 - Language Variation and Change (2025)
+- Languages (2x 2024, 2025)
 - Journal of Language Variation and Sociolinguistics (2024)
 - Journal of Linguistic Geography (2024)
-- Languages (2024, 2x)
 - Innovation in Language Learning and Teaching (2024)
 - Journal of the European Second Language Association (JESLA) (2024)
 
@@ -28,6 +28,10 @@ title: "Service and Management"
 - Oxford Handbook of the German Language (2023)
 - Double Standards (2023)
 - Expanding Variationist Sociolinguistics: Studies in Linguistic Variation and Change in Varieties of German (2023)
+
+## Monographs
+
+- Multilingual Matters, Second Language Acquisition Series (2025)
 
 ## Conference Abstracts
 
