@@ -31,7 +31,7 @@ This page houses my list of publications and is always up to date. Published wor
 
 > ## 2025 / Accepted
 
-* <u>Wirtz, M. A.</u>, Roth, E., & Schleef, E. (accepted). The effects of bidialectalism on cognitive functioning among young and midlife adults in Austria.
+* <u>Wirtz, M. A.</u>, Roth, E., & Schleef, E. (accepted). The effects of bidialectalism on cognitive functioning among young and midlife adults in Austria. *Linguistics Vanguard*.
 
 * <u>Wirtz, M. A.</u>, Elspaß, S., & Möller, R., Pickl, S., Niehaus, K. (accepted). Mapping real-time language stability and change in colloquial German: A 20-year trend study. *Zeitschrift für Dialektologie und Linguistik*.
 
