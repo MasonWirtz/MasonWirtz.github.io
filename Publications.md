@@ -41,15 +41,15 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u>, Pfenninger, S. E., Rossmanith, A., & Zbinden, L. (accepted). Continuity vs. cut-off points in SLA across the lifespan: From significant life events to biologically regulated thresholds. In C. Wright, T. Piske, A. Steinlein, P. Peltonen (eds.), *Context Matters*. Multilingual Matters.
 
-* <u>Wirtz, M. A.</u>, Kaiser, I., & Ender, A. (accepted). Perceived varietal contact and use in the lives of adult migrant L2 learners in Austria: A look at the dialect-standard-continuum. In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation: The interaction between world and mind*.
+* <u>Wirtz, M. A.</u> (in press). Individual differences in perceived linguistic change following life-course transitions in the personal domain. *Journal of Germanic Linguistics.* [(Open data)](https://osf.io/er7zw/)
 
-* <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (accepted). Reconciling the social and spatial: An apparent-time analysis of variation intensity in colloquial German. *Journal of Linguistic Geography.*
+* <u>Wirtz, M. A.</u>, Kaiser, I., & Ender, A. (2025). Perceived varietal contact and use in the lives of adult migrant L2 learners in Austria: A look at the dialect-standard-continuum. In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation. Unity in Diversity*, 222–239. [DOI](https://benjamins.com/catalog/tilar.34.11wir)
 
-* Ender, A., & <u>Wirtz, M. A.</u> (accepted). In(ter)dependent dialect and standard L2 systems? On the development of receptive varietal proficiency. In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation: The interaction between world and mind*. [(Open data)](https://osf.io/n5jqh/)
+* <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., Elspaß, S., & Möller, R. (2025). Reconciling the social and spatial: An apparent-time analysis of variation intensity in colloquial German. *Journal of Linguistic Geography*, Advanced online publication, 1-14. [DOI](https://www.cambridge.org/core/journals/journal-of-linguistic-geography/article/reconciling-the-social-and-spatial-an-apparenttime-analysis-of-variation-intensity-in-colloquial-german/178686FC7E807D490F57AD727515C261)
 
-* <u>Wirtz, M. A.</u> (accepted). Individual differences in perceived linguistic change following life-course transitions in the personal domain. *Journal of Germanic Linguistics.* [(Open data)](https://osf.io/er7zw/)
+* Ender, A., & <u>Wirtz, M. A.</u> (2025). In(ter)dependent dialect and standard L2 systems? On the development of receptive varietal proficiency. In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation. Unity in Diversity*, 240–260. [DOI](https://benjamins.com/catalog/tilar.34.12end) [(Open data)](https://osf.io/n5jqh/)
 
-* <u>Wirtz, M. A.</u>, & Vergeiner, P. C. (in press). Typen des individuellen Sprachwandels nach wesentlichen Lebensereignissen. *Zeitschrift für germanistische Linguistik*.
+* <u>Wirtz, M. A.</u>, & Vergeiner, P. C. (2025). Typen des individuellen Sprachwandels nach wesentlichen Lebensereignissen. *Zeitschrift für germanistische Linguistik*, 53(3), 489–522. [DOI](https://www.degruyterbrill.com/document/doi/10.1515/zgl-2025-2018/html?utm_source=researchgate.net&utm_medium=article)
 
 * <u>Wirtz, M. A.</u> (2025). The love factor in variationist SLA: Effects of multilingual coupledom on sociolinguistic development in second language German. *Studies in Second Language Acquisition*, Advanced online publication, 1–24. [DOI](https://www.cambridge.org/core/journals/studies-in-second-language-acquisition/article/love-factor-in-variationist-sla/E148F38FC9E66DD168356A29545FA16A) [(Open data)](https://osf.io/ekz8y/)
 
