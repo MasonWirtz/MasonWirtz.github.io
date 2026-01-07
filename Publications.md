@@ -15,13 +15,13 @@ This page houses my list of publications and is always up to date. Published wor
 
 * Fischlhammer, L., & <u>Wirtz, M. A.</u> (in prep.). Real-time change in writing patterns and the effects of writing device on linguistic (in-)stability.
 
-* <u>Wirtz, M. A.</u>, Rossmanith, A., Zbinden, L., & Pfenninger, S. E. (in prep.). A three-pronged approach to pinpointing a threshold: Using intensive longitudinal methods to identify continuity vs. cut-off points in L2 development across retirement age. 
-
 * Pfenninger, S. E., & <u>Wirtz, M. A.</u> (in prep.). Age and good language learners. In C. Griffiths (ed.), *Lessons from Good Language Learners* (2nd ed.). Cambridge University Press. 
 
 <br>
 
 > ## (Revisions) Under Review
+
+* <u>Wirtz, M. A.</u>, Rossmanith, A., Zbinden, L., & Pfenninger, S. E. (under review). A three-pronged approach to pinpointing a threshold: Using intensive longitudinal methods to identify continuity vs. cut-off points in L2 development across retirement age. 
 
 * Pfenninger, S. E., <u>Wirtz, M. A.</u>, & Steiner, L. (under review). Capturing moment-to-moment fluctuations with Vinvara: A software replication.
 
