@@ -19,6 +19,7 @@ My primary research interests include psycholinguistics, variationist sociolingu
 
 > # Awards & Grants
 
+- 2025 ["Figdor Award for Linguistics (Figdor-Preis für Sprachwissenschaften) 2025"](https://stipendien.oeaw.ac.at/preise/geisteswissenschaften/figdor-preis-fuer-sprach-und-literaturwissenschaften) from the Austrian Academy of Sciences (ÖAW – Österreichische Akadamie der Wissenschaften). *Note*: This prize is awarded for outstanding scholarly works in the field of linguistics that are regarded as achievements equivalent to a habilitation. 
 - 2024 ["Early Career Research Grant"](https://www.plus.ac.at/germanistik/forschung/midlife-zusaetzliches-sprachenlernen-im-mittleren-lebensalter/) from FWF, ÖAW, and University of Salzburg (EUR 94.415,00) 
 - 2022 ["Young Investigators Award"](https://www.plus.ac.at/doctorate-school-plus/yia-young-investigators-award-en-de/award-winners-2022/) from the University of Salzburg
 - 2020 Team Lead for the winning team for the "World Summit Awards Youth for Innovation"
