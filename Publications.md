@@ -21,6 +21,8 @@ This page houses my list of publications and is always up to date. Published wor
 
 > ## (Revisions) Under Review
 
+* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (under review). A methodological roadmap of future research agendas for variationist SLA. In M. Howard (ed.), *Sociolinguistic variation in an additional language: Contemporary directions in crosslinguistic perspective*. De Gruyter. 
+
 * <u>Wirtz, M. A.</u>, Rossmanith, A., Zbinden, L., & Pfenninger, S. E. (under review). A three-pronged approach to pinpointing a threshold: Using intensive longitudinal methods to identify continuity vs. cut-off points in L2 development across retirement age. 
 
 * Pfenninger, S. E., <u>Wirtz, M. A.</u>, & Steiner, L. (under review). Capturing moment-to-moment fluctuations with Vinvara: A software replication.
