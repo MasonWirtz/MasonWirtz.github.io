@@ -41,13 +41,13 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u>, Pfenninger, S. E., Rossmanith, A., & Zbinden, L. (accepted). Continuity vs. cut-off points in SLA across the lifespan: From significant life events to biologically regulated thresholds. In C. Wright, T. Piske, A. Steinlein, P. Peltonen (eds.), *Context Matters*. Multilingual Matters.
 
-* <u>Wirtz, M. A.</u> (in press). Individual differences in perceived linguistic change following life-course transitions in the personal domain. *Journal of Germanic Linguistics.* [(Open data)](https://osf.io/er7zw/)
-
 * <u>Wirtz, M. A.</u>, Roth, E., & Schleef, E. (2026). The effects of bidialectalism on cognitive functioning among young and midlife adults in Austria. *Linguistics Vanguard*, advanced online publication. [DOI](https://www.degruyterbrill.com/document/doi/10.1515/lingvan-2025-0119/html)
 
 <br>
 
 > ## 2025 / Accepted
+
+* <u>Wirtz, M. A.</u> (2025). Individual differences in perceived linguistic change following life-course transitions in the personal domain. *Journal of Germanic Linguistics*, 37(4), 398-433. [DOI](https://www.cambridge.org/core/journals/journal-of-germanic-linguistics/article/individual-differences-in-perceived-linguistic-change-following-lifecourse-transitions-in-the-personal-domain/0727AC4DC341D8194F8C9EECD8502B7A) [(Open data)](https://osf.io/er7zw/)
 
 * <u>Wirtz, M. A.</u>, Kaiser, I., & Ender, A. (2025). Perceived varietal contact and use in the lives of adult migrant L2 learners in Austria: A look at the dialect-standard-continuum. In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation. Unity in Diversity*, 222–239. [DOI](https://benjamins.com/catalog/tilar.34.11wir)
 
