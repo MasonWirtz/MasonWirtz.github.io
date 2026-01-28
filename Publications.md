@@ -33,9 +33,7 @@ This page houses my list of publications and is always up to date. Published wor
 
 <br>
 
-> ## 2025 / Accepted
-
-* <u>Wirtz, M. A.</u>, Roth, E., & Schleef, E. (accepted). The effects of bidialectalism on cognitive functioning among young and midlife adults in Austria. *Linguistics Vanguard*.
+> ## 2026 / Accepted
 
 * <u>Wirtz, M. A.</u>, Elspaß, S., & Möller, R., Pickl, S., Niehaus, K. (accepted). Mapping real-time language stability and change in colloquial German: A 20-year trend study. *Zeitschrift für Dialektologie und Linguistik*.
 
@@ -44,6 +42,12 @@ This page houses my list of publications and is always up to date. Published wor
 * <u>Wirtz, M. A.</u>, Pfenninger, S. E., Rossmanith, A., & Zbinden, L. (accepted). Continuity vs. cut-off points in SLA across the lifespan: From significant life events to biologically regulated thresholds. In C. Wright, T. Piske, A. Steinlein, P. Peltonen (eds.), *Context Matters*. Multilingual Matters.
 
 * <u>Wirtz, M. A.</u> (in press). Individual differences in perceived linguistic change following life-course transitions in the personal domain. *Journal of Germanic Linguistics.* [(Open data)](https://osf.io/er7zw/)
+
+* <u>Wirtz, M. A.</u>, Roth, E., & Schleef, E. (2026). The effects of bidialectalism on cognitive functioning among young and midlife adults in Austria. *Linguistics Vanguard*, advanced online publication. [DOI](https://www.degruyterbrill.com/document/doi/10.1515/lingvan-2025-0119/html)
+
+<br>
+
+> ## 2025 / Accepted
 
 * <u>Wirtz, M. A.</u>, Kaiser, I., & Ender, A. (2025). Perceived varietal contact and use in the lives of adult migrant L2 learners in Austria: A look at the dialect-standard-continuum. In L. Rosseel, & E. Zenner (eds.), *Acquiring Language variation. Unity in Diversity*, 222–239. [DOI](https://benjamins.com/catalog/tilar.34.11wir)
 
