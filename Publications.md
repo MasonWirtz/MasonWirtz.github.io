@@ -45,7 +45,7 @@ This page houses my list of publications and is always up to date. Published wor
 
 <br>
 
-> ## 2025 / Accepted
+> ## 2025
 
 * <u>Wirtz, M. A.</u> (2025). Individual differences in perceived linguistic change following life-course transitions in the personal domain. *Journal of Germanic Linguistics*, 37(4), 398-433. [DOI](https://www.cambridge.org/core/journals/journal-of-germanic-linguistics/article/individual-differences-in-perceived-linguistic-change-following-lifecourse-transitions-in-the-personal-domain/0727AC4DC341D8194F8C9EECD8502B7A) [(Open data)](https://osf.io/er7zw/)
 
