@@ -15,11 +15,15 @@ This page houses my list of publications and is always up to date. Published wor
 
 * Fischlhammer, L., & <u>Wirtz, M. A.</u> (in prep.). Real-time change in writing patterns and the effects of writing device on linguistic (in-)stability.
 
-* Pfenninger, S. E., & <u>Wirtz, M. A.</u> (in prep.). Age and good language learners. In C. Griffiths (ed.), *Lessons from Good Language Learners* (2nd ed.). Cambridge University Press. 
+* <u>Wirtz, M. A.</u>, Rossmanith, A., Zbinden, L., & Pfenninger, S. E. (in prep.). Capturing (a)synchrony and cause-and-effect relationships in the L2 proficiency–chunking association in later-life language learning.
+
+* <u>Wirtz, M. A.</u>, Rossmanith, A., Zbinden, L., & Pfenninger, S. E. (under contract). Intensifier variation among later-life second language learners of English: A longitudinal micro-development study. In A. Gudmestad & D. Grammon (eds.), *Problematizing native-speaker targets in the study of sociolinguistic competence*.
 
 <br>
 
 > ## (Revisions) Under Review
+
+* Pfenninger, S. E., & <u>Wirtz, M. A.</u> (under review). Age and good language learners. In C. Griffiths (ed.), *Lessons from Good Language Learners* (2nd ed.). Cambridge University Press. 
 
 * <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (under review). A methodological roadmap of future research agendas for variationist SLA. In M. Howard (ed.), *Sociolinguistic variation in an additional language: Contemporary directions in crosslinguistic perspective*. De Gruyter. 
 
