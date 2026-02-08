@@ -23,8 +23,6 @@ This page houses my list of publications and is always up to date. Published wor
 
 > ## (Revisions) Under Review
 
-* Pfenninger, S. E., & <u>Wirtz, M. A.</u> (under review). Age and good language learners. In C. Griffiths (ed.), *Lessons from Good Language Learners* (2nd ed.). Cambridge University Press. 
-
 * <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (under review). A methodological roadmap of future research agendas for variationist SLA. In M. Howard (ed.), *Sociolinguistic variation in an additional language: Contemporary directions in crosslinguistic perspective*. De Gruyter. 
 
 * <u>Wirtz, M. A.</u>, Rossmanith, A., Zbinden, L., & Pfenninger, S. E. (under review). A three-pronged approach to pinpointing a threshold: Using intensive longitudinal methods to identify continuity vs. cut-off points in L2 development across retirement age. 
@@ -38,6 +36,8 @@ This page houses my list of publications and is always up to date. Published wor
 <br>
 
 > ## 2026 / Accepted
+
+* Pfenninger, S. E., & <u>Wirtz, M. A.</u> (accepted). Age and good language learners. In C. Griffiths (ed.), *Lessons from Good Language Learners* (2nd ed.). Cambridge University Press.
 
 * <u>Wirtz, M. A.</u>, Elspaß, S., & Möller, R., Pickl, S., Niehaus, K. (accepted). Mapping real-time language stability and change in colloquial German: A 20-year trend study. *Zeitschrift für Dialektologie und Linguistik*.
 
