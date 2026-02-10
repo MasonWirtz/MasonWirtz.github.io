@@ -29,13 +29,13 @@ This page houses my list of publications and is always up to date. Published wor
 
 * Pfenninger, S. E., <u>Wirtz, M. A.</u>, & Steiner, L. (under review). Capturing moment-to-moment fluctuations with Vinvara: A software replication.
 
-* Schleef, E., & <u>Wirtz, M. A.</u> (under review). Sociolinguistics for L2 learning and teaching. In J. Clenton, & D. Coulson (eds.), *An Introduction to Applied Linguistics* (4th ed.). Routledge.
-
 * <u>Wirtz, M. A.</u> (under review). Datenvisualisierung als mehrsprachiges Vermittlungsinstrument. In F. Gmainer-Pranzl & A. Ender (Eds.), *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens*.
 
 <br>
 
 > ## 2026 / Accepted
+
+* Schleef, E., & <u>Wirtz, M. A.</u> (accepted). Sociolinguistics for L2 learning and teaching. In J. Clenton, & D. Coulson (eds.), *An Introduction to Applied Linguistics* (4th ed.). Routledge.
 
 * Pfenninger, S. E., & <u>Wirtz, M. A.</u> (accepted). Age and good language learners. In C. Griffiths (ed.), *Lessons from Good Language Learners* (2nd ed.). Cambridge University Press.
 
