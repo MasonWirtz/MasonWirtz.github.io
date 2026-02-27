@@ -10,6 +10,7 @@ title: "Service and Management"
 
 ## Journals
 
+- Zeitschrift für Angewandte Linguistik (2026)
 - Linguistik Online (2025)
 - International Journal of Bilingualism (2025)
 - The Modern Language Journal (2025)
