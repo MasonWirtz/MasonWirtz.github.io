@@ -43,6 +43,8 @@ This page houses a list of courses and workshops I have taught including teachin
 
 * **Methods and Theories in Linguistics** (MA seminar, fall semester 2025, University of Zurich)
 
+* **Advanced Research Internship: Variation in (Second) Language Use and Development** (MA seminar, fall semester 2025, University of Zurich)
+
 * **Soziolinguistische Variation über die Lebensspanne (Sociolinguistic Variation Across the Lifespan)** (BA seminar, summer semester 2024, University of Innsbruck)
 
 * **Soziolinguistische Kompetenz in DaM, DaZ, DaF (Sociolinguistic Competence in German as a First, Second, and Foreign Language)**, co-taught with Prof. Andrea Ender (BA/MA seminar, summer semester 2023, University of Salzburg, Austria)
