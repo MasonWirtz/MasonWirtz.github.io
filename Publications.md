@@ -23,7 +23,7 @@ This page houses my list of publications and is always up to date. Published wor
 
 > ## (Revisions) Under Review
 
-* <u>Wirtz, M. A.</u>, Rossmanith, A., Zbinden, L., & Pfenninger, S. E. (under review). A multi-year study of chunking trajectories in later-life additional language learning. *Journal of the European Section Language Association (JESLA)*. 
+* <u>Wirtz, M. A.</u>, Rossmanith, A., Zbinden, L., & Pfenninger, S. E. (under review). A multi-year study of chunking trajectories in later-life additional language learning. *Journal of the European Second Language Association (JESLA)*. 
 
 * <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (under review). A methodological roadmap of future research agendas for variationist SLA. In M. Howard (ed.), *Sociolinguistic variation in an additional language: Contemporary directions in crosslinguistic perspective*. De Gruyter. 
 
