@@ -23,11 +23,13 @@ This page houses my list of publications and is always up to date. Published wor
 
 > ## (Revisions) Under Review
 
+* <u>Wirtz, M. A.</u>, Rossmanith, A., Zbinden, L., & Pfenninger, S. E. (under review). A multi-year study of chunking trajectories in later-life additional language learning. *Journal of the European Section Language Association (JESLA)*. 
+
 * <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (under review). A methodological roadmap of future research agendas for variationist SLA. In M. Howard (ed.), *Sociolinguistic variation in an additional language: Contemporary directions in crosslinguistic perspective*. De Gruyter. 
 
-* <u>Wirtz, M. A.</u>, Rossmanith, A., Zbinden, L., & Pfenninger, S. E. (under review). A three-pronged approach to pinpointing a threshold: Using intensive longitudinal methods to identify continuity vs. cut-off points in L2 development across retirement age. 
+* <u>Wirtz, M. A.</u>, Rossmanith, A., Zbinden, L., & Pfenninger, S. E. (under review). A three-pronged approach to pinpointing a threshold: Using intensive longitudinal methods to identify continuity vs. cut-off points in L2 development across retirement age. *Language Learning*. 
 
-* Pfenninger, S. E., <u>Wirtz, M. A.</u>, & Steiner, L. (under review). Capturing moment-to-moment fluctuations with Vinvara: A software replication.
+* Pfenninger, S. E., <u>Wirtz, M. A.</u>, & Steiner, L. (under review). Capturing moment-to-moment fluctuations with Vinvara: A software replication. *Research Methods in Applied Linguistics*.
 
 * <u>Wirtz, M. A.</u> (under review). Datenvisualisierung als mehrsprachiges Vermittlungsinstrument. In F. Gmainer-Pranzl & A. Ender (Eds.), *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens*.
 
