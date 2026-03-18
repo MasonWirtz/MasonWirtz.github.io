@@ -15,13 +15,13 @@ This page houses my list of publications and is always up to date. Published wor
 
 * Fischlhammer, L., & <u>Wirtz, M. A.</u> (in prep.). Real-time change in writing patterns and the effects of writing device on linguistic (in-)stability.
 
-* <u>Wirtz, M. A.</u>, Rossmanith, A., Zbinden, L., & Pfenninger, S. E. (in prep.). Capturing (a)synchrony and cause-and-effect relationships in the L2 proficiency–chunking association in later-life language learning.
-
 * <u>Wirtz, M. A.</u>, Rossmanith, A., Zbinden, L., & Pfenninger, S. E. (under contract). Intensifier variation among later-life second language learners: A longitudinal micro-development study. In A. Gudmestad & D. Grammon (eds.), *Problematizing native-speaker targets in the study of sociolinguistic competence*.
 
 <br>
 
 > ## (Revisions) Under Review
+
+* <u>Wirtz, M. A.</u>, Rossmanith, A., Zbinden, L., & Pfenninger, S. E. (under review). Capturing (a)synchrony and cause-and-effect relationships in the L2 proficiency–chunking association in later-life language learning. *Second Language Research*.
 
 * <u>Wirtz, M. A.</u>, Rossmanith, A., Zbinden, L., & Pfenninger, S. E. (under review). A multi-year study of chunking trajectories in later-life additional language learning. *Journal of the European Second Language Association (JESLA)*. 
 
