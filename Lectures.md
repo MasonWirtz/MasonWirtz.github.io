@@ -23,7 +23,13 @@ This page houses my list of speeches at (inter-)national academic conferences, i
 
 > # Invited Talks / Guest Lectures
 
+* <u>Wirtz, M. A.</u> (TBD). Von *wääß* und *woaß* zu *weiß*? Erfolgsgeschichten und Hürden bei der statistischen Modellierung von (Non-)Standard-Variation in der deutschen Alltagssprache. Universität Münster / Landschaftsverband Westfalen-Lippe (LWL).
+
+* <u>Wirtz, M. A.</u> (31.03.2026). Language learning in the wild. Sociolinguistic development in young adulthood and midlife. University of Zurich, Switzerland.
+
 * <u>Wirtz, M. A.</u> (29.10.2025). At the intersection of sociolinguistics and SLA: Exploring intra- and inter-individual variation in L2 sociolinguistic development. Guest lecture in the lecture series: *Variation within (and across) individuals.* Ludwig-Maximilians University of Munich, Germany.
+
+* <u>Wirtz, M. A.</u> (31.03.2026). SLA meets sociolinguistics. University of Zurich, Switzerland.
 
 * <u>Wirtz, M. A.</u> (13.11.2024). Soziolinguistische Variation über die Lebensspanne. Zum Einfluss von wesentlichen Lebensereignissen und psychosozialen Faktoren. Guest lecture in: *Soziolinguistik des Deutschen (Lecture taught by Univ.-Prof. Dr. Stephan Elspaß and Univ.-Prof. Dr. Andrea Ender).* University of Salzburg, Austria.
 
@@ -32,6 +38,8 @@ This page houses my list of speeches at (inter-)national academic conferences, i
 * <u>Wirtz, M. A.</u> (21.03.2023). Soziolinguistische Kompetenz: Einige Erkenntnisse aus dem bairisch-österreichischen Kontext. Guest lecture in: *Soziolinguistische Kompetenz in DaM, DaZ, DaF (Seminar taught by Univ.-Prof. Dr. Andrea Ender).* University of Salzburg, Austria.
 
 * <u>Wirtz, M. A.</u> (18.01.2023). INTRA-individuelle Variation und Variabilität: Zur Messung und Funktionalität. Guest lecture in: *Dialektsoziologie (Seminar taught by Dr. Christa Schneider).* University of Salzburg, Austria.
+
+* <u>Wirtz, M. A.</u> (01.07.2022). Zur Vereinbarung von Interkomprehension und Varietätenkompetenz in Schule und Erwachsenenbildung. Guest lecture in: *Sprachliche Variation im DaF/DaZ-Unterricht.* Seminarleitung: Sebastian Maier, MA, Universität Salzburg, Österreich.
 
 * <u>Wirtz, M. A.</u> (01.07.2022). Vom Umgang mit Dialekten im DaF/DaZ-Unterricht: Praktische Ansätze zur Förderung (rezeptiver) Varietätenkompetenz. Presented at: *Österreichischer Verband für Deutsch als Fremd/Zweitsprache.* Innsbruck, Austria.
 
