@@ -39,7 +39,7 @@ This page houses my list of speeches at (inter-)national academic conferences, i
 
 * <u>Wirtz, M. A.</u> (18.01.2023). INTRA-individuelle Variation und Variabilität: Zur Messung und Funktionalität. Guest lecture in: *Dialektsoziologie (Seminar taught by Dr. Christa Schneider).* University of Salzburg, Austria.
 
-* <u>Wirtz, M. A.</u> (01.07.2022). Zur Vereinbarung von Interkomprehension und Varietätenkompetenz in Schule und Erwachsenenbildung. Guest lecture in: *Sprachliche Variation im DaF/DaZ-Unterricht.* Seminarleitung: Sebastian Maier, MA, Universität Salzburg, Österreich.
+* <u>Wirtz, M. A.</u> (01.07.2022). Zur Vereinbarung von Interkomprehension und Varietätenkompetenz in Schule und Erwachsenenbildung. Guest lecture in: *Sprachliche Variation im DaF/DaZ-Unterricht (Seminar taught by Sebastian Maier, MA).* University of Salzburg, Austria.
 
 * <u>Wirtz, M. A.</u> (01.07.2022). Vom Umgang mit Dialekten im DaF/DaZ-Unterricht: Praktische Ansätze zur Förderung (rezeptiver) Varietätenkompetenz. Presented at: *Österreichischer Verband für Deutsch als Fremd/Zweitsprache.* Innsbruck, Austria.
 
