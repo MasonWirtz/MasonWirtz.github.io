@@ -19,6 +19,7 @@ My primary research interests include psycholinguistics, variationist sociolingu
 
 > # Awards & Grants
 
+- 2025 Top Cited Article Award for *The Modern Language Journal* (Wiley): Wirtz et al. (2024): *Sociolinguistic competence and varietal repertoires in a second language: A study on addressee-dependent varietal behavior using virtual reality*. 
 - 2025 ["Figdor Award for Linguistics (Figdor-Preis für Sprachwissenschaften)"](https://stipendien.oeaw.ac.at/preise/geisteswissenschaften/figdor-preis-fuer-sprach-und-literaturwissenschaften) from the Austrian Academy of Sciences (ÖAW – Österreichische Akadamie der Wissenschaften). *Note*: This prize is awarded for outstanding scholarly works in the field of linguistics that are regarded as achievements equivalent to a habilitation. 
 - 2024 ["Early Career Research Grant"](https://www.plus.ac.at/germanistik/forschung/midlife-zusaetzliches-sprachenlernen-im-mittleren-lebensalter/) from FWF, ÖAW, and University of Salzburg (EUR 94.415,00) 
 - 2022 ["Young Investigators Award"](https://www.plus.ac.at/doctorate-school-plus/yia-young-investigators-award-en-de/award-winners-2022/) from the University of Salzburg
