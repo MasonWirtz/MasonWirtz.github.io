@@ -15,13 +15,13 @@ This page houses my list of publications and is always up to date. Published wor
 
 * Fischlhammer, L., & <u>Wirtz, M. A.</u> (in prep.). Real-time change in writing patterns and the effects of writing device on linguistic (in-)stability.
 
-* Pfenninger, S. E., <u>Wirtz, M. A.</u>, Zbinden, L., & Rossmanith, A. (in prep.). How variable is the Bilingual Advantage?
-
 <br>
 
 > ## (Revisions) Under Review
 
 * <u>Wirtz, M. A.</u>, Rossmanith, A., Zbinden, L., & Pfenninger, S. E. (under review). Intensifier variation among later-life second language learners: A longitudinal micro-development study. In A. Gudmestad & D. Grammon (eds.), *Problematizing native-speaker targets in the study of sociolinguistic competence*.
+
+* Pfenninger, S. E., <u>Wirtz, M. A.</u>, Zbinden, L., & Rossmanith, A. (under review). How variable is the Bilingual Advantage? *Language Learning*. 
 
 * <u>Wirtz, M. A.</u>, Rossmanith, A., Zbinden, L., & Pfenninger, S. E. (under review). Capturing (a)synchrony and cause-and-effect relationships in the L2 proficiency–chunking association in later-life language learning. *Second Language Research*.
 
