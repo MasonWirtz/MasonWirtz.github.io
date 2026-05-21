@@ -19,6 +19,8 @@ This page houses my list of publications and is always up to date. Published wor
 
 > ## (Revisions) Under Review
 
+* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (under review). Solving crime in the second language. A virtual reality study on eyewitness testimony among young-adult and midlife learners of German in Switzerland.
+
 * <u>Wirtz, M. A.</u>, Rossmanith, A., Zbinden, L., & Pfenninger, S. E. (under review). Intensifier variation among later-life second language learners: A longitudinal micro-development study. In A. Gudmestad & D. Grammon (eds.), *Problematizing native-speaker targets in the study of sociolinguistic competence*.
 
 * Pfenninger, S. E., <u>Wirtz, M. A.</u>, Zbinden, L., & Rossmanith, A. (under review). How variable is the Bilingual Advantage? *Language Learning*. 
