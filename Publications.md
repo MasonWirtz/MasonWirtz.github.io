@@ -39,7 +39,7 @@ This page houses my list of publications and is always up to date. Published wor
 
 > ## 2026 / Accepted
 
-* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (accepted with minor revisions). A methodological roadmap of future research agendas for variationist SLA. In M. Howard (ed.), *Sociolinguistic variation in an additional language: Contemporary directions in crosslinguistic perspective*. De Gruyter. 
+* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (accepted). A methodological roadmap of future research agendas for variationist SLA. In M. Howard (ed.), *Sociolinguistic variation in an additional language: Contemporary directions in crosslinguistic perspective*. De Gruyter. 
 
 * Schleef, E., & <u>Wirtz, M. A.</u> (accepted). Sociolinguistics for L2 learning and teaching. In J. Clenton, & D. Coulson (eds.), *An Introduction to Applied Linguistics* (4th ed.). Routledge.
 
