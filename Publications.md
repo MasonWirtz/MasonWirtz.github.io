@@ -27,8 +27,6 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u>, Rossmanith, A., Zbinden, L., & Pfenninger, S. E. (under review). Capturing (a)synchrony and cause-and-effect relationships in the L2 proficiency–chunking association in later-life language learning. *Second Language Research*.
 
-* <u>Wirtz, M. A.</u>, Rossmanith, A., Zbinden, L., & Pfenninger, S. E. (revisions under review). A multi-year study of chunking trajectories in later-life additional language learning. *Journal of the European Second Language Association (JESLA)*. 
-
 * <u>Wirtz, M. A.</u>, Rossmanith, A., Zbinden, L., & Pfenninger, S. E. (revisions under review). A three-pronged approach to pinpointing a threshold: Using intensive longitudinal methods to identify continuity vs. cut-off points in L2 development across retirement age. *Language Learning*. 
 
 * Pfenninger, S. E., <u>Wirtz, M. A.</u>, & Steiner, L. (revisions under review). Capturing moment-to-moment fluctuations with Vinvara: A software replication. *Research Methods in Applied Linguistics*.
@@ -38,6 +36,8 @@ This page houses my list of publications and is always up to date. Published wor
 <br>
 
 > ## 2026 / Accepted
+
+* <u>Wirtz, M. A.</u>, Rossmanith, A., Zbinden, L., & Pfenninger, S. E. (accepted). A multi-year study of chunking trajectories in later-life additional language learning. *Journal of the European Second Language Association (JESLA)*. 
 
 * <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (accepted). A methodological roadmap of future research agendas for variationist SLA. In M. Howard (ed.), *Sociolinguistic variation in an additional language: Contemporary directions in crosslinguistic perspective*. De Gruyter. 
 
