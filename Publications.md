@@ -25,7 +25,7 @@ This page houses my list of publications and is always up to date. Published wor
 
 * Pfenninger, S. E., <u>Wirtz, M. A.</u>, Zbinden, L., & Rossmanith, A. (under review). How variable is the Bilingual Advantage? *Language Learning*. 
 
-* <u>Wirtz, M. A.</u>, Rossmanith, A., Zbinden, L., & Pfenninger, S. E. (under review). Capturing (a)synchrony and cause-and-effect relationships in the L2 proficiency–chunking association in later-life language learning. *Second Language Research*.
+* <u>Wirtz, M. A.</u>, Rossmanith, A., Zbinden, L., & Pfenninger, S. E. (under review). Capturing (a)synchrony and cause-and-effect relationships in the L2 proficiency–chunking association in later-life language learning.
 
 * <u>Wirtz, M. A.</u>, Rossmanith, A., Zbinden, L., & Pfenninger, S. E. (revisions under review). A three-pronged approach to pinpointing a threshold: Using intensive longitudinal methods to identify continuity vs. cut-off points in L2 development across retirement age. *Language Learning*. 
 
@@ -36,8 +36,6 @@ This page houses my list of publications and is always up to date. Published wor
 <br>
 
 > ## 2026 / Accepted
-
-* <u>Wirtz, M. A.</u>, Rossmanith, A., Zbinden, L., & Pfenninger, S. E. (accepted). A multi-year study of chunking trajectories in later-life additional language learning. *Journal of the European Second Language Association (JESLA)*. 
 
 * <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (accepted). A methodological roadmap of future research agendas for variationist SLA. In M. Howard (ed.), *Sociolinguistic variation in an additional language: Contemporary directions in crosslinguistic perspective*. De Gruyter. 
 
@@ -50,6 +48,8 @@ This page houses my list of publications and is always up to date. Published wor
 * <u>Wirtz, M. A.</u>, & Schleef, E. (accepted). Investigating variation and change using experimental approaches. In Y. Asahi, A. D’Arcy, & P. Kerswill (eds.), *Routledge Handbook of Variationist Sociolinguistics*. Routledge.
 
 * <u>Wirtz, M. A.</u>, Pfenninger, S. E., Rossmanith, A., & Zbinden, L. (accepted). Continuity vs. cut-off points in SLA across the lifespan: From significant life events to biologically regulated thresholds. In C. Wright, T. Piske, A. Steinlein, P. Peltonen (eds.), *Context Matters*. Multilingual Matters.
+
+* <u>Wirtz, M. A.</u>, Rossmanith, A., Zbinden, L., & Pfenninger, S. E. (2026). A multi-year study of chunking trajectories in later-life additional language learning. *Journal of the European Second Language Association (JESLA)*. [DOI](https://euroslajournal.org/articles/10.22599/jesla.177) [(Open data)](https://osf.io/r7adn)
 
 * <u>Wirtz, M. A.</u>, Roth, E., & Schleef, E. (2026). The effects of bidialectalism on cognitive functioning among young and midlife adults in Austria. *Linguistics Vanguard*, advanced online publication. [DOI](https://www.degruyterbrill.com/document/doi/10.1515/lingvan-2025-0119/html)
 
