@@ -10,6 +10,7 @@ title: "Service and Management"
 
 ## Journals
 
+- Language Learning (2026)
 - Research Methods in Applied Linguistics (2026)
 - Zeitschrift für Angewandte Linguistik (2026)
 - Linguistik Online (2025)
@@ -24,6 +25,7 @@ title: "Service and Management"
 
 ## Book Chapters
 
+- German in Austria / Deutsch in Österreich (2026)
 - Language Learning in Later Life (2024)
 - Acquiring Language variation: The interaction between world and mind (2024)
 - Jahrbuch der Gesellschaft für germanistische Sprachgeschichte (2024)
@@ -46,8 +48,9 @@ title: "Service and Management"
 
 > # Organization of Academic Activities
 
-- <u>Wirtz, M. A.</u>, Pfenninger, S. E., Essi, C. (16.02.2026 – 30.05.2026). *Age and aging: Linguistic, Literary and Cultural Studies Perspectives*. Departmental Lecture Series (Ringvorlesung). University of Zurich, Switzerland.
-- <u>Wirtz, M. A.</u>, Pfenninger, S. E., Freeborn, L., & Arndt, H. (08 – 09.08.2025). *Nightmare on ILM Street: Intensive Longitudinal Methods from a Quantitative and Qualitative Perspective*. University of Zurich, Switzerland.
+- <u>Wirtz, M. A.</u>, Kauhanen, H, Pfenninger, S. E., & Zehentner, E. (18.03.2027 – 19.03.2027). *Because Language. Unpacking Causality in Linguistics*. International Symposium. University of Zurich, Switzerland.
+- <u>Wirtz, M. A.</u>, Pfenninger, S. E., & Essi, C. (16.02.2026 – 30.05.2026). *Age and aging: Linguistic, Literary and Cultural Studies Perspectives*. Departmental Lecture Series (Ringvorlesung). University of Zurich, Switzerland.
+- <u>Wirtz, M. A.</u>, Pfenninger, S. E., Freeborn, L., & Arndt, H. (08 – 09.08.2025). *Nightmare on ILM Street: Intensive Longitudinal Methods from a Quantitative and Qualitative Perspective*. International Symposium. University of Zurich, Switzerland.
 - <u>Wirtz, M. A.</u>, Pickl, S., Niehaus, K., & Elspaß, S. (10.07.2024). *Modeling Context and the Individual*. International Conference on Language Variation in Europe 12 (ICLaVE 12). Vienna, Austria.
 - <u>Wirtz, M. A.</u>, Schmidt-Riese, A. (09.07.2024). Dynamics of Sociolinguistic Development in the First and Second Language. International Conference on Language Variation in Europe 12 (ICLaVE 12). Vienna, Austria.
 
