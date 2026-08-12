@@ -14,6 +14,8 @@ This page houses my list of publications and is always up to date. Published wor
 > ## In Preparation / Under Contract
 
 * Fischlhammer, L., & <u>Wirtz, M. A.</u> (in prep.). Real-time change in writing patterns and the effects of writing device on linguistic (in-)stability.
+  
+* <u>Wirtz, M. A.</u>, Rossmanith, A., & Pfenninger, S. E. (in prep.). A retirement–pragmatics nexus? Cognitive and psychosocial underpinnings of reference production across retirement.
 
 <br>
 
