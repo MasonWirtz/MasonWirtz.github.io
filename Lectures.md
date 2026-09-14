@@ -52,11 +52,23 @@ This page houses my list of speeches at (inter-)national academic conferences, i
 
 > # (Upcoming) Conference Presentations
 
+* Pfenninger, S., <u>Wirtz, M. A.</u>, Rossmanith, A., & Ziehli, A. (12.11.2026). Variation in (second) language use and development across retirement age. *Aging Network.* Lausanne, Switzerland.
+
+* <u>Wirtz, M. A.</u>, & Pfenninger, S. (07.10.2026). Becoming bilingual within and beyond the classroom: Evidence from an 8-year longitudinal study with repeated measurements. *Symposium on Diversity in Early Multilingualism.* Zurich, Switzerland.
+
+* <u>Wirtz, M. A.</u>, Rossmanith, A., Zbinden, L., & Pfenninger, S. (25.09.2026). Discourse-Pragmatic Skills Across Retirement: A Two-Year Longitudinal Study of Variation and Change in Anaphoric Expressions. *Discourse-pragmatic variation and change.* Salzburg, Austria.
+
+* Pfenninger, S., <u>Wirtz, M. A.</u>, Rossmanith, A., & Zbinden, L. (04.09.2026). The Variable Bilingual Advantage. *International Conference on Third Language Acquisition and Multilingualism (IAM).* Poznań, Poland.
+
+* <u>Wirtz, M. A.</u>, Roth, E., & Schleef, E. (02.07.2026). The role of working memory and executive functioning in rapid accommodation behavior: Experimental evidence. *International Conference on Language Variation in Europe 13 (ICLaVE 13)*. Lausanne, Switzerland.
+
+* <u>Wirtz, M. A.</u>, Zbinden, L., Rossmanith, A., & Pfenninger, S. E. (01.07.2026). Intensifier variation among older-adult L2 learners: Insights from a two-year longitudinal study with dense time serial measurements. International Conference on Language Variation in Europe 13 (ICLaVE 13). Lausanne, Switzerland.
+
 * <u>Wirtz, M. A.</u>, Elspaß, S., Möller, R., Pickl, S., & Niehaus, K. (18.09.2025). Wandel in der deutschen Alltagssprache in real und apparent time. Eine Trendstudie über 20 Jahre. *8. Kongress der Internationalen Gesellschaft für Dialektologie des Deutschen (IGDD).* Berlin, Germany. **NOTE: This presentation was accepted as a 'Halbplenarvortrag' (semi-plenary paper), which are reserved for a few select conference submissions that receive exceptionally positive reviewer evaluations**.
 
 * <u>Wirtz, M. A.</u>, & Pickl, S. (18.09.2025). Wesentliche Lebensereignisse und psychosoziale Faktoren als treibende Kräfte für den individuellen Sprachwandel über die Lebensspanne. *8. Kongress der Internationalen Gesellschaft für Dialektologie des Deutschen (IGDD).* Berlin, Germany.
 
-* <u>Wirtz, M. A.</u>, & Pfenninger, S., Zbinden, L., Rossmanith, A. (09.07.2025). Where's the threshold? Identifying continuity vs. cut-off points in SLA across retirement age. *Nightmare on ILM Street. Intensive Longitudinal Methods from a Quantitative and Qualitative Perspective.* Zurich, Switzerland.
+* <u>Wirtz, M. A.</u>, Pfenninger, S., Zbinden, L., & Rossmanith, A. (09.07.2025). Where's the threshold? Identifying continuity vs. cut-off points in SLA across retirement age. *Nightmare on ILM Street. Intensive Longitudinal Methods from a Quantitative and Qualitative Perspective.* Zurich, Switzerland.
 
 * <u>Wirtz, M. A.</u> (26.06.2025, poster). The love factor in variationist SLA: Effects of multilingual coupledom on sociolinguistic development in additional-language German. *EuroSLA 34.* Tromsø, Norway.
 
