@@ -23,7 +23,9 @@ This page houses my list of speeches at (inter-)national academic conferences, i
 
 > # Invited Talks / Guest Lectures
 
-* <u>Wirtz, M. A.</u> (TBD). Von *wääß* und *woaß* zu *weiß*? Erfolgsgeschichten und Hürden bei der statistischen Modellierung von (Non-)Standard-Variation in der deutschen Alltagssprache. Universität Münster / Landschaftsverband Westfalen-Lippe (LWL).
+* <u>Wirtz, M. A.</u> (10.12.2026). Von *wääß* und *woaß* zu *weiß*? Erfolgsgeschichten und Hürden bei der statistischen Modellierung von (Non-)Standard-Variation in der deutschen Alltagssprache. Universität Münster / Landschaftsverband Westfalen-Lippe (LWL).
+
+* <u>Wirtz, M. A.</u> (02.11.2026). Sociolinguistics meets SLA: Inter- und intra-individuelle Variation in der L2 soziolinguistischen Entwicklung. Guest lecture in the lecture series: *Mehrsprachigkeit*. University of Regensburg, Germany.
 
 * <u>Wirtz, M. A.</u> (31.03.2026). Language learning in the wild. Sociolinguistic development in young adulthood and midlife. University of Zurich, Switzerland.
 
