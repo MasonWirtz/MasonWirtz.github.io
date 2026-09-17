@@ -15,13 +15,13 @@ This page houses my list of publications and is always up to date. Published wor
 
 * Fischlhammer, L., & <u>Wirtz, M. A.</u> (in prep.). Real-time change in writing patterns and the effects of writing device on linguistic (in-)stability.
   
-* <u>Wirtz, M. A.</u>, Rossmanith, A., & Pfenninger, S. E. (in prep.). A retirement–pragmatics nexus? Cognitive and psychosocial underpinnings of reference production across retirement.
-
 <br>
 
 > ## (Revisions) Under Review
 
-* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (under review). Solving crime in the second language. A virtual reality study on eyewitness testimony among young-adult and midlife learners of German in Switzerland.
+* <u>Wirtz, M. A.</u>, Rossmanith, A., & Pfenninger, S. E. (under review). A retirement–pragmatics nexus? Cognitive and psychosocial underpinnings of reference production across retirement.
+
+* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (revisions under review). Solving crime in the second language. A virtual reality study on eyewitness testimony among young-adult and midlife learners of German in Switzerland.
 
 * <u>Wirtz, M. A.</u>, Rossmanith, A., Zbinden, L., & Pfenninger, S. E. (under review). Intensifier variation among later-life second language learners: A longitudinal micro-development study. In A. Gudmestad & D. Grammon (eds.), *Problematizing native-speaker targets in the study of sociolinguistic competence*.
 
@@ -49,7 +49,7 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u>, & Schleef, E. (accepted). Investigating variation and change using experimental approaches. In Y. Asahi, A. D’Arcy, & P. Kerswill (eds.), *Routledge Handbook of Variationist Sociolinguistics*. Routledge.
 
-* <u>Wirtz, M. A.</u>, Pfenninger, S. E., Rossmanith, A., & Zbinden, L. (accepted). Continuity vs. cut-off points in SLA across the lifespan: From significant life events to biologically regulated thresholds. In C. Wright, T. Piske, A. Steinlein, P. Peltonen (eds.), *Context Matters*. Multilingual Matters.
+* <u>Wirtz, M. A.</u>, Pfenninger, S. E., Rossmanith, A., & Zbinden, L. (2026). Continuity vs. cut-off points in SLA across the lifespan: From significant life events to biologically regulated thresholds. In C. Wright, T. Piske, A. Steinlein, P. Peltonen (eds.), *Context Matters*. Multilingual Matters. [DOI](https://www.degruyterbrill.com/document/doi/10.21832/9781800413467-011/html)
 
 * <u>Wirtz, M. A.</u>, Rossmanith, A., Zbinden, L., & Pfenninger, S. E. (2026). A multi-year study of chunking trajectories in later-life additional language learning. *Journal of the European Second Language Association (JESLA)*. [DOI](https://euroslajournal.org/articles/10.22599/jesla.177) [(Open data)](https://osf.io/r7adn)
 
