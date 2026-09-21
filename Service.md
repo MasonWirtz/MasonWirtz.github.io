@@ -10,6 +10,7 @@ title: "Service and Management"
 
 ## Journals
 
+- Studies in Second Language Acquisition (2026)
 - Language Learning (2026)
 - Research Methods in Applied Linguistics (2026)
 - Zeitschrift für Angewandte Linguistik (2026)
