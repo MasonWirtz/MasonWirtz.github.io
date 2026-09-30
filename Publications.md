@@ -39,6 +39,8 @@ This page houses my list of publications and is always up to date. Published wor
 
 > ## 2026 / Accepted
 
+* <u>Wirtz, M. A.</u> (2026). *Soziolinguistische Variation über die Lebensspanne in Erst- und Zweitsprache. Zum Einfluss von wesentlichen Lebensereignissen und psycho-sozialen Faktoren*. Kumulative Habilitationsschrift, bestehend aus 12 Aufsätzen (488 Seiten, inklusive 52 Seiten Manteltext).
+
 * <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (accepted). A methodological roadmap of future research agendas for variationist SLA. In M. Howard (ed.), *Sociolinguistic variation in an additional language: Contemporary directions in crosslinguistic perspective*. De Gruyter. 
 
 * Schleef, E., & <u>Wirtz, M. A.</u> (accepted). Sociolinguistics for L2 learning and teaching. In J. Clenton, & D. Coulson (eds.), *An Introduction to Applied Linguistics* (4th ed.). Routledge.
