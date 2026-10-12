@@ -15,7 +15,7 @@ title: "Service and Management"
 - Research Methods in Applied Linguistics (2026)
 - Zeitschrift für Angewandte Linguistik (2026)
 - Linguistik Online (2025)
-- International Journal of Bilingualism (2025)
+- International Journal of Bilingualism (2025, 2026)
 - The Modern Language Journal (2025)
 - Language Variation and Change (2025)
 - Languages (3x 2024, 2025)
