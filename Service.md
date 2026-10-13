@@ -19,7 +19,7 @@ title: "Service and Management"
 - The Modern Language Journal (2025)
 - Language Variation and Change (2025)
 - Languages (3x 2024, 2025)
-- Journal of Language Variation and Sociolinguistics (2024)
+- Journal of Language Variation and Sociolinguistics (2024, 2026)
 - Journal of Linguistic Geography (2024)
 - Innovation in Language Learning and Teaching (2024)
 - Journal of the European Second Language Association (JESLA) (2024)
