@@ -21,8 +21,6 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u>, Rossmanith, A., & Pfenninger, S. E. (under review). A retirement–pragmatics nexus? Cognitive and psychosocial underpinnings of reference production across retirement.
 
-* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (revisions under review). Solving crime in the second language. A virtual reality study on eyewitness testimony among young-adult and midlife learners of German in Switzerland.
-
 * <u>Wirtz, M. A.</u>, Rossmanith, A., Zbinden, L., & Pfenninger, S. E. (under review). Intensifier variation among later-life second language learners: A longitudinal micro-development study. In A. Gudmestad & D. Grammon (eds.), *Problematizing native-speaker targets in the study of sociolinguistic competence*.
 
 * Pfenninger, S. E., <u>Wirtz, M. A.</u>, Zbinden, L., & Rossmanith, A. (revisions under review). How variable is the Bilingual Advantage? *Language Learning*. 
@@ -39,7 +37,9 @@ This page houses my list of publications and is always up to date. Published wor
 
 > ## 2026 / Accepted
 
-* <u>Wirtz, M. A.</u> (2026). *Soziolinguistische Variation über die Lebensspanne in Erst- und Zweitsprache. Zum Einfluss von wesentlichen Lebensereignissen und psycho-sozialen Faktoren*. Kumulative Habilitationsschrift, bestehend aus 12 Aufsätzen (488 Seiten, inklusive 52 Seiten Manteltext).
+* <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (accepted). Solving crime in the second language. A virtual reality study on eyewitness testimony among young-adult and midlife learners of German in Switzerland. *Bilingualism: Language and Cognition*.
+
+* <u>Wirtz, M. A.</u> (2026). *Soziolinguistische Variation über die Lebensspanne in Erst- und Zweitsprache. Zum Einfluss von wesentlichen Lebensereignissen und psycho-sozialen Faktoren*. Cumulative habilitation thesis consisting of 12 articles (488 pages, incl. 52 pages of introductory material, i.e., *Manteltext*).
 
 * <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (accepted). A methodological roadmap of future research agendas for variationist SLA. In M. Howard (ed.), *Sociolinguistic variation in an additional language: Contemporary directions in crosslinguistic perspective*. De Gruyter. 
 
