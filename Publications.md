@@ -27,8 +27,6 @@ This page houses my list of publications and is always up to date. Published wor
 
 * <u>Wirtz, M. A.</u>, Rossmanith, A., Zbinden, L., & Pfenninger, S. E. (revisions under review). Capturing (a)synchrony and cause-and-effect relationships in the L2 proficiency–chunking association in later-life language learning.
 
-* <u>Wirtz, M. A.</u>, Rossmanith, A., Zbinden, L., & Pfenninger, S. E. (revisions under review). A three-pronged approach to pinpointing a threshold: Using intensive longitudinal methods to identify continuity vs. cut-off points in L2 development across retirement age. *Language Learning*. 
-
 * Pfenninger, S. E., <u>Wirtz, M. A.</u>, & Steiner, L. (revisions under review). Capturing moment-to-moment fluctuations with Vinvara: A software replication. *Research Methods in Applied Linguistics*.
 
 * <u>Wirtz, M. A.</u> (under review). Datenvisualisierung als mehrsprachiges Vermittlungsinstrument. In F. Gmainer-Pranzl & A. Ender (Eds.), *Mehrsprachigkeit als Prinzip wissenschaftlichen Arbeitens*.
@@ -36,6 +34,8 @@ This page houses my list of publications and is always up to date. Published wor
 <br>
 
 > ## 2026 / Accepted
+
+* <u>Wirtz, M. A.</u>, Rossmanith, A., Zbinden, L., & Pfenninger, S. E. (accepted). A three-pronged approach to pinpointing a threshold: Using intensive longitudinal methods to identify continuity vs. cut-off points in L2 development across retirement age. *Language Learning*. 
 
 * <u>Wirtz, M. A.</u>, & Pfenninger, S. E. (accepted). Solving crime in the second language. A virtual reality study on eyewitness testimony among young-adult and midlife learners of German in Switzerland. *Bilingualism: Language and Cognition*.
 
